@@ -31,3 +31,18 @@ Yang Luo*, Zihan Wang*, Jiyu Wang, Xiao Xiao, Qian Li, **Wenbo Ding**, Hongyan F
 STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot<br />
 Zihan Wang#, Kai-Chong Lei#, Huaze Tang, Shoujie Li, Yuan Dai, **Wenbo Ding\***, Xiao-Ping Zhang. The International Conference on Robotics and Automation (ICRA) 2023, London, UK.<br />
 [[doi]](https://doi.org/10.1109/ICRA48891.2023.10160790) [[pdf]](https://zh-wang.top/papers/STEV.pdf)<br />
+
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vs-teng.gif" alt="...">
+A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring <br />
+Hongfa Zhao*, Mingrui Shu*, Zihao Ai*, Zirui Lou, Kit Wa Sou, Chengyue Lu, Yuchao Jin, Zihan Wang, Jiyu Wang, Changsheng Wu, Yidan Cao, Xiaomin Xu, **Wenbo Ding**. Advanced Energy Materials, 2022. <br />
+[doi]( https://doi.org/10.1002/aenm.202201132)<br />
+
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/underwater.gif" alt="...">
+Underwater wireless communication via TENG-generated Maxwell’s displacement current <br />
+Hongfa Zhao*, Minyi Xu**, Mingrui Shu*, **Wenbo Ding**, Xiangyu Liu, Siyuang Wang, Cong Zhao, Hongyong Yu, Hao Wang, Chuan Wang, Xianping Fu, Xinxiang Pan, Guangming Xie, Zhong Lin Wang, Nature Communications, 2022. <br />
+[doi](https://doi.org/10.1038/s41467-022-31042-8) <br />
+
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/EM-finger.gif" alt="...">
+A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing <br />
+S. Mu*, S. Li*, H. Zhao*, Z. Wang, X. Xiao, Z. Lin, Z. Song, H. Tang, Q. Xu, D. Wang, W. Lee**, C. Wu**, W. Ding**.  Nano Energy, vol. 116, 108790, 2023. <br />
+[[doi]](https://doi.org/10.1016/j.nanoen.2023.108790) [[pdf]](https://charon-bo.github.io/assets/PDF/NanoEnergy-EM-Finger.pdf)<br />
