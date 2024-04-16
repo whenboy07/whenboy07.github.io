@@ -29,7 +29,7 @@ Yang Luo*, Zihan Wang*, Jiyu Wang, Xiao Xiao, Qian Li, **Wenbo Ding**, Hongyan F
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/STEV.gif" alt="...">
 STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot<br />
-Zihan Wang#, Kai-Chong Lei#, Huaze Tang, Shoujie Li, Yuan Dai, **Wenbo Ding\***, Xiao-Ping Zhang. The International Conference on Robotics and Automation (ICRA) 2023, London, UK.<br />
+Zihan Wang*, Kai-Chong Lei*, Huaze Tang, Shoujie Li, Yuan Dai, **Wenbo Ding\***, Xiao-Ping Zhang. The International Conference on Robotics and Automation (ICRA) 2023, London, UK.<br />
 [[doi]](https://doi.org/10.1109/ICRA48891.2023.10160790) [[pdf]](https://zh-wang.top/papers/STEV.pdf)<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vs-teng.gif" alt="...">
@@ -39,7 +39,7 @@ Hongfa Zhao*, Mingrui Shu*, Zihao Ai*, Zirui Lou, Kit Wa Sou, Chengyue Lu, Yucha
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/underwater.gif" alt="...">
 Underwater wireless communication via TENG-generated Maxwell’s displacement current <br />
-Hongfa Zhao*, Minyi Xu**, Mingrui Shu*, **Wenbo Ding**, Xiangyu Liu, Siyuang Wang, Cong Zhao, Hongyong Yu, Hao Wang, Chuan Wang, Xianping Fu, Xinxiang Pan, Guangming Xie, Zhong Lin Wang, Nature Communications, 2022. <br />
+Hongfa Zhao*, Minyi Xu*, Mingrui Shu*, **Wenbo Ding**, Xiangyu Liu, Siyuang Wang, Cong Zhao, Hongyong Yu, Hao Wang, Chuan Wang, Xianping Fu, Xinxiang Pan, Guangming Xie, Zhong Lin Wang, Nature Communications, 2022. <br />
 [doi](https://doi.org/10.1038/s41467-022-31042-8) <br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/EM-finger.gif" alt="...">
