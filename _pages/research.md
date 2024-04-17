@@ -35,12 +35,12 @@ Zihan Wang*, Kai-Chong Lei*, Huaze Tang, Shoujie Li, Yuan Dai, **Wenbo Ding\***,
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vs-teng.gif" alt="...">
 A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring <br />
 Hongfa Zhao*, Mingrui Shu*, Zihao Ai*, Zirui Lou, Kit Wa Sou, Chengyue Lu, Yuchao Jin, Zihan Wang, Jiyu Wang, Changsheng Wu, Yidan Cao, Xiaomin Xu, **Wenbo Ding**. Advanced Energy Materials, 2022. <br />
-[doi]( https://doi.org/10.1002/aenm.202201132)<br />
+[[doi]]( https://doi.org/10.1002/aenm.202201132)<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/underwater.gif" alt="...">
 Underwater wireless communication via TENG-generated Maxwell’s displacement current <br />
 Hongfa Zhao*, Minyi Xu*, Mingrui Shu*, **Wenbo Ding**, Xiangyu Liu, Siyuang Wang, Cong Zhao, Hongyong Yu, Hao Wang, Chuan Wang, Xianping Fu, Xinxiang Pan, Guangming Xie, Zhong Lin Wang, Nature Communications, 2022. <br />
-[doi](https://doi.org/10.1038/s41467-022-31042-8) <br />
+[[doi]](https://doi.org/10.1038/s41467-022-31042-8) <br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/EM-finger.gif" alt="...">
 A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing <br />
