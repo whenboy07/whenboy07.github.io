@@ -44,5 +44,5 @@ Hongfa Zhao*, Minyi Xu*, Mingrui Shu*, **Wenbo Ding**, Xiangyu Liu, Siyuang Wang
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/EM-finger.gif" alt="...">
 A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing <br />
-S. Mu*, S. Li*, H. Zhao*, Z. Wang, X. Xiao, Z. Lin, Z. Song, H. Tang, Q. Xu, D. Wang, W. Lee**, C. Wu**, W. Ding**.  Nano Energy, vol. 116, 108790, 2023. <br />
+S. Mu*, S. Li*, H. Zhao*, Z. Wang, X. Xiao, Z. Lin, Z. Song, H. Tang, Q. Xu, D. Wang, W. Lee, C. Wu, **W. Ding**.  Nano Energy, vol. 116, 108790, 2023. <br />
 [[doi]](https://doi.org/10.1016/j.nanoen.2023.108790) [[pdf]](https://charon-bo.github.io/assets/PDF/NanoEnergy-EM-Finger.pdf)<br />
