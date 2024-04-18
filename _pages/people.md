@@ -11,7 +11,7 @@ toc: true
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Yuzhu Mao</a><br>
+            Yuzhu Mao<br>
             2023 -<br>
         </div>  
     </div>
@@ -32,37 +32,37 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZiwuSong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Ziwu Song</a><br>
+            Ziwu Song<br>
             2020 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/wangchao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Chao Wang</a><br>
+            Chao Wang<br>
             2020 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XiaosaLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Xiaosa Li</a><br>
+            Xiaosa Li<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HongfaZhao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Hongfa Zhao</a><br>
+            Hongfa Zhao<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Kit-Wa.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Kit-Wa Sou</a><br>
+            Kit-Wa Sou<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HuazeTang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Huaze Tang</a><br>
+            Huaze Tang<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/qinghao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Qinghao Xu</a><br>
+            Qinghao Xu<br>
             2022 -<br>
         </div>
         <div class="memberimg">
@@ -72,27 +72,27 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChenxinLiang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Chenxin Liang</a><br>
+            Chenxin Liang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/TongWu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Tong Wu</a><br>
+            Tong Wu<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/lsj.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Shoujie Li</a><br>
+            Shoujie Li<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/JiayiChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Jiayi Chen</a><br>
+            Jiayi Chen<br>
             2024 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChihanXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Chihan Xu</a><br>
+            Chihan Xu<br>
             2024 -<br>
         </div>
     </div>
@@ -124,72 +124,72 @@ toc: true
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZenanLin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zenan Lin</a><br>
+            Zenan Lin<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZihaoZhao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zihao Zhao</a><br>
+            Zihao Zhao<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZiyiZhao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Ziyi Zhao</a><br>
+            Ziyi Zhao<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuxuanLiu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Yuxuan Liu</a><br>
+            Yuxuan Liu<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Meilin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Meilin Yang</a><br>
+            Meilin Yang<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/zihaoai.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zihao Ai</a><br>
+            Zihao Ai<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Eric_Lei_Kaichong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Eric Kai-Chong Lei</a><br>
+            Eric Kai-Chong Lei<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Chenchang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Chenchang Li</a><br>
+            Chenchang Li<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Zhentan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zhentan Quan</a><br>
+            Zhentan Quan<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/yuanquanHu.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Yuanquan Hu</a><br>
+            Yuanquan Hu<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/TingDong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Ting Dong</a><br>
+            Ting Dong<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/JunjiYan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Junji Yan</a><br>
+            Junji Yan<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/zixuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zixuan Xie</a><br>
+            Zixuan Xie<br>
             2021 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zhancong Xu</a><br>
+            Zhancong Xu<br>
             2022 -<br>
         </div>
         <div class="memberimg">
@@ -199,97 +199,97 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZehaoLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zehao Li</a><br>
+            Zehao Li<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangshuoGe.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Changshuo Ge</a><br>
+            Changshuo Ge<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/siqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Siqi Ping</a><br>
+            Siqi Ping<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/runze.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Runze Zhao</a><br>
+            Runze Zhao<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Shuting.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Shuting Zhang</a><br>
+            Shuting Zhang<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/zhenpeng.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zhenpeng Shi</a><br>
+            Zhenpeng Shi<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Henry.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Wang Sing (Henry) Chan</a><br>
+            Wang Sing (Henry) Chan<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/jiaqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Jiaqi Li</a><br>
+            Jiaqi Li<br>
             2022 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XinyueChai.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Xinyue Chai</a><br>
+            Xinyue Chai<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/RuizeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Ruize Zhang</a><br>
+            Ruize Zhang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangxuWei.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Changxu Wei</a><br>
+            Changxu Wei<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XuanZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Xuan Zhang</a><br>
+            Xuan Zhang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/RanYu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Ran Yu</a><br>
+            Ran Yu<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XintingYang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Xinting Yang</a><br>
+            Xinting Yang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/LiguangRuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Liguang Ruan</a><br>
+            Liguang Ruan<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/EnzeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Enze Zhang</a><br>
+            Enze Zhang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YixianZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Yixian Zhang</a><br>
+            Yixian Zhang<br>
             2024 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YanHuang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Yan Huang</a><br>
+            Yan Huang<br>
             2024 -<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangqingGuo.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Changqing Guo</a><br>
+            Changqing Guo<br>
             2024 -<br>
         </div>
     </div>
@@ -353,15 +353,15 @@ toc: true
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZimoWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Zimo Wang</a><br>
+            Zimo Wang<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YangtaoChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Yangtao Chen</a><br>
+            Yangtao Chen<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/PavelKharitenko.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="">Pavel Kharitenko</a><br>
+            Pavel Kharitenko<br>
         </div>
     </div>
     <br>
