@@ -77,7 +77,7 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/TongWu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Tong Wu<br>
+            <a href="https://tongwu19.github.io/">Tong Wu</a><br>
             2023 -<br>
         </div>
         <div class="memberimg">
