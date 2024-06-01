@@ -25,32 +25,6 @@ toc: true
     <br>
     <h3>PhD Students</h3>
     <div class="card" >
-        <script>
-            document.addEventListener('DOMContentLoaded', (event) => {
-                const memberImages = document.querySelectorAll('.img-circle');
-                memberImages.forEach(memberImage => {
-                    const memberImgDiv = memberImage.closest('.memberimg');
-                    const memberLink = memberImgDiv.querySelector('a');
-                    const memberYear = memberImgDiv.querySelector('span');
-                    const originalImageSrc = memberImage.src;
-                    const originalLinkText = memberLink.textContent;
-                    const originalYearText = memberYear.textContent;
-                    const hoverImageSrc = memberImgDiv.getAttribute('data-hover-img');
-                    const hoverLinkText = memberImgDiv.getAttribute('data-hover-name');
-                    const hoverYearText = memberImgDiv.getAttribute('data-hover-year');
-                    memberImage.addEventListener('mouseover', () => {
-                        memberImage.src = hoverImageSrc;
-                        memberLink.textContent = hoverLinkText;
-                        memberYear.textContent = hoverYearText;
-                    });
-                    memberImage.addEventListener('mouseout', () => {
-                        memberImage.src = originalImageSrc;
-                        memberLink.textContent = originalLinkText;
-                        memberYear.textContent = originalYearText;
-                    });
-                });
-            });
-        </script>
         <div class="memberimg" data-hover-img="../images/Member/ZiwuSong.jpg" data-hover-name="Ziwu Song" data-hover-year="2020 -">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <a href="http://zh-wang.top">Zihan Wang</a><br>
@@ -121,6 +95,32 @@ toc: true
             Chihan Xu<br>
             2024 -<br>
         </div>
+        <script>
+            document.addEventListener('DOMContentLoaded', (event) => {
+                const memberImages = document.querySelectorAll('.img-circle');
+                memberImages.forEach(memberImage => {
+                    const memberImgDiv = memberImage.closest('.memberimg');
+                    const memberLink = memberImgDiv.querySelector('a');
+                    const memberYear = memberImgDiv.querySelector('span');
+                    const originalImageSrc = memberImage.src;
+                    const originalLinkText = memberLink.textContent;
+                    const originalYearText = memberYear.textContent;
+                    const hoverImageSrc = memberImgDiv.getAttribute('data-hover-img');
+                    const hoverLinkText = memberImgDiv.getAttribute('data-hover-name');
+                    const hoverYearText = memberImgDiv.getAttribute('data-hover-year');
+                    memberImage.addEventListener('mouseover', () => {
+                        memberImage.src = hoverImageSrc;
+                        memberLink.textContent = hoverLinkText;
+                        memberYear.textContent = hoverYearText;
+                    });
+                    memberImage.addEventListener('mouseout', () => {
+                        memberImage.src = originalImageSrc;
+                        memberLink.textContent = originalLinkText;
+                        memberYear.textContent = originalYearText;
+                    });
+                });
+            });
+        </script>
     </div>
     <br>
     <br>
