@@ -72,6 +72,31 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
+    <script>
+      document.addEventListener('DOMContentLoaded', (event) => {
+          const memberImages = document.querySelectorAll('.img-circle');
+          memberImages.forEach(memberImage => {
+              const memberImgDiv = memberImage.closest('.memberimg');
+              const memberLink = memberImgDiv.querySelector('a');
+              const memberYear = memberImgDiv.querySelector('span');
+              const originalImageSrc = memberImage.src;
+              const originalLinkText = memberLink.textContent;
+              const originalYearText = memberYear.textContent;
+              const hoverImageSrc = memberImgDiv.getAttribute('data-hover-img');
+              const hoverLinkText = memberImgDiv.getAttribute('data-hover-name');
+              const hoverYearText = memberImgDiv.getAttribute('data-hover-year');
+              memberImage.addEventListener('mouseover', () => {
+                  memberImage.src = hoverImageSrc;
+                  memberLink.textContent = hoverLinkText;
+                  memberYear.textContent = hoverYearText;
+              });
+              memberImage.addEventListener('mouseout', () => {
+                  memberImage.src = originalImageSrc;
+                  memberLink.textContent = originalLinkText;
+                  memberYear.textContent = originalYearText;
+              });
+          });
+      });
+  </script>
   </body>
 </html>
