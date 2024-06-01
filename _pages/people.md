@@ -15,6 +15,29 @@ toc: true
             2023 -<br>
         </div>  
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const memberImage = document.getElementById('memberImage');
+            const memberLink = document.getElementById('memberLink');
+            const memberYear = document.getElementById('memberYear');
+            const originalImageSrc = memberImage.src;
+            const originalLinkText = memberLink.textContent;
+            const originalYearText = memberYear.textContent;
+            const hoverImageSrc = '../images/Member/NewImage.jpg'; // Replace with the new image URL
+            const hoverLinkText = 'New Name'; // Replace with the new name
+            const hoverYearText = '2020 -'; // Replace with the new year range
+            memberImage.addEventListener('mouseover', () => {
+                memberImage.src = hoverImageSrc;
+                memberLink.textContent = hoverLinkText;
+                memberYear.textContent = hoverYearText;
+            });
+            memberImage.addEventListener('mouseout', () => {
+                memberImage.src = originalImageSrc;
+                memberLink.textContent = originalLinkText;
+                memberYear.textContent = originalYearText;
+            });
+        });
+    </script>
     <br>
     <br>
     <br>
