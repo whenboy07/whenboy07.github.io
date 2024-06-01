@@ -15,29 +15,6 @@ toc: true
             2023 -<br>
         </div>  
     </div>
-    <script>
-        document.addEventListener('DOMContentLoaded', (event) => {
-            const memberImage = document.getElementById('memberImage');
-            const memberLink = document.getElementById('memberLink');
-            const memberYear = document.getElementById('memberYear');
-            const originalImageSrc = memberImage.src;
-            const originalLinkText = memberLink.textContent;
-            const originalYearText = memberYear.textContent;
-            const hoverImageSrc = '../images/Member/NewImage.jpg'; // Replace with the new image URL
-            const hoverLinkText = 'New Name'; // Replace with the new name
-            const hoverYearText = '2020 -'; // Replace with the new year range
-            memberImage.addEventListener('mouseover', () => {
-                memberImage.src = hoverImageSrc;
-                memberLink.textContent = hoverLinkText;
-                memberYear.textContent = hoverYearText;
-            });
-            memberImage.addEventListener('mouseout', () => {
-                memberImage.src = originalImageSrc;
-                memberLink.textContent = originalLinkText;
-                memberYear.textContent = originalYearText;
-            });
-        });
-    </script>
     <br>
     <br>
     <br>
@@ -48,7 +25,7 @@ toc: true
     <br>
     <h3>PhD Students</h3>
     <div class="card" >
-        <div class="memberimg">
+        <div class="memberimg" data-hover-img="../images/Member/ZiwuSong.jpg" data-hover-name="Ziwu Song" data-hover-year="2020 -">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <a href="http://zh-wang.top">Zihan Wang</a><br>
             2019 -<br>
@@ -412,4 +389,38 @@ toc: true
     - Xin Xia, Visiting Student (2021), now Research Assistant Professor at HKUST.<br>
     - Guoqiang Xu, Visiting Student (2021), now Post-Doctoral Fellow at CityU of HK.<br>
     - Jingjing Fu, Visiting Student (2021), now Post-Doctoral Fellow at PolyU of HK.<br>
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const memberImages = document.querySelectorAll('.memberimg');
+            memberImages.forEach(memberImg => {
+                const memberImage = memberImg.querySelector('.img-circle');
+                const memberLink = memberImg.querySelector('a');
+                const memberYear = memberImg.querySelector('span');
+                const originalImageSrc = memberImage.src;
+                const originalLinkText = memberLink.textContent;
+                const originalYearText = memberYear ? memberYear.textContent : memberImg.lastChild.textContent;
+                const hoverImageSrc = memberImg.getAttribute('data-hover-img');
+                const hoverLinkText = memberImg.getAttribute('data-hover-name');
+                const hoverYearText = memberImg.getAttribute('data-hover-year');
+                memberImage.addEventListener('mouseover', () => {
+                    memberImage.src = hoverImageSrc;
+                    memberLink.textContent = hoverLinkText;
+                    if (memberYear) {
+                        memberYear.textContent = hoverYearText;
+                    } else {
+                        memberImg.lastChild.textContent = hoverYearText;
+                    }
+                });
+                memberImage.addEventListener('mouseout', () => {
+                    memberImage.src = originalImageSrc;
+                    memberLink.textContent = originalLinkText;
+                    if (memberYear) {
+                        memberYear.textContent = originalYearText;
+                    } else {
+                        memberImg.lastChild.textContent = originalYearText;
+                    }
+                });
+            });
+        });
+    </script>
 </div>
