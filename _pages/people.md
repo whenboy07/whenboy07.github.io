@@ -28,7 +28,7 @@ toc: true
         <div class="memberimg" data-hover-img="../images/Member/ZiwuSong.jpg" data-hover-name="Ziwu Song" data-hover-year="2020 -">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <a href="http://zh-wang.top">Zihan Wang</a><br>
-            2019 -<br>
+            <span>2019 -</span><br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZiwuSong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
