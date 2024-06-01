@@ -27,34 +27,26 @@ toc: true
     <div class="card" >
         <script>
             document.addEventListener('DOMContentLoaded', (event) => {
-                const memberImages = document.querySelectorAll('.memberimg');
-                memberImages.forEach(memberImg => {
-                    const memberImage = memberImg.querySelector('.img-circle');
-                    const memberLink = memberImg.querySelector('a');
-                    const memberYear = memberImg.querySelector('span');
+                const memberImages = document.querySelectorAll('.img-circle');
+                memberImages.forEach(memberImage => {
+                    const memberImgDiv = memberImage.closest('.memberimg');
+                    const memberLink = memberImgDiv.querySelector('a');
+                    const memberYear = memberImgDiv.querySelector('span');
                     const originalImageSrc = memberImage.src;
                     const originalLinkText = memberLink.textContent;
-                    const originalYearText = memberYear ? memberYear.textContent : memberImg.lastChild.textContent;
-                    const hoverImageSrc = memberImg.getAttribute('data-hover-img');
-                    const hoverLinkText = memberImg.getAttribute('data-hover-name');
-                    const hoverYearText = memberImg.getAttribute('data-hover-year');
+                    const originalYearText = memberYear.textContent;
+                    const hoverImageSrc = memberImgDiv.getAttribute('data-hover-img');
+                    const hoverLinkText = memberImgDiv.getAttribute('data-hover-name');
+                    const hoverYearText = memberImgDiv.getAttribute('data-hover-year');
                     memberImage.addEventListener('mouseover', () => {
                         memberImage.src = hoverImageSrc;
                         memberLink.textContent = hoverLinkText;
-                        if (memberYear) {
-                            memberYear.textContent = hoverYearText;
-                        } else {
-                            memberImg.lastChild.textContent = hoverYearText;
-                        }
+                        memberYear.textContent = hoverYearText;
                     });
                     memberImage.addEventListener('mouseout', () => {
                         memberImage.src = originalImageSrc;
                         memberLink.textContent = originalLinkText;
-                        if (memberYear) {
-                            memberYear.textContent = originalYearText;
-                        } else {
-                            memberImg.lastChild.textContent = originalYearText;
-                        }
+                        memberYear.textContent = originalYearText;
                     });
                 });
             });
