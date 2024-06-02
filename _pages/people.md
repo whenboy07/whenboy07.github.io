@@ -12,7 +12,7 @@ toc: true
         <div class="memberimg" 
              data-hover-img="../images/Member/YuzhuMao.jpg" 
              data-hover-research-interests="Federated Learning" 
-             data-hover-email="myz20 AT mails.tsinghua.edu.cn">
+             data-hover-email="myz20@mails.tsinghua.edu.cn">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             <span class="member-name">Yuzhu Mao</span><br>
@@ -31,8 +31,8 @@ toc: true
     <div class="card" >
         <div class="memberimg" 
             data-hover-img="../images/Member/ZihanWang.jpg" 
-            data-hover-research-interests="Flexible Sensors, Flexible Actuators, and Soft Robotics" 
-            data-hover-email="wangzh19 AT mails.tsinghua.edu.cn">
+            data-hover-research-interests="Soft Robotics" 
+            data-hover-email="wangzh19@mails.tsinghua.edu.cn">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             <span class="member-name">Zihan Wang</span><br>
