@@ -29,11 +29,15 @@ toc: true
     <br>
     <h3>PhD Students</h3>
     <div class="card" >
-        <div class="memberimg" data-hover-img="../images/Member/ZiwuSong.jpg" data-hover-name="Ziwu Song" data-hover-year="2020 -">
-            <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="http://zh-wang.top">Zihan Wang</a><br>
-            <span>2019 -</span><br>
-        </div>
+        <div class="memberimg" 
+            data-hover-img="../images/Member/ZihanWang.jpg" 
+            data-hover-research-interests="Flexible Sensors, Flexible Actuators, and Soft Robotics" 
+            data-hover-email="wangzh19 AT mails.tsinghua.edu.cn">
+            <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain">
+            <br>
+            <span class="member-name">Zihan Wang</span><br>
+            <span class="member-year">2019 -</span>
+        </div> 
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZiwuSong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Ziwu Song<br>
