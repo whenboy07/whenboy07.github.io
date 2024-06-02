@@ -29,7 +29,7 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
-            <span class="member-name">Zihan Wang</span><br>
+            <span class="member-name" href='http://zh-wang.top'>Zihan Wang</span><br>
             <span class="member-year">2019 -</span>
         </div> 
         <div class="memberimg">
