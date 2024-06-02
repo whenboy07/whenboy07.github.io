@@ -12,7 +12,7 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
-            <span class="member-name">Yuzhu Mao</span><br>
+            Yuzhu Mao</span><br>
             <span class="member-year">2023 -</span>
         </div> 
     </div>
@@ -29,7 +29,7 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
-            <span class="member-name" href='http://zh-wang.top'>Zihan Wang</span><br>
+            <a href='http://zh-wang.top'>Zihan Wang</a><br>
             <span class="member-year">2019 -</span>
         </div> 
         <div class="memberimg">
