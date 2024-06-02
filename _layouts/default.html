@@ -86,13 +86,13 @@ layout: compress
               const originalYearText = memberYear.textContent;
     
               const hoverImageSrc = memberImgDiv.getAttribute('data-hover-img');
-              const hoverNameText = memberImgDiv.getAttribute('data-hover-name');
-              const hoverYearText = memberImgDiv.getAttribute('data-hover-year');
+              const hoverRIText = memberImgDiv.getAttribute('data-hover-reserach-interests');
+              const hoverEmailText = memberImgDiv.getAttribute('data-hover-email');
     
               memberImage.addEventListener('mouseover', () => {
                   memberImage.src = hoverImageSrc;
-                  memberName.textContent = hoverNameText;
-                  memberYear.textContent = hoverYearText;
+                  memberName.textContent = hoverRIText;
+                  memberYear.textContent = hoverEmailText;
               });
               memberImage.addEventListener('mouseout', () => {
                   memberImage.src = originalImageSrc;
