@@ -9,10 +9,7 @@ toc: true
 <div class="container">
     <h3>Research Assistants</h3>
     <div class="card" >
-        <div class="memberimg" 
-             data-hover-img="../images/Member/YuzhuMao.jpg" 
-             data-hover-research-interests="Federated Learning" 
-             data-hover-email="myz20@mails.tsinghua.edu.cn">
+        <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             <span class="member-name">Yuzhu Mao</span><br>
@@ -29,10 +26,7 @@ toc: true
     <br>
     <h3>PhD Students</h3>
     <div class="card" >
-        <div class="memberimg" 
-            data-hover-img="../images/Member/ZihanWang.jpg" 
-            data-hover-research-interests="Soft Robotics" 
-            data-hover-email="wangzh19@mails.tsinghua.edu.cn">
+        <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             <span class="member-name">Zihan Wang</span><br>
