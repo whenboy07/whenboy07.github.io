@@ -9,11 +9,15 @@ toc: true
 <div class="container">
     <h3>Research Assistants</h3>
     <div class="card" >
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Yuzhu Mao<br>
-            2023 -<br>
-        </div>  
+        <div class="memberimg" 
+             data-hover-img="../images/Member/ZiwuSong.jpg" 
+             data-hover-name="Hover Name" 
+             data-hover-year="Hover Year">
+            <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
+            <br>
+            <span class="member-name">Yuzhu Mao</span><br>
+            <span class="member-year">2023 -</span>
+        </div> 
     </div>
     <br>
     <br>
