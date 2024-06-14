@@ -25,6 +25,7 @@ Z. Song*, R. Yu*, X. Zhang, K. Sou, S. Mu, D. Peng, X. Zhang, **W. Ding**. The I
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/tactid.gif" alt="...">
 TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots<br />
 Ziwu Song∗, Chenchang Li∗, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang, IEEE Sensors journal.<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/BA-TENG.gif" alt="...">
 Triboelectric bending sensor based smart glove towards intuitive multi-dimensional human-machine interfaces<br />
