@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
+* [2024/06] Our work on tactile sensing of quadruped robot has been accepted by IEEE Sensors journal (IF: 4.3). Congrats to Ziwu and Chenchang!
 * [2024/05] I have been invited to deliver a seminar at IEEE Distinguished Webinar Series. See you this August on the air!
 * [2024/02] Our work on CS-TENG theory has been accepted by Energy & Environmental Science (IF: 32.5). Congrats to Hongfa!
 * [2024/01] Four papers got accepted by IEEE ICRA 2024. Congrats and See you in Japan!

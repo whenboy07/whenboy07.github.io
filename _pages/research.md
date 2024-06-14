@@ -22,6 +22,10 @@ SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of 
 Z. Song*, R. Yu*, X. Zhang, K. Sou, S. Mu, D. Peng, X. Zhang, **W. Ding**. The International Conference on Robotics and Automation (ICRA) 2024.<br />
 [[paper]](https://arxiv.org/abs/2402.00585)<br /> -->
 
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/tactid.gif" alt="...">
+TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots<br />
+Ziwu Song∗, Chenchang Li∗, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang, IEEE Sensors journal.<br />
+
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/BA-TENG.gif" alt="...">
 Triboelectric bending sensor based smart glove towards intuitive multi-dimensional human-machine interfaces<br />
 Yang Luo*, Zihan Wang*, Jiyu Wang, Xiao Xiao, Qian Li, **Wenbo Ding**, Hongyan Fu. Nano Energy, vol. 89, 106330, 2021. (Front Cover)<br />
@@ -39,7 +43,7 @@ Hongfa Zhao*, Mingrui Shu*, Zihao Ai*, Zirui Lou, Kit Wa Sou, Chengyue Lu, Yucha
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/underwater.gif" alt="...">
 Underwater wireless communication via TENG-generated Maxwell’s displacement current <br />
-Hongfa Zhao*, Minyi Xu*, Mingrui Shu*, **Wenbo Ding**, Xiangyu Liu, Siyuang Wang, Cong Zhao, Hongyong Yu, Hao Wang, Chuan Wang, Xianping Fu, Xinxiang Pan, Guangming Xie, Zhong Lin Wang, Nature Communications, 2022. <br />
+Hongfa Zhao*, Minyi Xu*, Mingrui Shu*, **Wenbo Ding**, Xiangyu Liu, Siyuang Wang, Cong Zhao, Hongyong Yu, Hao Wang, Chuan Wang, Xianping Fu, Xinxiang Pan, Guangming Xie, Zhong Lin Wang. Nature Communications, 2022. <br />
 [[doi]](https://doi.org/10.1038/s41467-022-31042-8) <br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/EM-finger.gif" alt="...">
