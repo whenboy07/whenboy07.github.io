@@ -34,6 +34,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2024/06] Our review on visuotactile sensors has been accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP). Congrats to Shoujie!
 * [2024/06] Our work on tactile sensing of quadruped robot has been accepted by IEEE Sensors journal (IF: 4.3). Congrats to Ziwu and Chenchang!
 * [2024/05] I have been invited to deliver a seminar at IEEE Distinguished Webinar Series. See you this August on the air!
 * [2024/02] Our work on CS-TENG theory has been accepted by Energy & Environmental Science (IF: 32.5). Congrats to Hongfa!
