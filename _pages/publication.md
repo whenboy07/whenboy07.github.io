@@ -65,11 +65,14 @@ A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monito
 <br />
 
 # Preprint
-1. Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mũ, Wanxin Jin, Chenye Wu, **Wenbo Ding**, “TacTID: Terrain Identification and Pose Estimation for Legged Robot with a High-performance Visuo-Tactile Sensor,” submitted.
-2. Yuzhu Mao#, Zihao Zhao#, Meilin Yang, Le Liang, Yang Liu, **Wenbo Ding**, Tian Lan, Xiao-Ping Zhang. “SAFARI: Sparsity enabled Federated Learning with Limited and Unreliable Communications,” submitted.
-3. Zihao Zhao#, Yuzhu Mao#, Muhammad Zeeshan, Yang Liu#, Tian Lan, **Wenbo Ding**. “AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients,” submitted.
+1. Yuzhu Mao#, Zihao Zhao#, Meilin Yang, Le Liang, Yang Liu, **Wenbo Ding**, Tian Lan, Xiao-Ping Zhang. “SAFARI: Sparsity enabled Federated Learning with Limited and Unreliable Communications,” submitted.
+2. Zihao Zhao#, Yuzhu Mao#, Muhammad Zeeshan, Yang Liu#, Tian Lan, **Wenbo Ding**. “AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients,” submitted.
 
 # Selected Publications at TBSI
+## 2024
+1. [JSTSP] Shoujie Li, Zihan Wang, Changsheng Wu, Xiang Li, Shan Luo, Bin Fang, Fuchun Sun, Xiao-Ping Zhang, **Wenbo Ding**. "When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective," IEEE Journal of Selected Topics in Signal Processing (JSTSP), accepted.
+2. [IEEE SENS J] Ziwu Song∗, Chenchang Li∗, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang. "TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots," IEEE Sensors journal, accepted.
+
 ## 2023
 1. [IROS] Shoujie Li#, Mingshan He#, **Wenbo Ding**, Linqi Ye, Xueqian Wang, Junbo Tan, Jinqiu Yuan, Xiao-Ping Zhang. “Visuo-Tactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling,” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), accepted.
 2. [IROS] Huaze Tang#, Hengxi Zhang#, Zhenpeng Shi, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. “Autonomous Swarm Robot Coordination via Mean-Field Control Embedding Multi-Agent Reinforcement Learning,” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), accepted.
