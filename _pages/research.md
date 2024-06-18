@@ -34,7 +34,7 @@ Yang Luo*, Zihan Wang*, Jiyu Wang, Xiao Xiao, Qian Li, **Wenbo Ding**, Hongyan F
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/STEV.gif" alt="...">
 STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot<br />
-Zihan Wang*, Kai-Chong Lei*, Huaze Tang, Shoujie Li, Yuan Dai, **Wenbo Ding\***, Xiao-Ping Zhang. The International Conference on Robotics and Automation (ICRA) 2023, London, UK.<br />
+Zihan Wang*, Kai-Chong Lei*, Huaze Tang, Shoujie Li, Yuan Dai, **Wenbo Ding\***, Xiao-Ping Zhang. IEEE Sensors Journal & The International Conference on Robotics and Automation (ICRA) 2023, London, UK.<br />
 [[doi]](https://doi.org/10.1109/ICRA48891.2023.10160790) [[pdf]](https://zh-wang.top/papers/STEV.pdf)<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vs-teng.gif" alt="...">
