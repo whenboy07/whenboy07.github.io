@@ -71,7 +71,7 @@ A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monito
 # Selected Publications at TBSI
 ## 2024
 1. [JSTSP] Shoujie Li, Zihan Wang, Changsheng Wu, Xiang Li, Shan Luo, Bin Fang, Fuchun Sun, Xiao-Ping Zhang, **Wenbo Ding**. "When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective," IEEE Journal of Selected Topics in Signal Processing (JSTSP), accepted.
-2. [IEEE SENS J] Ziwu Song∗, Chenchang Li∗, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang. "TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots," IEEE Sensors Journal, accepted.
+2. [IEEE SENS J] Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang. "TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots," IEEE Sensors Journal, accepted.
 
 ## 2023
 1. [IROS] Shoujie Li#, Mingshan He#, **Wenbo Ding**, Linqi Ye, Xueqian Wang, Junbo Tan, Jinqiu Yuan, Xiao-Ping Zhang. “Visuo-Tactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling,” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), accepted.
