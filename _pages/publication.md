@@ -80,6 +80,8 @@ A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monito
 4. [IEEE Sensors Journal&ICRA] Zihan Wang#, Kai-Chong Lei#, Huaze Tang, Shoujie Li, Yuan Dai, **Wenbo Ding**, Xiao-Ping Zhang. “STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot,” IEEE International Conference on Robotics and Automation (ICRA 2023), accepted.
 5. [FI] Zihao Zhao, Yuzhu Mao, Yang Liu, Linqi Song, Ye Ouyang, Xinlei Chen, **Wenbo Ding**. “Towards Efficient Communications in Federated Learning: A Contemporary Survey,” Journal of the Franklin Institute, accepted.
 6. [IoTJ] Hengxi Zhang, Chengyue Lu, Huaze Tang, Xiaoli Wei, Ling Cheng, **Wenbo Ding**, Zhu Han. “Mean-Field Aided Multi-Agent Reinforcement Learning for Resource Allocation in Vehicular Networks,” IEEE Internet of Things Journal, vol. 10, no. 3, 2667-2679, 2023.
+7. [TMC] Zihao Zhao#, Yuzhu Mao#, Zhenpeng Shi, Yang Liu, Tian Lan, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Mobile Computing, vol. 23, no. 6, pp. 7363-7376, 2024. 
+8. [TMC] Yuzhu Mao#, Zihao Zhao#, Meilin Yang, Le Liang, Yang Liu, **Wenbo Ding**, Tian Lan, Xiao-Ping Zhang. IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 4819-4831, 2024.
 
 ## 2022
 1. [AEM] Shun Yong#, Hanqing Wang#, Zenan Lin#, Xiaosa Li, Boyu Zhu, Lijun Yang, **Wenbo Ding**, Ruijin Liao, Jiyu Wang*, Zhong Lin Wang*. “Environmental Self-Adaptive Wind Energy Harvesting Technology for Self-Powered System by Triboelectric-Electromagnetic Hybridized Nanogenerator with Dual-Channel Power Management Topology,” Advanced Energy Materials, accepted.
