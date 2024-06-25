@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
+* [2024/06] Our work on the Scalable Mean-Field MARL Framework for V2X resource allocation has been accepted by IEEE Transactions on Intelligent Vehicles (IF: 14.0). Congrats to Xuan and Hengxi!
 * [2024/06] Our review on visuotactile sensors has been accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP). Congrats to Shoujie!
 * [2024/06] Our work on tactile sensing of quadruped robot has been accepted by IEEE Sensors Journal (IF: 4.3). Congrats to Ziwu and Chenchang!
 * [2024/05] I have been invited to deliver a seminar at IEEE Distinguished Webinar Series. See you this August on the air!
