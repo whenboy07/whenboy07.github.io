@@ -64,9 +64,7 @@ A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monito
 <br />
 <br />
 
-# Preprint
-1. Yuzhu Mao#, Zihao Zhao#, Meilin Yang, Le Liang, Yang Liu, **Wenbo Ding**, Tian Lan, Xiao-Ping Zhang. “SAFARI: Sparsity enabled Federated Learning with Limited and Unreliable Communications,” submitted.
-2. Zihao Zhao#, Yuzhu Mao#, Muhammad Zeeshan, Yang Liu#, Tian Lan, **Wenbo Ding**. “AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients,” submitted.
+<!-- # Preprint -->
 
 # Selected Publications at TBSI
 ## 2024
