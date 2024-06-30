@@ -124,7 +124,7 @@ toc: true
     <br>
     <h3>Master Students</h3>
     <div class="card" >
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZenanLin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zenan Lin<br>
             2021 -<br>
@@ -188,7 +188,7 @@ toc: true
             <img class="img-circle" src="../images/Member/zixuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zixuan Xie<br>
             2021 -<br>
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zhancong Xu<br>
