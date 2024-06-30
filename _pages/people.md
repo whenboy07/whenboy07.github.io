@@ -360,6 +360,18 @@ toc: true
     <br>
     <h3>Alumni</h3>
     - Dr. Jiyu Wang, Post-Doctoral Fellow (2020-2023), now Associate Professor at HUST<br>
+    - Zenan Lin, MS Student (2024), now working on hardware product development at Huawei.<br>
+    - Zihao Zhao, MS Student (2024), now Ph.D. Student at Georgia Tech.<br>
+    - Ziyi Zhao, MS Student (2024), now at COSCO Shipping.<br>
+    - Meilin Yang, MS Student (2024), now at Meituan.<br>
+    - Zihao Ai, MS Student (2024), now at Bytedance.<br>
+    - Eric Kai-Chong Lei, MS Student (2024), now in the product innovation department at Shokz.<br>
+    - Chenchang Li, MS Student (2024), now Ph.D. Student at NUS.<br>
+    - Zhentan Quan, MS Student (2024), now Ph.D. Student at Tsinghua University.<br>
+    - Yuanquan Hu, MS Student (2024), now at Huawei.<br>
+    - TingDong, MS Student (2024), now at Menda Technology in Shanghai.<br>
+    - Junji Yan, MS Student (2024), now Ph.D. Student at UIUC.<br>
+    - Zixuan Xie, MS Student (2024).<br> 
     - Mattesini Riccardo, MS Student (2023)<br>
     - Hengxi Zhang, MS Student (2023)<br>
     - Jihong Yin, MS Student (2023)<br>
