@@ -26,11 +26,11 @@ toc: true
     <br>
     <h3>PhD Students</h3>
     <div class="card" >
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             <a href='http://zh-wang.top'>Zihan Wang</a><br>
-            2019 -<br>
+            2019 -<br> -->
         </div> 
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZiwuSong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
@@ -360,6 +360,7 @@ toc: true
     <br>
     <h3>Alumni</h3>
     - Dr. Jiyu Wang, Post-Doctoral Fellow (2020-2023), now Associate Professor at HUST<br>
+    - <a href='http://zh-wang.top'>Zihan Wang</a>, Ph.D. Student (2024), now Post-Doctoral Fellow at UCB<br>
     - Zenan Lin, MS Student (2024), now working on hardware product development at Huawei<br>
     - Zihao Zhao, MS Student (2024), now Ph.D. Student at Georgia Tech<br>
     - Ziyi Zhao, MS Student (2024), now at COSCO Shipping<br>
