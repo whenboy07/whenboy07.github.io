@@ -31,7 +31,7 @@ toc: true
             <br>
             <a href='http://zh-wang.top'>Zihan Wang</a><br>
             2019 -<br> -->
-        </div> 
+        <!-- </div>  -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZiwuSong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Ziwu Song<br>
