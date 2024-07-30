@@ -66,7 +66,7 @@ A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monito
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/covers&books/NanoEnergyCover2.png" alt="..."> <br /> 
 Nano Energy, Volume 127, Aug. 2024, p. 109746, Front Cover. <br />
-A hybrid wind and raindrop energy harvesting operating on Savonius turbine.
+A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 <br />
 <br />
@@ -78,7 +78,7 @@ A hybrid wind and raindrop energy harvesting operating on Savonius turbine.
 
 # Selected Publications at TBSI
 ## 2024
-1. [NanoEnergy] Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, Wenbo Ding*, Jiyu Wang*. "A hybrid wind and raindrop energy harvesting operating on Savonius turbine," Nano Energy, vol. 127, 1 Aug. 2024, p. 109746, (Front Cover), accepted.
+1. [NanoEnergy] Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, **Wenbo Ding\***, Jiyu Wang\*. "A hybrid wind and raindrop energy harvesting operating on Savonius turbine," Nano Energy, vol. 127, 1 Aug. 2024, p. 109746, (Front Cover), accepted.
 2. [IEEE TIV] Xuan Zhang#, Hengxi Zhang#, Huaze Tang, Le Liang, Ling Cheng, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. "A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation," IEEE Transactions on Intelligent Vehicles, accepted.
 3. [IEEE SENS J] Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang. "TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots," IEEE Sensors Journal, accepted.
 4. [JSTSP] Shoujie Li, Zihan Wang, Changsheng Wu, Xiang Li, Shan Luo, Bin Fang, Fuchun Sun, Xiao-Ping Zhang, **Wenbo Ding\***. "When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective," IEEE Journal of Selected Topics in Signal Processing (JSTSP), accepted.
