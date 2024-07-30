@@ -60,7 +60,7 @@ Please email me with a copy of your CV if you are interested.
 * [2023/03] Our review paper on TENG for IoT published in Intelligent and Converged Networks has won the 2023 excellent paper award. Congrats to Jiarong, Zihan and all our co-authors.
 * [2023/01] Our proposal for IEEE JSTSP special issue on robotics has been approved. Your support and attention are warmly welcomed. Link for more details.
 * [2023/01] Our work on soft robot self sensing has been accepted by IEEE ICRA. Congrats to Zihan and Eric!
-* [2022/12] I am promoted to Assosciate Professor. Thank you for all your support!
+<!-- * [2022/12] I am promoted to Assosciate Professor. Thank you for all your support!
 * [2022/11] Invited to join the IEEE SPS Applied Signal Processing Systems Technical Committee.
 * [2022/10] Zihan, Ziwu, Hongfa, Xiaosa, Shoujie, Hengxi, Zihao (Zhao), Meilin, Zihao (Ai), Yuzhu, Zenan, Huaze, Jihong, Eric, Zhentan have received the University-level scholarship and SIGS school-level scholarship. Congrats!
 * [2022/10] Our work on mean-field enabled multi-agent reinforcement learning for V2X has been accepted by IEEE IoTJ (IF: 9.471). Congrats to Hengxi!
@@ -85,7 +85,7 @@ Please email me with a copy of your CV if you are interested.
 * [2021/03] Invited to join the ACM SIGBED China Youth Committee.
 * [2021/03] Honnored to receive the National Early-Career Award.
 * [2020/10] Our proposal for DSP special issue has been approved. Your support and attention are warmly welcomed. Link for more details.
-* [2019/11] My Smart Sensing and Robotics (SSR) Group was established.
+* [2019/11] My Smart Sensing and Robotics (SSR) Group was established. -->
 
 Please visit [News](/news/) for all the news.
 
