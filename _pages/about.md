@@ -34,7 +34,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
-* [2024/06] Our work on a hybrid wind and raindrop energy harvesting operating on savonius turbine has been accepted by Nano Energy (lF: 16.8) as front cover. Congrats to Kit-Wa, Zenan
+* [2024/07] Our work on a hybrid wind and raindrop energy harvesting operating on savonius turbine has been accepted by Nano Energy (lF: 16.8) as front cover. Congrats to Kit-Wa, Zenan
 and Yuchao!
 * [2024/06] Our work on the Scalable Mean-Field MARL Framework for V2X resource allocation has been accepted by IEEE Transactions on Intelligent Vehicles (IF: 14.0). Congrats to Xuan and Hengxi!
 * [2024/06] Our review on visuotactile sensors has been accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP). Congrats to Shoujie!
