@@ -78,7 +78,7 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 # Selected Publications at TBSI
 ## 2024
-1. [TRO] Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye*,Xiao-Ping Zhang, **Wenbo Ding\***. 'M3Tac: A Multispectral Multimodal Visuotactile Sensor with Beyond-Human Sensory Capabilities'  IEEE Transactions on Robotics (T-RO), accepted.
+1. [TRO] Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,Xiao-Ping Zhang, **Wenbo Ding\***. 'M3Tac: A Multispectral Multimodal Visuotactile Sensor with Beyond-Human Sensory Capabilities'  IEEE Transactions on Robotics (T-RO), accepted.
 2. [NanoEnergy] Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, **Wenbo Ding\***, Jiyu Wang\*. "A hybrid wind and raindrop energy harvesting operating on Savonius turbine," Nano Energy, vol. 127, 1 Aug. 2024, p. 109746, (Front Cover), accepted.
 3. [IEEE TIV] Xuan Zhang#, Hengxi Zhang#, Huaze Tang, Le Liang, Ling Cheng, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. "A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation," IEEE Transactions on Intelligent Vehicles, accepted.
 4. [IEEE SENS J] Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang. "TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots," IEEE Sensors Journal, accepted.
