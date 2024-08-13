@@ -34,6 +34,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2024/08] Our work on Multispectral Multimodal Visuotactile Sensor has been accepted by IEEE Transactions on Robotics. Congrats to Shoujie!
 * [2024/07] Our work on a hybrid wind and raindrop energy harvesting operating on savonius turbine has been accepted by Nano Energy (lF: 16.8) as front cover. Congrats to Kit-Wa, Zenan
 and Yuchao!
 * [2024/06] Our work on the Scalable Mean-Field MARL Framework for V2X resource allocation has been accepted by IEEE Transactions on Intelligent Vehicles (IF: 14.0). Congrats to Xuan and Hengxi!
