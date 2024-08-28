@@ -109,6 +109,11 @@ toc: true
             Chihan Xu<br>
             2024 -<br>
         </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/JunhaoGong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            Junhao Gong<br>
+            2024 -<br>
+        </div>
     </div>
     <br>
     <br>
@@ -304,11 +309,6 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangqingGuo.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Changqing Guo<br>
-            2024 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/JunhaoGong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Junhao Gong<br>
             2024 -<br>
         </div>
         <div class="memberimg">
