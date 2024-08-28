@@ -7,13 +7,25 @@ toc: true
 ---
 
 <div class="container">
-    <h3>Research Assistants</h3>
+    <h3>Postdoc. & R.A.</h3>
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             Yuzhu Mao<br>
             2023 -<br>
+        </div> 
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/ChuqiaoLyu.jpg" style="height: 100%; width: 100%; object-fit: contain">
+            <br>
+            <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
+            2024 -<br>
+        </div> 
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HaoGuo.jpg" style="height: 100%; width: 100%; object-fit: contain">
+            <br>
+            Hao Guo<br>
+            2024 -<br>
         </div> 
     </div>
     <br>
@@ -292,6 +304,31 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangqingGuo.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Changqing Guo<br>
+            2024 -<br>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/JunhaoGong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            Junhao Gong<br>
+            2024 -<br>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HuijingLin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            Huijing Lin<br>
+            2024 -<br>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/TongchengFang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            Tongcheng Fang<br>
+            2024 -<br>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/YushanLiu.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <a href="https://scpsyl.github.io/">Yushan Liu</a><br>
+            2024 -<br>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/MingyangLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            Mingyang Li<br>
             2024 -<br>
         </div>
     </div>
