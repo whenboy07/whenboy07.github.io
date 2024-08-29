@@ -331,7 +331,17 @@ toc: true
             Mingyang Li<br>
             2024 -<br>
         </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/XintaoChao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            Xintao Chao<br>
+            2024 -<br>
+        </div>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <br>
     <br>
     <br>
