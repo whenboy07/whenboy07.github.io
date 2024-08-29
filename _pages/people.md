@@ -7,14 +7,8 @@ toc: true
 ---
 
 <div class="container">
-    <h3>Postdoc. & R.A.</h3>
+    <h3>Postdoc & RA</h3>
     <div class="card" >
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
-            <br>
-            Yuzhu Mao<br>
-            2023 -<br>
-        </div> 
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChuqiaoLyu.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
@@ -26,6 +20,12 @@ toc: true
             <br>
             Hao Guo<br>
             2024 -<br>
+        </div> 
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
+            <br>
+            Yuzhu Mao<br>
+            2023 -<br>
         </div> 
     </div>
     <br>
