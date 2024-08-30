@@ -7,7 +7,7 @@ toc: true
 ---
 
 <div class="container">
-    <h3>Postdoc & RA</h3>
+    <h3>Postdoc & R.A.</h3>
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChuqiaoLyu.jpg" style="height: 100%; width: 100%; object-fit: contain">
