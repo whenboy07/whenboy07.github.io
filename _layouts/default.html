@@ -41,12 +41,12 @@ layout: compress
         height: 215px;
       }
 
-      .img-circle {
+      .memberimg .img-circle {
         border-radius:  20%;
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
         transition: 0.3s;
       }
-      .img-circle:hover {
+      .memberimg:hover .img-circle {
         filter: brightness(0.9);
         transform: scale(1.05);
       }
@@ -88,7 +88,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-    <script>
+    <!-- <script>
       document.addEventListener('DOMContentLoaded', (event) => {
           const memberImages = document.querySelectorAll('.img-circle');
           memberImages.forEach(memberImage => {
@@ -116,6 +116,6 @@ layout: compress
               });
           });
       });
-    </script>
+    </script> -->
   </body>
 </html>
