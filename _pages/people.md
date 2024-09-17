@@ -12,7 +12,9 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChuqiaoLyu.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
-            <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
+            <div class="info1">
+                <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
+            </div>
             2024 -<br>
         </div> 
         <div class="memberimg">
