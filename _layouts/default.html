@@ -22,6 +22,21 @@ layout: compress
         left: 0;
         top: 0;
         text-align: center;
+        font-size:16px;
+        height: 215px;
+      }
+
+      .memberimg:hover {
+        float:left;
+        margin-left: 10px;
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 40px;
+        width: 18%;
+        /* position: absolute;*/
+        left: 0;
+        top: 0;
+        text-align: left;
         font-size:14px;
         height: 215px;
       }
@@ -73,7 +88,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-    <!-- <script>
+    <script>
       document.addEventListener('DOMContentLoaded', (event) => {
           const memberImages = document.querySelectorAll('.img-circle');
           memberImages.forEach(memberImage => {
@@ -86,8 +101,8 @@ layout: compress
               const originalYearText = memberYear.textContent;
     
               const hoverImageSrc = memberImgDiv.getAttribute('data-hover-img');
-              const hoverRIText = memberImgDiv.getAttribute('data-hover-research-interests');
-              const hoverEmailText = memberImgDiv.getAttribute('data-hover-email');
+              const hoverRIText = memberImgDiv.getAttribute('data-hover-RI');
+              const hoverBGText = memberImgDiv.getAttribute('data-hover-BG');
     
               memberImage.addEventListener('mouseover', () => {
                   memberImage.src = hoverImageSrc;
@@ -101,6 +116,6 @@ layout: compress
               });
           });
       });
-    </script> -->
+    </script>
   </body>
 </html>
