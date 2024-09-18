@@ -7,15 +7,18 @@ toc: true
 ---
 
 <div class="container">
-    <h3>Postdoc & R.A.</h3>
+    <h2>Postdoc & R.A.</h2>
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChuqiaoLyu.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             <div class="info1">
                 <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
+                2024 -<br>
             </div>
-            2024 -<br>
+            <div class="info2">
+                <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
+            </div>
         </div> 
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HaoGuo.jpg" style="height: 100%; width: 100%; object-fit: contain">
