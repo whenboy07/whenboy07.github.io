@@ -18,6 +18,8 @@ toc: true
             </div>
             <div class="info2">
                 <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
+                Dexterous Hands<br>
+                BEng(), MS(), PhD ()<br>
             </div>
         </div> 
         <div class="memberimg">
