@@ -102,19 +102,19 @@ layout: compress
     {% include scripts.html %}
     <script>
       document.addEventListener('DOMContentLoaded', (event) => {
-          const memberImages = document.querySelectorAll('.img-circle');
+          const memberImages = document.querySelectorAll('.memberimg');
           memberImages.forEach(memberImage => {
-              const memberImgDiv = memberImage.closest('.memberimg');
+              const memberImg = memberImage.closest('.img-circle');
               
-              const originalImageSrc = memberImage.src;
+              const originalImageSrc = memberImg.src;
     
-              const hoverImageSrc = memberImage.getAttribute('hover');
+              const hoverImageSrc = memberImg.getAttribute('hover');
 
               memberImage.addEventListener('mouseover', () => {
-                  memberImage.src = hoverImageSrc;
+                  memberImg.src = hoverImageSrc;
               });
               memberImage.addEventListener('mouseout', () => {
-                  memberImage.src = originalImageSrc;
+                  memberImg.src = originalImageSrc;
               });
           });
       });
