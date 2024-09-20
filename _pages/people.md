@@ -133,7 +133,7 @@ toc: true
             </div>
             <div class="info2">
                 Chihan Xu<br>
-                Adversarial Learning in Recognition System<br>
+                Adversarial Learning<br>
                 BEng(LZU)<br>
             </div>
         </div>
