@@ -114,12 +114,12 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HuazeTang.jpg" hover="../images/Member/HuazeTang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
-                Huaze Tang<br>
+                <a href="https://huazetang.github.io">Huaze Tang</a><br>
                 2021 -<br>
             </div>
             <div class="info2">
-                Huaze Tang<br>
-                RL Theory<br>
+                <a href="https://huazetang.github.io">Huaze Tang</a><br>
+                MARL<br>
                 BEng(SEU)<br>
             </div>
         </div>
@@ -131,7 +131,7 @@ toc: true
             </div>
             <div class="info2">
                 Qinghao Xu<br>
-                Flexible Electronics<br>
+                Wireless Bioelectronics<br>
                 BEng&MS(NJUPT)<br>
             </div>            
         </div>
@@ -143,7 +143,7 @@ toc: true
             </div>
             <div class="info2">
                 <a href="http://www.jiarongli.work">Jiarong Li</a><br>
-                Smart Sensor<br>
+                Ubiquitous Sensing<br>
                 BEng(UESTC), MS(THU)
             </div>
         </div>
@@ -283,7 +283,7 @@ toc: true
             </div>
             <div class="info2">
                 Changshuo Ge<br>
-                Ubiquitous Sensing<br>
+                HCI<br>
                 BEng(THU)<br>
             </div>
         </div>
@@ -360,14 +360,14 @@ toc: true
             </div>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/XinyueChai.jpg" hover="../images/Member/XinyueChai.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/XinyueChai.jpg" hover="../images/Member/XinyueChai_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Xinyue Chai<br>
                 2023 -<br>
             </div>
             <div class="info2">
                 Xinyue Chai<br>
-                Interactive Media<br>
+                HCI<br>
                 BEng(NUAA)<br>
             </div>
         </div>
@@ -410,13 +410,13 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/RanYu.jpg" hover="../images/Member/RanYu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
-                Ran Yu<br>
+                <a href="https://marcyu0303.github.io/">Ran Yu</a><br>
                 2023 -<br>
             </div>
             <div class="info2">
-                Ran Yu<br>
+                <a href="https://marcyu0303.github.io/">Ran Yu</a><br>
                 Embodied AI<br>
-                BEng(UESTC)
+                BEng(UESTC)<br>
             </div>
         </div>
         <div class="memberimg">
@@ -432,14 +432,14 @@ toc: true
             </div>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/LiguangRuan.jpg" hover="../images/Member/LiguangRuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/LiguangRuan.jpg" hover="../images/Member/LiguangRuan_moment.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
-                Liguang Ruan<br>
+                <a href="https://liguangruan.github.io/">Liguang Ruan</a><br>
                 2023 -<br>
             </div>
             <div class="info2">
-                Liguang Ruan<br>
-                Visible Light Sensing<br>
+                <a href="https://liguangruan.github.io/">Liguang Ruan</a><br>
+                HCI<br>
                 BEng(LZU)<br>
             </div>
         </div>
@@ -452,7 +452,7 @@ toc: true
             <div class="info2">
                 Enze Zhang<br>
                 MARL<br>
-                BEng(HIT)<br>
+                BS(HIT)<br>
             </div>
         </div>
         <div class="memberimg">
@@ -487,7 +487,7 @@ toc: true
             </div>
             <div class="info2">
                 Changqing Guo<br>
-                Robotics<br>
+                Tactile Sensing<br>
                 BEng(SCUT)<br>
             </div>
         </div>
@@ -521,7 +521,8 @@ toc: true
             </div>
             <div class="info2">
                 <a href="https://scpsyl.github.io/">Yushan Liu</a><br>
-                2024 -<br>
+                Embodied AI<br>
+                BS(JLU)<br>
             </div>
         </div>
         <div class="memberimg">
@@ -532,7 +533,8 @@ toc: true
             </div>
             <div class="info2">
                 Mingyang Li<br>
-                2024 -<br>
+                Embodied AI<br>
+                BEng(HUST)<br>
             </div>
         </div>
         <div class="memberimg">
@@ -649,8 +651,8 @@ toc: true
     - Jiarong Li, MS Student (2022), now Ph.D. Student at SSR group. (Excellent Graduate of THU)<br>
     - Chengyue Lu, Research Assistant (2020-2023), now MS Student at University of Macau.<br>
     - Xiao Xiao, Research Assistant (2021), now Ph.D. Student at NUS.<br>
-    - Yangtao Chen, Visiting Student (2024).
-    - Pavel Kharitenko, Visiting Student (2024).
+    - Yangtao Chen, Visiting Student (2024).<br>
+    - Pavel Kharitenko, Visiting Student (2024).<br>
     - Rameesh Lakshan, Visiting Student (2024), now Ph.D. Student at Loughborough University.<br>
     - Qi Zhang, Visiting Student (2023), now Ph.D. Student at NUS.<br>
     - Mingshna He, Visiting Student (2022), now MS Student at Seoul National University.<br>
