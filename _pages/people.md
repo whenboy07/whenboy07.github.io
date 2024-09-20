@@ -261,8 +261,15 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YixianZhang.jpg" hover="../images/Member/YixianZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Yixian Zhang<br>
-            2024 -<br>
+            <div class="info1">
+                Yixian Zhang<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Yixian Zhang<br>
+                Multi Agent Reinforcement Learning<br>
+                BEng()
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YanHuang.jpg" hover="../images/Member/YanHuang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
