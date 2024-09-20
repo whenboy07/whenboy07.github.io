@@ -28,12 +28,12 @@ toc: true
                 BEng(THU), PhD(USTC)<br>
             </div>
         </div> 
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" hover="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
             Yuzhu Mao<br>
             2023 -<br>
-        </div> 
+        </div>  -->
     </div>
     <br>
     <br>
@@ -475,7 +475,7 @@ toc: true
     - Jihong Yin, MS Student (2023).<br>
     - Xu Yang, MS Student (2023).<br>
     - Yuchao Jin, MS Student (2023).<br>
-    - Yuzhu Mao, MS Student (2023), now Research Assistant at SSR group.<br>
+    - Yuzhu Mao, MS Student (2023), Research Assistant (2023-2024).<br>
     - Jiarong Li, MS Student (2022), now Ph.D. Student at SSR group. (Excellent Graduate of THU)<br>
     - Chengyue Lu, Research Assistant (2020-2023), now MS Student at University of Macau.<br>
     - Xiao Xiao, Research Assistant (2021), now Ph.D. Student at NUS.<br>
