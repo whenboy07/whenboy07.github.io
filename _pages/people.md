@@ -241,93 +241,219 @@ toc: true
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZhancongXu.jpg" hover="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zhancong Xu<br>
-            2022 -<br>
+            <div class="info1">
+                Zhancong Xu<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Zhancong Xu<br>
+                Visible Light Sensing<br>
+                BEng(THU)
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ShilongMu.jpg" hover="../images/Member/ShilongMu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="https://charon-bo.github.io/">Shilong Mu</a><br>
-            2022 -<br>
+            <div class="info1">
+                <a href="https://charon-bo.github.io/">Shilong Mu</a><br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                <a href="https://charon-bo.github.io/">Shilong Mu</a><br>
+                Embodied AI<br>
+                BEng(CUMT)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZehaoLi.jpg" hover="../images/Member/ZehaoLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zehao Li<br>
-            2022 -<br>
+            <div class="info1">
+                Zehao Li<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Zehao Li<br>
+                Embodied AI<br>
+                BS(NKU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangshuoGe.jpg" hover="../images/Member/ChangshuoGe.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Changshuo Ge<br>
-            2022 -<br>
+            <div class="info1">
+                Changshuo Ge<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Changshuo Ge<br>
+                Ubiquitous Sensing<br>
+                BEng(THU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/siqi.jpg" hover="../images/Member/siqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Siqi Ping<br>
-            2022 -<br>
+            <div class="info1">
+                Siqi Ping<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Siqi Ping<br>
+                Federated Learning<br>
+                BS(JLU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/runze.jpg" hover="../images/Member/runze.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Runze Zhao<br>
-            2022 -<br>
+            <div class="info1">
+                Runze Zhao<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Runze Zhao<br>
+                Magnetic Actuation<br>
+                BS(XMU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Shuting.jpg" hover="../images/Member/Shuting.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Shuting Zhang<br>
-            2022 -<br>
+            <div class="info1">
+                Shuting Zhang<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Shuting Zhang<br>
+                Machine learning<br>
+                BEng(XDU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/zhenpeng.jpg" hover="../images/Member/zhenpeng.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zhenpeng Shi<br>
-            2022 -<br>
+            <div class="info1">
+                Zhenpeng Shi<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Zhenpeng Shi<br>
+                MARL<br>
+                BS(WHU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Henry.jpg" hover="../images/Member/Henry.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Wang Sing Chan<br>
-            2022 -<br>
+            <div class="info1">
+                Wang Sing Chan<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Wang Sing Chan<br>
+                Soft Robotics<br>
+                BEng(UW)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/jiaqi.jpg" hover="../images/Member/jiaqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Jiaqi Li<br>
-            2022 -<br>
+            <div class="info1">
+                Jiaqi Li<br>
+                2022 -<br>
+            </div>
+            <div class="info2">
+                Jiaqi Li<br>
+                Federated Learning<br>
+                BS(USTC)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XinyueChai.jpg" hover="../images/Member/XinyueChai.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Xinyue Chai<br>
-            2023 -<br>
+            <div class="info1">
+                Xinyue Chai<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Xinyue Chai<br>
+                Interactive Media<br>
+                BEng(NUAA)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/RuizeZhang.jpg" hover="../images/Member/RuizeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Ruize Zhang<br>
-            2023 -<br>
+            <div class="info1">
+                Ruize Zhang<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Ruize Zhang<br>
+                MARL<br>
+                BEng(THU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangxuWei.jpg" hover="../images/Member/ChangxuWei.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Changxu Wei<br>
-            2023 -<br>
+            <div class="info1">
+                Changxu Wei<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Changxu Wei<br>
+                MARL<br>
+                BEng(SEU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XuanZhang.jpg" hover="../images/Member/XuanZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Xuan Zhang<br>
-            2023 -<br>
+            <div class="info1">
+                Xuan Zhang<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Xuan Zhang<br>
+                MARL<br>
+                BEng(SYSU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/RanYu.jpg" hover="../images/Member/RanYu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Ran Yu<br>
-            2023 -<br>
+            <div class="info1">
+                Ran Yu<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Ran Yu<br>
+                Robot Learning<br>
+                BEng(UESTC)
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XintingYang.jpg" hover="../images/Member/XintingYang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Xinting Yang<br>
-            2023 -<br>
+            <div class="info1">
+                Xinting Yang<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Xinting Yang<br>
+                MARL<br>
+                BEng(THU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/LiguangRuan.jpg" hover="../images/Member/LiguangRuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Liguang Ruan<br>
-            2023 -<br>
+            <div class="info1">
+                Liguang Ruan<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Liguang Ruan<br>
+                Visible Light Sensing<br>
+                BEng(LZU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/EnzeZhang.jpg" hover="../images/Member/EnzeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Enze Zhang<br>
-            2023 -<br>
+            <div class="info1">
+                Enze Zhang<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Enze Zhang<br>
+                MARL<br>
+                BEng(HIT)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YixianZhang.jpg" hover="../images/Member/YixianZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
@@ -343,38 +469,82 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YanHuang.jpg" hover="../images/Member/YanHuang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Yan Huang<br>
-            2024 -<br>
+            <div class="info1">
+                Yan Huang<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Yan Huang<br>
+                Robotics<br>
+                BEng(WHU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangqingGuo.jpg" hover="../images/Member/ChangqingGuo.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Changqing Guo<br>
-            2024 -<br>
+            <div class="info1">
+                Changqing Guo<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Changqing Guo<br>
+                Robotics<br>
+                BEng(SCUT)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HuijingLin.jpg" hover="../images/Member/HuijingLin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Huijing Lin<br>
-            2024 -<br>
+            <div class="info1">
+                Huijing Lin<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Huijing Lin<br>
+                2024 -<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/TongchengFang.jpg" hover="../images/Member/TongchengFang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Tongcheng Fang<br>
-            2024 -<br>
+            <div class="info1">
+                Tongcheng Fang<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Tongcheng Fang<br>
+                2024 -<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YushanLiu.png" hover="../images/Member/YushanLiu.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="https://scpsyl.github.io/">Yushan Liu</a><br>
-            2024 -<br>
+            <div class="info1">
+                <a href="https://scpsyl.github.io/">Yushan Liu</a><br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                <a href="https://scpsyl.github.io/">Yushan Liu</a><br>
+                2024 -<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/MingyangLi.jpg" hover="../images/Member/MingyangLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Mingyang Li<br>
-            2024 -<br>
+            <div class="info1">
+                Mingyang Li<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Mingyang Li<br>
+                2024 -<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XintaoChao.jpg" hover="../images/Member/XintaoChao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Xintao Chao<br>
-            2024 -<br>
+            <div class="info1">
+                Xintao Chao<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Xintao Chao<br>
+                2024 -<br>
+            </div>
         </div>
     </div>
     <br>
@@ -438,14 +608,14 @@ toc: true
                 BEng(JNU), MS(NUS)<br>
             </div>
         </div>
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/YangtaoChen.jpg" hover="../images/Member/YangtaoChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Yangtao Chen<br>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/PavelKharitenko.jpg" hover="../images/Member/PavelKharitenko.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Pavel Kharitenko<br>
-        </div>
+        </div> -->
     </div>
     <br>
     <br>
@@ -479,6 +649,8 @@ toc: true
     - Jiarong Li, MS Student (2022), now Ph.D. Student at SSR group. (Excellent Graduate of THU)<br>
     - Chengyue Lu, Research Assistant (2020-2023), now MS Student at University of Macau.<br>
     - Xiao Xiao, Research Assistant (2021), now Ph.D. Student at NUS.<br>
+    - Yangtao Chen, Visiting Student (2024).
+    - Pavel Kharitenko, Visiting Student (2024).
     - Rameesh Lakshan, Visiting Student (2024), now Ph.D. Student at Loughborough University.<br>
     - Qi Zhang, Visiting Student (2023), now Ph.D. Student at NUS.<br>
     - Mingshna He, Visiting Student (2022), now MS Student at Seoul National University.<br>
