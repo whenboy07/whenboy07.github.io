@@ -83,8 +83,8 @@ toc: true
             </div>
             <div class="info2">
                 Xiaosa Li<br>
-                Electromagnetic Haptic Display<br>
-                BEng(WHU), MS(WHU)<br>
+                EM Haptic Display<br>
+                BEng&MS(WHU)<br>
             </div>            
         </div>
         <div class="memberimg">
@@ -96,7 +96,7 @@ toc: true
             <div class="info2">
                 Hongfa Zhao<br>
                 TENG<br>
-                BEng(DMU), MS(DMU)<br>
+                BEng&MS(DMU)<br>
             </div>            
         </div>
         <div class="memberimg">
@@ -132,7 +132,7 @@ toc: true
             <div class="info2">
                 Qinghao Xu<br>
                 Flexible Electronics<br>
-                BEng(NJUPT), MS(NJUPT)<br>
+                BEng&MS(NJUPT)<br>
             </div>            
         </div>
         <div class="memberimg">
@@ -144,7 +144,7 @@ toc: true
             <div class="info2">
                 <a href="http://www.jiarongli.work">Jiarong Li</a><br>
                 Smart Sensor<br>
-                BEng(UESTC), MS(THU), ME(UCB)
+                BEng(UESTC), MS(THU)
             </div>
         </div>
         <div class="memberimg">
@@ -434,7 +434,7 @@ toc: true
             </div>
             <div class="info2">
                 Zimo Wang<br>
-                Fiber Electronics; Electrochemical Device<br>
+                Fiber Electronics<br>
                 BEng(JNU), MS(NUS)<br>
             </div>
         </div>
