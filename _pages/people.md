@@ -18,8 +18,15 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HaoGuo.jpg" hover="../images/Member/HaoGuo.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
-            Hao Guo<br>
-            2024 -<br>
+            <div class="info1">
+                Hao Guo<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Hao Guo<br>
+                Embodied AI<br>
+                BEng(THU), PhD(USTC)<br>
+            </div>
         </div> 
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" hover="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
