@@ -356,8 +356,15 @@ toc: true
     <h2>Visiting Students</h2>
     <div class="card" >
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ZimoWang.jpg" hover="../images/Member/ZimoWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zimo Wang<br>
+            <img class="img-circle" src="../images/Member/ZimoWang.jpg" hover="../images/Member/ZimoWang_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Zimo Wang<br>
+            </div>
+            <div class="info2">
+                Zimo Wang<br>
+                Fiber Electronics; Electrochemical Device<br>
+                BEng (JNU), MS (NUS)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YangtaoChen.jpg" hover="../images/Member/YangtaoChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
