@@ -7,7 +7,7 @@ toc: true
 ---
 
 <div class="container">
-    <h2>Postdoc & R.A.</h2>
+    <h2>Postdoc</h2>
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChuqiaoLyu.jpg" hover="../images/Member/ChuqiaoLyu.jpg" style="height: 100%; width: 100%; object-fit: contain">
