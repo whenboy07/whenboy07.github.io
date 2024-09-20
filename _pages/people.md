@@ -73,8 +73,15 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Kit-Wa.jpg" hover="../images/Member/Kit-Wa.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Kit-Wa Sou<br>
-            2021 -<br>
+            <div class="info1">
+                Kit-Wa Sou<br>
+                2021 -<br>
+            </div>
+            <div class="info2">
+                Kit-Wa Sou<br>
+                Tactile Sensor<br>
+                BEng(NCTU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HuazeTang.jpg" hover="../images/Member/HuazeTang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
@@ -120,8 +127,15 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChihanXu.jpg" hover="../images/Member/ChihanXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Chihan Xu<br>
-            2024 -<br>
+            <div class="info1">
+                Chihan Xu<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Chihan Xu<br>
+                Adversarial Learning in Recognition System<br>
+                BEng(LZU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/JunhaoGong.jpg" hover="../images/Member/JunhaoGong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
