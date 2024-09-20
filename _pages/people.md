@@ -80,7 +80,7 @@ toc: true
             <div class="info2">
                 Kit-Wa Sou<br>
                 Tactile Sensor<br>
-                BEng(NCTU)<br>
+                BEng(NCTU), MS(THU)<br>
             </div>
         </div>
         <div class="memberimg">
