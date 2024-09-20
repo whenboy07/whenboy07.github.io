@@ -149,132 +149,132 @@ toc: true
     <h3>Master Students</h3>
     <div class="card" >
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ZhancongXu.jpg" hover="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zhancong Xu<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ShilongMu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ShilongMu.jpg" hover="../images/Member/ShilongMu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <a href="https://charon-bo.github.io/">Shilong Mu</a><br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ZehaoLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ZehaoLi.jpg" hover="../images/Member/ZehaoLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zehao Li<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ChangshuoGe.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ChangshuoGe.jpg" hover="../images/Member/ChangshuoGe.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Changshuo Ge<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/siqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/siqi.jpg" hover="../images/Member/siqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Siqi Ping<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/runze.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/runze.jpg" hover="../images/Member/runze.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Runze Zhao<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/Shuting.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/Shuting.jpg" hover="../images/Member/Shuting.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Shuting Zhang<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/zhenpeng.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/zhenpeng.jpg" hover="../images/Member/zhenpeng.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zhenpeng Shi<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/Henry.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/Henry.jpg" hover="../images/Member/Henry.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Wang Sing (Henry) Chan<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/jiaqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/jiaqi.jpg" hover="../images/Member/jiaqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Jiaqi Li<br>
             2022 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/XinyueChai.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/XinyueChai.jpg" hover="../images/Member/XinyueChai.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Xinyue Chai<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/RuizeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/RuizeZhang.jpg" hover="../images/Member/RuizeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Ruize Zhang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ChangxuWei.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ChangxuWei.jpg" hover="../images/Member/ChangxuWei.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Changxu Wei<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/XuanZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/XuanZhang.jpg" hover="../images/Member/XuanZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Xuan Zhang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/RanYu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/RanYu.jpg" hover="../images/Member/RanYu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Ran Yu<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/XintingYang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/XintingYang.jpg" hover="../images/Member/XintingYang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Xinting Yang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/LiguangRuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/LiguangRuan.jpg" hover="../images/Member/LiguangRuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Liguang Ruan<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/EnzeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/EnzeZhang.jpg" hover="../images/Member/EnzeZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Enze Zhang<br>
             2023 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/YixianZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/YixianZhang.jpg" hover="../images/Member/YixianZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Yixian Zhang<br>
             2024 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/YanHuang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/YanHuang.jpg" hover="../images/Member/YanHuang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Yan Huang<br>
             2024 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ChangqingGuo.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ChangqingGuo.jpg" hover="../images/Member/ChangqingGuo.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Changqing Guo<br>
             2024 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/HuijingLin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/HuijingLin.jpg" hover="../images/Member/HuijingLin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Huijing Lin<br>
             2024 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/TongchengFang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/TongchengFang.jpg" hover="../images/Member/TongchengFang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Tongcheng Fang<br>
             2024 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/YushanLiu.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/YushanLiu.png" hover="../images/Member/YushanLiu.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <a href="https://scpsyl.github.io/">Yushan Liu</a><br>
             2024 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/MingyangLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/MingyangLi.jpg" hover="../images/Member/MingyangLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Mingyang Li<br>
             2024 -<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/XintaoChao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/XintaoChao.jpg" hover="../images/Member/XintaoChao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Xintao Chao<br>
             2024 -<br>
         </div>
@@ -330,15 +330,15 @@ toc: true
     <h3>Visiting Students</h3>
     <div class="card" >
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ZimoWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ZimoWang.jpg" hover="../images/Member/ZimoWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zimo Wang<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/YangtaoChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/YangtaoChen.jpg" hover="../images/Member/YangtaoChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Yangtao Chen<br>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/PavelKharitenko.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/PavelKharitenko.jpg" hover="../images/Member/PavelKharitenko.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Pavel Kharitenko<br>
         </div>
     </div>
