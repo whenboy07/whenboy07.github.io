@@ -134,6 +134,7 @@ toc: true
             <div class="info2">
                 Chihan Xu<br>
                 Adversarial Learning<br>
+                BS(LZU)<br>
             </div>
         </div>
         <div class="memberimg">
@@ -363,7 +364,7 @@ toc: true
             <div class="info2">
                 Zimo Wang<br>
                 Fiber Electronics; Electrochemical Device<br>
-                BEng (JNU), MS (NUS)<br>
+                BEng(JNU), MS(NUS)<br>
             </div>
         </div>
         <div class="memberimg">
