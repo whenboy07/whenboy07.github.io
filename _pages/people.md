@@ -190,7 +190,7 @@ toc: true
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Henry.jpg" hover="../images/Member/Henry.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Wang Sing (Henry) Chan<br>
+            Wang Sing Chan<br>
             2022 -<br>
         </div>
         <div class="memberimg">
