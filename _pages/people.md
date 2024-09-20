@@ -415,7 +415,7 @@ toc: true
             </div>
             <div class="info2">
                 Ran Yu<br>
-                Robot Learning<br>
+                Embodied AI<br>
                 BEng(UESTC)
             </div>
         </div>
