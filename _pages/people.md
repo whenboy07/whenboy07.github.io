@@ -134,7 +134,6 @@ toc: true
             <div class="info2">
                 Chihan Xu<br>
                 Adversarial Learning<br>
-                BEng(LZU)<br>
             </div>
         </div>
         <div class="memberimg">
@@ -268,7 +267,6 @@ toc: true
             <div class="info2">
                 Yixian Zhang<br>
                 MARL<br>
-                BEng()
             </div>
         </div>
         <div class="memberimg">
