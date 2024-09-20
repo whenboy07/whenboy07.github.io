@@ -100,34 +100,24 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-    <!-- <script>
+    <script>
       document.addEventListener('DOMContentLoaded', (event) => {
           const memberImages = document.querySelectorAll('.img-circle');
           memberImages.forEach(memberImage => {
               const memberImgDiv = memberImage.closest('.memberimg');
-              const memberName = memberImgDiv.querySelector('.member-name');
-              const memberYear = memberImgDiv.querySelector('.member-year');
               
               const originalImageSrc = memberImage.src;
-              const originalNameText = memberName.textContent;
-              const originalYearText = memberYear.textContent;
     
-              const hoverImageSrc = memberImgDiv.getAttribute('data-hover-img');
-              const hoverRIText = memberImgDiv.getAttribute('data-hover-RI');
-              const hoverBGText = memberImgDiv.getAttribute('data-hover-BG');
-    
+              const hoverImageSrc = memberImage.getAttribute('hover');
+
               memberImage.addEventListener('mouseover', () => {
                   memberImage.src = hoverImageSrc;
-                  memberName.textContent = hoverRIText;
-                  memberYear.textContent = hoverEmailText;
               });
               memberImage.addEventListener('mouseout', () => {
                   memberImage.src = originalImageSrc;
-                  memberName.textContent = originalNameText;
-                  memberYear.textContent = originalYearText;
               });
           });
       });
-    </script> -->
+    </script>
   </body>
 </html>

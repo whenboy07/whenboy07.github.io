@@ -12,15 +12,8 @@ toc: true
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChuqiaoLyu.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
-            <div class="info1">
-                <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
-                2024 -<br>
-            </div>
-            <div class="info2">
-                <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
-                Dexterous Hands<br>
-                BEng(), MS(), PhD ()<br>
-            </div>
+            <a href="https://www.researchgate.net/profile/Chuqiao-Lyu">Chuqiao Lyu</a><br>
+            2024 -<br>
         </div> 
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HaoGuo.jpg" style="height: 100%; width: 100%; object-fit: contain">
@@ -96,10 +89,17 @@ toc: true
             Chenxin Liang<br>
             2023 -<br>
         </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/TongWu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <a href="https://tongwu19.github.io/">Tong Wu</a><br>
-            2023 -<br>
+        <div class="memberimg" >
+            <img class="img-circle" src="../images/Member/TongWu.jpg" hover="../images/Member/TongWu_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                <a href="https://tongwu19.github.io/">Tong Wu</a><br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                <a href="https://tongwu19.github.io/">Tong Wu</a><br>
+                Dexterous Manipulation<br>
+                BEng(THU)<br>
+            </div>
         </div>
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/lsj.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
@@ -148,71 +148,6 @@ toc: true
     <br>
     <h3>Master Students</h3>
     <div class="card" >
-        <!-- <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ZenanLin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zenan Lin<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ZihaoZhao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zihao Zhao<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ZiyiZhao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Ziyi Zhao<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/YuxuanLiu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Yuxuan Liu<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/Meilin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Meilin Yang<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/zihaoai.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zihao Ai<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/Eric_Lei_Kaichong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Eric Kai-Chong Lei<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/Chenchang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Chenchang Li<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/Zhentan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zhentan Quan<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/yuanquanHu.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Yuanquan Hu<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/TingDong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Ting Dong<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/JunjiYan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Junji Yan<br>
-            2021 -<br>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/zixuan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            Zixuan Xie<br>
-            2021 -<br>
-        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Zhancong Xu<br>
