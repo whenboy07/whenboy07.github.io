@@ -267,7 +267,7 @@ toc: true
             </div>
             <div class="info2">
                 Yixian Zhang<br>
-                Multi Agent Reinforcement Learning<br>
+                MARL<br>
                 BEng()
             </div>
         </div>
