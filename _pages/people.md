@@ -268,6 +268,7 @@ toc: true
             <div class="info2">
                 Yixian Zhang<br>
                 MARL<br>
+                BS(SEU)<br>
             </div>
         </div>
         <div class="memberimg">
