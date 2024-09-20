@@ -36,7 +36,7 @@ toc: true
     <br>
     <br>
     <br>
-    <h3>PhD Students</h3>
+    <h2>PhD Students</h2>
     <div class="card" >
         <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZihanWang.jpg" style="height: 100%; width: 100%; object-fit: contain">
@@ -146,7 +146,7 @@ toc: true
     <br>
     <br>
     <br>
-    <h3>Master Students</h3>
+    <h2>Master Students</h2>
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZhancongXu.jpg" hover="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
@@ -327,7 +327,7 @@ toc: true
     <br>
     <br>
     <br>
-    <h3>Visiting Students</h3>
+    <h2>Visiting Students</h2>
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZimoWang.jpg" hover="../images/Member/ZimoWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
@@ -350,7 +350,7 @@ toc: true
     <br>
     <br>
     <br>
-    <h3>Alumni</h3>
+    <h2>Alumni</h2>
     - Dr. Jiyu Wang, Post-Doctoral Fellow (2020-2023), now Associate Professor at HUST.<br>
     - <a href='http://zh-wang.top'>Zihan Wang</a>, Ph.D. Student (2024), now Post-Doctoral Fellow at UCB.<br>
     - Zenan Lin, MS Student (2024), now working on hardware product development at Huawei.<br>
