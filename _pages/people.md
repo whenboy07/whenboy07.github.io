@@ -538,14 +538,15 @@ toc: true
             </div>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/XintaoChao.jpg" hover="../images/Member/XintaoChao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/XintaoChao.jpg" hover="../images/Member/XintaoChao_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Xintao Chao<br>
                 2024 -<br>
             </div>
             <div class="info2">
                 Xintao Chao<br>
-                2024 -<br>
+                Embodied AI<br>
+                BEng(HIT)<br>
             </div>
         </div>
     </div>
