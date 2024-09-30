@@ -78,11 +78,13 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 # Selected Publications at TBSI
 ## 2024
-1. [TRO] Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,Xiao-Ping Zhang, **Wenbo Ding\***. 'M3Tac: A Multispectral Multimodal Visuotactile Sensor with Beyond-Human Sensory Capabilities'  IEEE Transactions on Robotics (T-RO), accepted.
-2. [NanoEnergy] Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, **Wenbo Ding\***, Jiyu Wang\*. "A hybrid wind and raindrop energy harvesting operating on Savonius turbine," Nano Energy, vol. 127, 1 Aug. 2024, p. 109746, (Front Cover), accepted.
-3. [IEEE TIV] Xuan Zhang#, Hengxi Zhang#, Huaze Tang, Le Liang, Ling Cheng, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. "A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation," IEEE Transactions on Intelligent Vehicles, accepted.
+1. [IEEE RAL] Xiaosa Li#, Runze Zhao#, Xinyue Chai, Zimo Wang, Qianqian Tong* and **Wenbo Ding\***, " VibroBot: A Lightweight and Wirelessly Programmable Vibration Bot for Haptic Guidance," IEEE Robotics and Automation Letters, accepted. 
+2. [IJEM] Hongfa Zhao#, Liguang Ruan#, Zihan Wang, Mingrui Shu, Chuqiao Lyu, Bulathsinghala Rameesh Lakshan, Dharmasena Ishara, Changsheng Wu, **Wenbo Ding\***. "Flexible nanogenerators for intelligent robotics: design, manufacturing, and applications", International Journal of Extreme Manufacturing, accepted.
+3. [TRO] Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,Xiao-Ping Zhang, **Wenbo Ding\***. 'M3Tac: A Multispectral Multimodal Visuotactile Sensor with Beyond-Human Sensory Capabilities'  IEEE Transactions on Robotics (T-RO), accepted.
+4. [NanoEnergy] Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, **Wenbo Ding\***, Jiyu Wang\*. "A hybrid wind and raindrop energy harvesting operating on Savonius turbine," Nano Energy, vol. 127, 1 Aug. 2024, p. 109746, (Front Cover), accepted.
+5. [IEEE TIV] Xuan Zhang#, Hengxi Zhang#, Huaze Tang, Le Liang, Ling Cheng, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. "A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation," IEEE Transactions on Intelligent Vehicles, accepted.
 4. [IEEE SENS J] Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding**, Xiao-Ping Zhang. "TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots," IEEE Sensors Journal, accepted.
-5. [JSTSP] Shoujie Li, Zihan Wang, Changsheng Wu, Xiang Li, Shan Luo, Bin Fang, Fuchun Sun, Xiao-Ping Zhang, **Wenbo Ding\***. "When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective," IEEE Journal of Selected Topics in Signal Processing (JSTSP), accepted.
+6. [JSTSP] Shoujie Li, Zihan Wang, Changsheng Wu, Xiang Li, Shan Luo, Bin Fang, Fuchun Sun, Xiao-Ping Zhang, **Wenbo Ding\***. "When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective," IEEE Journal of Selected Topics in Signal Processing (JSTSP), accepted.
 
 ## 2023
 1. [IROS] Shoujie Li#, Mingshan He#, **Wenbo Ding**, Linqi Ye, Xueqian Wang, Junbo Tan, Jinqiu Yuan, Xiao-Ping Zhang. “Visuo-Tactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling,” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), accepted.

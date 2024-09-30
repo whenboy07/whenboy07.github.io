@@ -34,6 +34,8 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2024/09] Our work on the wearable vibrotactile guidance has been accepted by lEEE Robotics and Automation Letters (lF: 4.6). Congrats to Xiaosa and Runze!
+* [2024/09] Our review on the application of nanogenerators in robotics has been accepted by the International Journal of Extreme Manufacturing (IF:16.1). Congrats to Hongfa and Liguang. 
 * [2024/08] Our work on Multispectral Multimodal Visuotactile Sensor has been accepted by IEEE Transactions on Robotics. Congrats to Shoujie!
 * [2024/07] Our work on a hybrid wind and raindrop energy harvesting operating on savonius turbine has been accepted by Nano Energy (lF: 16.8) as front cover. Congrats to Kit-Wa, Zenan
 and Yuchao!

@@ -25,7 +25,7 @@ toc: true
             <div class="info2">
                 Hao Guo<br>
                 Embodied AI<br>
-                BEng(THU), PhD(USTC)<br>
+                BEng(YSU), PhD(USTC)<br>
             </div>
         </div> 
         <!-- <div class="memberimg">
