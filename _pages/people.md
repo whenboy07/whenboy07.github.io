@@ -208,9 +208,33 @@ toc: true
             </div>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/JunhaoGong.jpg" hover="../images/Member/JunhaoGong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/JunhaoGong.jpg" hover="../images/Member/JunhaoGong_moment.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Junhao Gong<br>
             2024 -<br>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/BaiqiaoWang.jpg" hover="../images/Member/BaiqiaoWang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Baiqiao Wang<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Baiqiao Wang<br>
+                Robotics<br>
+                BEng(THU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HanLiu.jpg" hover="../images/Member/HanLiu_moment.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Han Liu<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Han Liu<br>
+                Robotics<br>
+                BEng(NEU)<br>
+            </div>
         </div>
     </div>
     <br>
@@ -456,6 +480,18 @@ toc: true
             </div>
         </div>
         <div class="memberimg">
+            <img class="img-circle" src="../images/Member/JingyangWang.jpg" hover="../images/Member/JingyangWang_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Jingyang Wang<br>
+                2023 -<br>
+            </div>
+            <div class="info2">
+                Jingyang Wang<br>
+                Smart Sensing<br>
+                BEng(WHUT)<br>
+            </div>
+        </div>
+        <div class="memberimg">
             <img class="img-circle" src="../images/Member/YixianZhang.jpg" hover="../images/Member/YixianZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Yixian Zhang<br>
@@ -547,6 +583,78 @@ toc: true
                 Xintao Chao<br>
                 Embodied AI<br>
                 BEng(HIT)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/YishengYang.jpg" hover="../images/Member/YishengYang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Yisheng Yang<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Yisheng Yang<br>
+                Interactive Media<br>
+                BEng(XMU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/WenxuanZhu.jpg" hover="../images/Member/WenxuanZhu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Wenxuan Zhu<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Wenxuan Zhu<br>
+                Embodied AI<br>
+                BS&BMgt(JLU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/EricChen.jpg" hover="../images/Member/EricChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Eric Chen<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Eric Chen<br>
+                Robotics<br>
+                BEng(UCSD)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/CongZhang.png" hover="../images/Member/CongZhang_moment.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Cong Zhang<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Cong Zhang<br>
+                Embodied AI<br>
+                BEng(HUST)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/ZehaoWang.jpg" hover="../images/Member/ZehaoWang_moment.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Zehao Wang<br>
+                2024 -<br>
+            </div>
+            <div class="info2">
+                Zehao Wang<br>
+                Domain Specific Accelerator<br>
+                BEng(BUAA)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/XingtingLi.jpg" hover="../images/Member/XingtingLi_moment.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Xingting Li<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Xingting Li<br>
+                Embodied AI<br>
+                BEng(USTB)<br>
             </div>
         </div>
     </div>
