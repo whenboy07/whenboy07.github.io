@@ -224,18 +224,6 @@ toc: true
                 BEng(THU)<br>
             </div>
         </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/HanLiu.jpg" hover="../images/Member/HanLiu_moment.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <div class="info1">
-                Han Liu<br>
-                2025 -<br>
-            </div>
-            <div class="info2">
-                Han Liu<br>
-                Robotics<br>
-                BEng(NEU)<br>
-            </div>
-        </div>
     </div>
     <br>
     <br>
@@ -656,6 +644,18 @@ toc: true
                 Xingting Li<br>
                 Embodied AI<br>
                 BEng(USTB)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HanLiu.jpg" hover="../images/Member/HanLiu_moment.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Han Liu<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Han Liu<br>
+                Robotics<br>
+                BEng(NEU)<br>
             </div>
         </div>
     </div>
