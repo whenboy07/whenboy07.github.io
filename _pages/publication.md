@@ -95,6 +95,7 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 6. [IoTJ] Hengxi Zhang, Chengyue Lu, Huaze Tang, Xiaoli Wei, Ling Cheng, **Wenbo Ding**, Zhu Han. “Mean-Field Aided Multi-Agent Reinforcement Learning for Resource Allocation in Vehicular Networks,” IEEE Internet of Things Journal, vol. 10, no. 3, 2667-2679, 2023.
 7. [TMC] Zihao Zhao#, Yuzhu Mao#, Zhenpeng Shi, Yang Liu, Tian Lan, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Mobile Computing, vol. 23, no. 6, pp. 7363-7376, 2024. 
 8. [TMC] Yuzhu Mao#, Zihao Zhao#, Meilin Yang, Le Liang, Yang Liu, **Wenbo Ding**, Tian Lan, Xiao-Ping Zhang. IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 4819-4831, 2024.
+9. [Nano Energy] Shilong Mu#, Shoujie Li#, Hongfa Zhao#, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee*, Changsheng Wu*, **Wenbo Ding\***. "A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing," Nano Energy, vol. 116, 108790, 2023.
 
 ## 2022
 1. [AEM] Shun Yong#, Hanqing Wang#, Zenan Lin#, Xiaosa Li, Boyu Zhu, Lijun Yang, **Wenbo Ding**, Ruijin Liao, Jiyu Wang*, Zhong Lin Wang*. “Environmental Self-Adaptive Wind Energy Harvesting Technology for Self-Powered System by Triboelectric-Electromagnetic Hybridized Nanogenerator with Dual-Channel Power Management Topology,” Advanced Energy Materials, accepted.
