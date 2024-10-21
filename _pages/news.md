@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
+* [2024/10] I have been invited to join the youth editorial board of Robot Learning.
 * [2024/10] I have been invited to serve as the area chair of IEEE ICASSP 2025.
 * [2024/09] Our work on the wearable vibrotactile guidance has been accepted by lEEE Robotics and Automation Letters (lF: 4.6). Congrats to Xiaosa and Runze!
 * [2024/09] Our review on the application of nanogenerators in robotics has been accepted by the International Journal of Extreme Manufacturing (IF:16.1). Congrats to Hongfa and Liguang. 
