@@ -64,6 +64,18 @@ toc: true
             </div>
         </div>
         <div class="memberimg">
+            <img class="img-circle" src="../images/Member/lsj.png" hover="../images/Member/lsj.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Shoujie Li<br>
+                2020 -<br>
+            </div>
+            <div class="info2">
+                Shoujie Li<br>
+                Robotics<br>
+                BEng(UPC)<br>
+            </div>
+        </div>
+        <div class="memberimg">
             <img class="img-circle" src="../images/Member/wangchao.jpg" hover="../images/Member/wangchao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Chao Wang<br>
@@ -169,18 +181,6 @@ toc: true
                 <a href="https://tongwu19.github.io/">Tong Wu</a><br>
                 Dexterous Manipulation<br>
                 BEng(THU)<br>
-            </div>
-        </div>
-        <div class="memberimg">
-            <img class="img-circle" src="../images/Member/lsj.png" hover="../images/Member/lsj.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
-            <div class="info1">
-                Shoujie Li<br>
-                2020 -<br>
-            </div>
-            <div class="info2">
-                Shoujie Li<br>
-                Robotics<br>
-                BEng(UPC)<br>
             </div>
         </div>
         <div class="memberimg">
