@@ -175,7 +175,7 @@ toc: true
             <img class="img-circle" src="../images/Member/lsj.png" hover="../images/Member/lsj.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Shoujie Li<br>
-                2023 -<br>
+                2020 -<br>
             </div>
             <div class="info2">
                 Shoujie Li<br>
@@ -747,7 +747,7 @@ toc: true
     - Dr. Jiyu Wang, Post-Doctoral Fellow (2020-2023), now Associate Professor at HUST.<br>
     - <a href='http://zh-wang.top'>Zihan Wang</a>, Ph.D. Student (2024), now Post-Doctoral Fellow at UCB.<br>
     - Zenan Lin, MS Student (2024), now working on hardware product development at Huawei.<br>
-    - Zihao Zhao, MS Student (2024), now Ph.D. Student at Georgia Tech.<br>
+    - <a href="https://www.zihaozhao.site/">Zihao Zhao</a>, MS Student (2024), now Ph.D. Student at Georgia Tech.<br>
     - Ziyi Zhao, MS Student (2024), now at COSCO Shipping.<br>
     - Meilin Yang, MS Student (2024), now at Meituan.<br>
     - Zihao Ai, MS Student (2024), now at Bytedance.<br>
@@ -755,15 +755,15 @@ toc: true
     - Chenchang Li, MS Student (2024), now Ph.D. Student at NUS.<br>
     - Zhentan Quan, MS Student (2024), now Ph.D. Student at Tsinghua University.<br>
     - Yuanquan Hu, MS Student (2024), now at Huawei.<br>
-    - TingDong, MS Student (2024), now at Menda Technology in Shanghai.<br>
+    - Ting Dong, MS Student (2024), now at Menda Technology in Shanghai.<br>
     - Junji Yan, MS Student (2024), now Ph.D. Student at UIUC.<br>
     - Zixuan Xie, MS Student (2024).<br> 
     - Mattesini Riccardo, MS Student (2023).<br>
-    - Hengxi Zhang, MS Student (2023).<br>
+    - <a href='https://dylan2020thu.github.io/'>Hengxi Zhang</a>, MS Student (2023).<br>
     - Jihong Yin, MS Student (2023).<br>
     - Xu Yang, MS Student (2023).<br>
     - Yuchao Jin, MS Student (2023).<br>
-    - Yuzhu Mao, MS Student (2023), Research Assistant (2023-2024).<br>
+    - <a href="https://yz-mao.github.io/">Yuzhu Mao</a>, MS Student (2023), Research Assistant (2023-2024).<br>
     - Jiarong Li, MS Student (2022), now Ph.D. Student at SSR group. (Excellent Graduate of THU)<br>
     - Chengyue Lu, Research Assistant (2020-2023), now MS Student at University of Macau.<br>
     - Xiao Xiao, Research Assistant (2021), now Ph.D. Student at NUS.<br>
@@ -771,7 +771,7 @@ toc: true
     - Pavel Kharitenko, Visiting Student (2024).<br>
     - Rameesh Lakshan, Visiting Student (2024), now Ph.D. Student at Loughborough University.<br>
     - Qi Zhang, Visiting Student (2023), now Ph.D. Student at NUS.<br>
-    - Mingshna He, Visiting Student (2022), now MS Student at Seoul National University.<br>
+    - Mingshan He, Visiting Student (2022), now MS Student at Seoul National University.<br>
     - Xin Xia, Visiting Student (2021), now Research Assistant Professor at HKUST.<br>
     - Guoqiang Xu, Visiting Student (2021), now Post-Doctoral Fellow at CityU of HK.<br>
     - Jingjing Fu, Visiting Student (2021), now Post-Doctoral Fellow at PolyU of HK.<br>
