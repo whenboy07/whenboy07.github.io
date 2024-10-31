@@ -19,7 +19,7 @@ Dr. Wenbo Ding is now an associate professor and leading the smart sensing and r
 * Multi-agent reinforcement learning
 
 
-<img  src="../images/research/overview.jpg" width = "900"  alt="research directions"/>
+<!-- <img  src="../images/research/overview.jpg" width = "900"  alt="research directions"/> -->
 
 
 ## Contact
