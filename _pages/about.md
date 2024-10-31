@@ -20,7 +20,8 @@ Dr. Wenbo Ding is now an associate professor and leading the smart sensing and r
 <br>
 <br>
 <img align="left" src="../images/research/overview.jpg" width = "1000"  alt="research directions"/>
-
+<br>
+<br>
 <!-- We conduct the interdisciplinary research in the emerging field of robotics, machine learning and human-machine interfaces. My goal is to touch and break the boundary between materials, devices, circuits, systems and algorithms.  -->
 
 ## Contact
