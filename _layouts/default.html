@@ -149,12 +149,11 @@ layout: compress
               });
           });
       });
-    </script>
-    <script>
+
       let currentIndex = 0;
   
       function moveSlide(direction) {
-          const images = document.querySelectorAll('.slider-images img');
+          const images = document.querySelectorAll('#sliderImages img');
           const totalImages = images.length;
   
           currentIndex += direction;
@@ -166,7 +165,7 @@ layout: compress
           }
   
           const offset = -currentIndex * 960; // 300是图片宽度
-          document.getElementById('.slider-images').style.transform = `translateX(${offset}px)`;
+          document.getElementById('sliderImages').style.transform = `translateX(${offset}px)`;
       }
     </script>
   </body>
