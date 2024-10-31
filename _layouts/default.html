@@ -82,6 +82,35 @@ layout: compress
         background-repeat: no-repeat;
         background-size: 100%;
       }
+
+      .slider {
+        width: 300px; /* 设置容器宽度 */
+        overflow: hidden; /* 隐藏溢出的部分 */
+        position: relative;
+      }
+      .slider-images {
+        display: flex; /* 使用 Flexbox 排列图片 */
+        transition: transform 0.5s ease; /* 添加过渡效果 */
+      }
+      .slider-images img {
+        width: 300px; /* 设置每张图片的宽度 */
+        height: auto; /* 保持图片比例 */
+      }
+      .button {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: rgba(255, 255, 255, 0.7);
+        border: none;
+        cursor: pointer;
+        padding: 10px;
+      }
+      .prev {
+        left: 10px;
+        }
+      .next {
+        right: 10px;
+        }
     </style>
   </head>
 
@@ -119,5 +148,24 @@ layout: compress
           });
       });
     </script>
+    <script>
+      let currentIndex = 0;
+  
+      function moveSlide(direction) {
+          const images = document.querySelectorAll('#sliderImages img');
+          const totalImages = images.length;
+  
+          currentIndex += direction;
+  
+          if (currentIndex < 0) {
+              currentIndex = totalImages - 1; // 循环到最后一张
+          } else if (currentIndex >= totalImages) {
+              currentIndex = 0; // 循环到第一张
+          }
+  
+          const offset = -currentIndex * 300; // 300是图片宽度
+          document.getElementById('sliderImages').style.transform = `translateX(${offset}px)`;
+      }
+  </script>
   </body>
 </html>

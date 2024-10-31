@@ -7,7 +7,7 @@ toc: true
 ---
 
 We conduct the interdisciplinary research in the emerging field of robotics, machine learning and human-machine interfaces. Our goal is to touch and break the boundary between materials, devices, circuits, systems and algorithms.
-
+<img align="center" width="600" style="margin-right: 10px" src="{{ site.url }}/images/research/overview.jpg" alt="overview">
 {% include toc %}
 
 <!-- # Research Keywords -->
