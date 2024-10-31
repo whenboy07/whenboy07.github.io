@@ -97,8 +97,11 @@ layout: compress
       .slider-images img {
         width: 980px; /* 设置每张图片的宽度 */
         height: auto; /* 保持图片比例 */
-        display: inline-block; /* 使图片并排显示 */
+        display: none;
       }
+      .slider-images img.active {
+        display: block; /* 仅显示当前活动图片 */
+        }
       .button {
         position: absolute;
         top: 50%;
@@ -153,21 +156,26 @@ layout: compress
     </script>
     <script>
       let currentIndex = 0;
-  
+
       function moveSlide(direction) {
           const images = document.querySelectorAll('#sliderImages img');
           const totalImages = images.length;
-  
+
+          // 隐藏当前图片
+          images[currentIndex].classList.remove('active');
+
+          // 更新当前索引
           currentIndex += direction;
-  
+
+          // 循环逻辑
           if (currentIndex < 0) {
               currentIndex = totalImages - 1; // 循环到最后一张
           } else if (currentIndex >= totalImages) {
               currentIndex = 0; // 循环到第一张
           }
-  
-          const offset = -currentIndex * 980; // 300是图片宽度
-          document.getElementById('sliderImages').style.transform = `translateX(${offset}px)`;
+
+          // 显示新图片
+          images[currentIndex].classList.add('active');
       }
     </script>
   </body>
