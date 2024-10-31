@@ -7,6 +7,7 @@ toc: true
 ---
 
 We conduct the interdisciplinary research in the emerging field of robotics, machine learning and human-machine interfaces. Our goal is to touch and break the boundary between materials, devices, circuits, systems and algorithms.
+
 <div class="slider">
     <button class="button prev" onclick="moveSlide(-1)">&#10094;</button>
     <div class="slider-images" id="sliderImages">
@@ -17,6 +18,7 @@ We conduct the interdisciplinary research in the emerging field of robotics, mac
     </div>
     <button class="button next" onclick="moveSlide(1)">&#10095;</button>
 </div>
+
 {% include toc %}
 
 <!-- # Research Keywords -->
