@@ -84,7 +84,7 @@ layout: compress
       }
 
       .slider {
-        width: 960px; /* 设置容器宽度 */
+        width: 980px; /* 设置容器宽度 */
         overflow: hidden; /* 隐藏溢出的部分 */
         position: relative;
         border: 1px solid #ccc; /* 添加边框以便于查看 */
@@ -95,7 +95,7 @@ layout: compress
         transition: transform 0.5s ease; /* 添加过渡效果 */
       }
       .slider-images img {
-        width: 960px; /* 设置每张图片的宽度 */
+        width: 980px; /* 设置每张图片的宽度 */
         height: auto; /* 保持图片比例 */
         display: inline-block; /* 使图片并排显示 */
       }
@@ -166,7 +166,7 @@ layout: compress
               currentIndex = 0; // 循环到第一张
           }
   
-          const offset = -currentIndex * 960; // 300是图片宽度
+          const offset = -currentIndex * 980; // 300是图片宽度
           document.getElementById('sliderImages').style.transform = `translateX(${offset}px)`;
       }
     </script>
