@@ -17,6 +17,8 @@ Dr. Wenbo Ding is now an associate professor and leading the smart sensing and r
 * Embodied AI
 * Human-computer interfaces
 * Multi-agent reinforcement learning
+<br>
+<br>
  <img src="../images/research/overview.jpg" width = "1000"  alt="research directions"/>
 
 <!-- We conduct the interdisciplinary research in the emerging field of robotics, machine learning and human-machine interfaces. My goal is to touch and break the boundary between materials, devices, circuits, systems and algorithms.  -->
