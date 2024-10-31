@@ -14,7 +14,7 @@ We conduct the interdisciplinary research in the emerging field of robotics, mac
         <img src="../images/research/EI.jpg" alt="Direction 1" class="active">
         <img src="../images/research/TS.jpg" alt="Direction 2">
         <img src="../images/research/MARL.jpg" alt="Direction 3">
-        <img src="../images/research/FE.jpg" alt="Direction 4">
+        <!-- <img src="../images/research/FE.jpg" alt="Direction 4"> -->
     </div>
     <button class="button next" onclick="moveSlide(1)">&#10095;</button>
 </div>
