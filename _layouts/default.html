@@ -91,12 +91,14 @@ layout: compress
         text-align: center; /* 内容水平居中 */
       }
       .slider-images {
-        display: flex; /* 使用 Flexbox 排列图片 */
+        display: block; /* 使用块级布局 */
+        white-space: nowrap; /* 防止换行 */
         transition: transform 0.5s ease; /* 添加过渡效果 */
       }
       .slider-images img {
         width: 960px; /* 设置每张图片的宽度 */
         height: auto; /* 保持图片比例 */
+        display: inline-block; /* 使图片并排显示 */
       }
       .button {
         position: absolute;
