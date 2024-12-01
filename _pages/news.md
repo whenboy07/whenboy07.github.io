@@ -5,13 +5,14 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
+* [2024/11] Shoujie won the Autonomous Robotic Technology Seminar (ARTS) Scholarship! Congrats!
+* [2024/11] Shilong won the National Graduate Scholarship and other 11 students won the university and school level scholarhips! Congrats!
 * [2024/10] I have been invited to join the youth editorial board of Robot Learning.
 * [2024/10] I have been invited to serve as the area chair of IEEE ICASSP 2025.
 * [2024/09] Our work on the wearable vibrotactile guidance has been accepted by lEEE Robotics and Automation Letters (lF: 4.6). Congrats to Xiaosa and Runze!
 * [2024/09] Our review on the application of nanogenerators in robotics has been accepted by the International Journal of Extreme Manufacturing (IF:16.1). Congrats to Hongfa and Liguang. 
 * [2024/08] Our work on Multispectral Multimodal Visuotactile Sensor has been accepted by IEEE Transactions on Robotics. Congrats to Shoujie!
-* [2024/07] Our work on a hybrid wind and raindrop energy harvesting operating on savonius turbine has been accepted by Nano Energy (lF: 16.8) as front cover. Congrats to Kit-Wa, Zenan
-and Yuchao!
+* [2024/07] Our work on a hybrid wind and raindrop energy harvesting operating on savonius turbine has been accepted by Nano Energy (lF: 16.8) as front cover. Congrats to Kit-Wa, Zenan and Yuchao!
 * [2024/06] Our work on the Scalable Mean-Field MARL Framework for V2X resource allocation has been accepted by IEEE Transactions on Intelligent Vehicles (IF: 14.0). Congrats to Xuan and Hengxi!
 * [2024/06] Our review on visuotactile sensors has been accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP). Congrats to Shoujie!
 * [2024/06] Our work on tactile sensing of quadruped robot has been accepted by IEEE Sensors Journal (IF: 4.3). Congrats to Ziwu and Chenchang!

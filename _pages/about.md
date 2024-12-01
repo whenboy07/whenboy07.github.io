@@ -36,6 +36,8 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2024/11] Shoujie won the Autonomous Robotic Technology Seminar (ARTS) Scholarship! Congrats!
+* [2024/11] Shilong won the National Graduate Scholarship and other 11 students won the university and school level scholarhips! Congrats!
 * [2024/10] I have been invited to join the youth editorial board of Robot Learning.
 * [2024/10] I have been invited to serve as the area chair of IEEE ICASSP 2025.
 * [2024/09] Our work on the wearable vibrotactile guidance has been accepted by lEEE Robotics and Automation Letters (lF: 4.6). Congrats to Xiaosa and Runze!
