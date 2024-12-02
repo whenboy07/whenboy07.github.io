@@ -5,7 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
-* [2024/11] Shoujie won the Autonomous Robotic Technology Seminar (ARTS) Scholarship! Congrats!
+* [2024/11] Shilong won the first prize in [Low-altitude Economic Intelligent Flight Management Challenge](https://mp.weixin.qq.com/s/af1aCr-GrmgQDyoqyYVVeA)! Congrats!
+* [2024/11] Shoujie won the [Autonomous Robotic Technology Seminar (ARTS) Scholarship](https://mp.weixin.qq.com/s/rtbFD72n1u_5y1bdIoZMUg)! Congrats!
 * [2024/11] Shilong won the National Graduate Scholarship and other 11 students won the university and school level scholarhips! Congrats!
 * [2024/10] I have been invited to join the youth editorial board of Robot Learning.
 * [2024/10] I have been invited to serve as the area chair of IEEE ICASSP 2025.
