@@ -25,7 +25,7 @@ Dr. Wenbo Ding is now an associate professor and leading the smart sensing and r
 ## Contact
 **Email**:  ding.wenbo at sz.tsinghua.edu.cn;   vincentdwb at gmail.com
 
-**Web**: [https://ssr-group.net/](http://ssr-group.net/); [TBSI Official Website](https://www.tbsi.edu.cn/dwb/main.htm)
+**Web**: [https://ssr-group.net/](http://ssr-group.net/); [SlGS Official Website](https://www.sigs.tsinghua.edu.cn/dwb/)
 
 **Address**: Room 1105, Information Technology Building, Tsinghua Shenzhen, International Graduate School, Shenzhen, Guangdong 518055
 
