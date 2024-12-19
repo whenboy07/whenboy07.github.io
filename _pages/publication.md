@@ -76,7 +76,7 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 <br />
 <!-- # Preprint -->
 
-# Selected Publications at TBSI
+# Selected Publications at SIGS
 ## 2024
 1. [IEEE RAL] Xiaosa Li#, Runze Zhao#, Xinyue Chai, Zimo Wang, Qianqian Tong* and **Wenbo Ding\***, " VibroBot: A Lightweight and Wirelessly Programmable Vibration Bot for Haptic Guidance," IEEE Robotics and Automation Letters, accepted. 
 2. [IJEM] Hongfa Zhao#, Liguang Ruan#, Zihan Wang, Mingrui Shu, Chuqiao Lyu, Bulathsinghala Rameesh Lakshan, Dharmasena Ishara, Changsheng Wu, **Wenbo Ding\***. "Flexible nanogenerators for intelligent robotics: design, manufacturing, and applications", International Journal of Extreme Manufacturing, accepted.
@@ -115,7 +115,7 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 1. [ICN] Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Shao-Lun Huang*, and **Wenbo Ding\***, “Triboelectric Nanogenerators Enabled Internet of Things: A Survey,” Intelligent and Converged Networks, vol.1, no. 2, pp. 115 - 141, Sept. 2020. (Invited Review)
 2. [npjCW] Jianfeng Zhou, Fang Yang, Yuxiong Huang, **Wenbo Ding\***, and Xing Xie*, “Smartphone-powered efficient water disinfection at the point of use,” npj Clean Water, vol. 3, no. 40, 2020.
 
-# Selected Publications Before Joining TBSI
+# Selected Publications Before Joining SIGS
 ## Journal
 1. [AEM] **Wenbo Ding#**, Jianfeng Zhou#, Jia Cheng#, Zhaozheng Wang, Hengyu Guo, Changsheng Wu, Sixing Xu, Zhiyi Wu, Xing Xie, and Zhong Lin Wang “TriboPump: A Low-Cost, Hand-Powered Water Disinfection System,” Advanced Energy Materials, vol. 9, pp. 1901320. , Jun. 2019.
 2. [AEM] Sixing Xu#, **Wenbo Ding#**, Hengyu Guo#, Xiaohong Wang, and Zhong Lin Wang, “Boost the Performance of Triboelectric Nanogenerators through Circuit Oscillation,” Advanced Energy Materials, vol.9, pp. 1900772, Aug. 2019.
