@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
+* [2024/12] Our work on Mechanoluminescent Visuotactile Sensor for Intelligent Interactions has been accepted by Advanced Functional Materials. Congrats to Kit-Wa, Henry and Eric!
 * [2024/11] Shilong won the first prize in [Low-altitude Economic Intelligent Flight Management Challenge](https://mp.weixin.qq.com/s/af1aCr-GrmgQDyoqyYVVeA)! Congrats!
 * [2024/11] Shoujie won the [Autonomous Robotic Technology Seminar (ARTS) Scholarship](https://mp.weixin.qq.com/s/rtbFD72n1u_5y1bdIoZMUg)! Congrats!
 * [2024/11] Shilong won the National Graduate Scholarship and other 14 students (Jiarong, Shoujie, Hongfa, Xiaosa, Tong Wu, Runze, Liguang, Xuan Zhang, Ran Yu, Jiaqi, Zhancong, Xinyue, Changxu and Jingyang) won the university and school level scholarhips! Congrats!
