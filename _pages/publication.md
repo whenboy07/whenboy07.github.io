@@ -22,25 +22,47 @@ Please [email me](mailto:ding.wenbo@sz.tsinghua.edu.cn) if you require a copy of
     <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/Book.jpg" alt="Image 1" style="width: 200px; height: auto;">
         <p>Visible Light Communications: Networking and Applications. <br /> 
-            Jian Song, Fang Yang, Hongming Zhang, Jintao Wang, and **Wenbo Ding** <br />
+            Jian Song, Fang Yang, Hongming Zhang, Jintao Wang, and Wenbo Ding <br />
             Posts & Telecom Press, 2020.
         </p>
     </div>
 </div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/covers&books/Book.jpg" alt="..."> <br /> 
-Visible Light Communications: Networking and Applications. <br /> 
-Jian Song, Fang Yang, Hongming Zhang, Jintao Wang, and **Wenbo Ding** <br />
-Posts & Telecom Press, 2020. 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 # Journal Covers
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="..."> <br /> 
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Nano Energy, Volume 89, Front Cover. <br /> 
+            Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
+        </p>
+    </div>
+        <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/ScienceAdvancesCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Science Advances, Volume 7, Number 49, Front Cover. <br /> 
+            An Ultrathin Rechargeable Solid-state Zinc Ion Fiber Battery for Electronic Textiles.
+        </p>
+    </div>
+        <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Advanced Energy Materials, Volume 12, Number 37, Front Cover. <br /> 
+            A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
+        </p>
+    </div>
+        <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover2.png" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Nano Energy, Volume 127, Aug. 2024, p. 109746, Front Cover. <br /> 
+            A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
+        </p>
+    </div>
+</div>
+<!-- <br />
+<br />
+<br />
+<br />
+<br />
+<br /> -->
+
+<!-- <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="..."> <br /> 
 Nano Energy, Volume 89, Front Cover. <br /> 
 Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
 
@@ -60,9 +82,9 @@ An Ultrathin Rechargeable Solid-state Zinc Ion Fiber Battery for Electronic Text
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="..."> <br /> 
+<!-- <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="..."> <br /> 
 Advanced Energy Materials, Volume 12, Number 37, Front Cover. <br />
 A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
 
@@ -82,7 +104,7 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 <!-- # Preprint -->
 
 # Selected Publications at SIGS
