@@ -18,6 +18,20 @@ Please [email me](mailto:ding.wenbo@sz.tsinghua.edu.cn) if you require a copy of
 
 <!-- # Preprint -->
 # Books and Chapters
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/Book.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Title 1</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 2" style="width: 200px; height: auto;">
+        <p>Title 2</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 3" style="width: 200px; height: auto;">
+        <p>Title 3</p>
+    </div>
+</div>
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/covers&books/Book.jpg" alt="..."> <br /> 
 Visible Light Communications: Networking and Applications. <br /> 
 Jian Song, Fang Yang, Hongming Zhang, Jintao Wang, and **Wenbo Ding** <br />
