@@ -755,15 +755,15 @@ toc: true
     - Chenchang Li, MS Student (2024), now Ph.D. Student at NUS.<br>
     - Zhentan Quan, MS Student (2024), now Ph.D. Student at Tsinghua University.<br>
     - Yuanquan Hu, MS Student (2024), now at Huawei.<br>
-    - Ting Dong, MS Student (2024), now at Menda Technology in Shanghai.<br>
+    - Ting Dong, MS Student (2024), now in Shanghai.<br>
     - Junji Yan, MS Student (2024), now Ph.D. Student at UIUC.<br>
-    - Zixuan Xie, MS Student (2024).<br> 
+    - Zixuan Xie, MS Student (2024), now working on large model in China Coal Research Institute.<br> 
     - Mattesini Riccardo, MS Student (2023).<br>
     - <a href='https://dylan2020thu.github.io/'>Hengxi Zhang</a>, MS Student (2023).<br>
-    - Jihong Yin, MS Student (2023).<br>
-    - Xu Yang, MS Student (2023).<br>
-    - Yuchao Jin, MS Student (2023).<br>
-    - <a href="https://yz-mao.github.io/">Yuzhu Mao</a>, MS Student (2023), Research Assistant (2023-2024).<br>
+    - Jihong Yin, MS Student (2023), now Ph.D. student at the University of Macau.<br>
+    - Xu Yang, MS Student (2023), now at Hongtu Technology in Ningbo.<br>
+    - Yuchao Jin, MS Student (2023), now cloud technology engineer at Alibaba.<br>
+    - <a href="https://yz-mao.github.io/">Yuzhu Mao</a>, MS Student (2023), Research Assistant (2023-2024), now senior engineer at Alipay.com Co., Ltd.<br>
     - Jiarong Li, MS Student (2022), now Ph.D. Student at SSR group. (Excellent Graduate of THU)<br>
     - Chengyue Lu, Research Assistant (2020-2023), now MS Student at University of Macau.<br>
     - Xiao Xiao, Research Assistant (2021), now Ph.D. Student at NUS.<br>
