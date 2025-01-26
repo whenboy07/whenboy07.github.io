@@ -36,6 +36,8 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2025/01] Our work on Sample efficiency RKHS Reinforcement Learning algorithm has been accepted by ICLR 2025. Congrats to Yixian!
+* [2025/01] Our work on Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups has been accepted by ICASSP 2025. Congrats to Enze and Huaze!
 * [2025/01] I have been invited to join the advisory board member of Electronics and Signal Processing.
 * [2024/12] Our work on Mechanoluminescent Visuotactile Sensor for Intelligent Interactions has been accepted by Advanced Functional Materials. Congrats to Kit-Wa, Henry and Eric!
 * [2024/11] Shilong won the first prize in [Low-altitude Economic Intelligent Flight Management Challenge](https://mp.weixin.qq.com/s/af1aCr-GrmgQDyoqyYVVeA)! Congrats!

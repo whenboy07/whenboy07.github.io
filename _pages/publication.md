@@ -112,6 +112,9 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 <!-- # Preprint -->
 
 # Selected Publications at SIGS
+## 2025
+1. [ICLR] Yixian Zhang, Huaze Tang, Huijing Lin and **Wenbo Ding\***, "Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning," The Thirteenth International Conference on Learning Representations (ICLR 2025), accepted.
+2. [ICASSP] Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang and **Wenbo Ding\***, "Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), accepted.
 ## 2024
 1. [AFM] Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang*, Shoujie Li, Dengfeng Peng*, and **Wenbo Ding\***, "A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions," Advanced Functional Materials, accepted.
 2. [IEEE RAL] Xiaosa Li#, Runze Zhao#, Xinyue Chai, Zimo Wang, Qianqian Tong* and **Wenbo Ding\***, " VibroBot: A Lightweight and Wirelessly Programmable Vibration Bot for Haptic Guidance," IEEE Robotics and Automation Letters, accepted. 
