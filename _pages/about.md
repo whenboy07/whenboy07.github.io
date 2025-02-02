@@ -36,6 +36,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2025/01] Our work on enhanced low-rank approximation technique has been accepted by TMLR. Congrats to Yuzhu!
 * [2025/01] Our work on Sample efficiency RKHS Reinforcement Learning algorithm has been accepted by ICLR 2025. Congrats to Yixian and Huaze!
 * [2025/01] Our work on Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups has been accepted by ICASSP 2025. Congrats to Enze and Huaze!
 * [2025/01] I have been invited to join the advisory board member of Electronics and Signal Processing.
