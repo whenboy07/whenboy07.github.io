@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2025
+* [2025/01] Five papers have been accepted by IEEE ICRA 2025, see you in Atlanta! Congrats to Shoujie, Ran, Xiaosa, Chenxin!
 * [2025/01] Our work on enhanced low-rank approximation technique has been accepted by TMLR. Congrats to Yuzhu!
 * [2025/01] Our work on Sample efficiency RKHS Reinforcement Learning algorithm has been accepted by ICLR 2025. Congrats to Yixian and Huaze!
 * [2025/01] Our work on Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups has been accepted by ICASSP 2025. Congrats to Enze and Huaze!
