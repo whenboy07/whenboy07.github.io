@@ -10,7 +10,6 @@ We conduct the interdisciplinary research in the emerging field of robotics, mac
 
 <div style="text-align: center;">
     <img src="{{ site.url }}/images/SSR_logo/teaser.jpg" alt="Teaser" width='90%'>
-    <p><em>Smart Sensing and Robotics (SSR) Lab @THU——Embrace the last mile of human interaction.</em></p>
 </div>
 
 <!-- <div class="slider">
