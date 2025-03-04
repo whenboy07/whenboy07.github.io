@@ -8,6 +8,10 @@ toc: true
 
 We conduct the interdisciplinary research in the emerging field of robotics, machine learning and human-machine interfaces. Our goal is to touch and break the boundary between materials, devices, circuits, systems and algorithms.
 
+<div style="text-align: center;">
+    <img src="{{ site.url }}/images/SSR_logo/teaser.jpg" alt="Teaser" width="800">
+</div>
+
 <!-- <div class="slider">
     <button class="button prev" onclick="moveSlide(-1)">&#10094;</button>
     <div class="slider-images" id="sliderImages">
