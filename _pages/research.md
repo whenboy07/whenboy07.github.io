@@ -12,7 +12,6 @@ We conduct the interdisciplinary research in the emerging field of robotics, mac
     <img src="{{ site.url }}/images/SSR_logo/teaser.jpg" alt="Teaser" width='90%'>
 </div>
 <br>
-<br>
 <!-- <div class="slider">
     <button class="button prev" onclick="moveSlide(-1)">&#10094;</button>
     <div class="slider-images" id="sliderImages">
