@@ -36,7 +36,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
-* [2025/03] Our work on robot liquid manipulation has been accepted by JFR! Congrats to Yan!
+* [2025/03] Our work on robot liquid manipulation has been accepted by Journal of Field Robotics (JFR)! Congrats to Yan!
 * [2025/02] My course “Nanogenerators and Self-powered Systems” has ranked top 5% in the student evaluation (Fourth time). Thank you for your support.
 * [2025/01] Five papers have been accepted by IEEE ICRA 2025, see you in Atlanta! Congrats to Shoujie, Ran, Xiaosa, Chenxin!
 * [2025/01] Our work on enhanced low-rank approximation technique has been accepted by TMLR. Congrats to Yuzhu!
