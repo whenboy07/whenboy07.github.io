@@ -231,7 +231,8 @@ Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxi
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vet.gif" alt="VET">
 VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction<br />
-Cong Zhang#, Yisheng Yang#, **Shilong Mu#**, Chuqiao Lyu, Shoujie Li, Xinyue Chai, **Wenbo Ding\***. [arXiv](https://arxiv.org/abs/2503.23440)<br />
+Cong Zhang#, Yisheng Yang#, **Shilong Mu#**, Chuqiao Lyu, Shoujie Li, Xinyue Chai, **Wenbo Ding\***. <br />
+[arXiv](https://arxiv.org/abs/2503.23440)<br />
 
 ## Surveys
 
