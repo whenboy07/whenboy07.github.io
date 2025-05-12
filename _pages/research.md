@@ -72,7 +72,10 @@ Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li, <strong>Wenbo Ding</strong>*. Journ
 <a href="https://simliquid.github.io/">[website]</a>
 <!-- <a href="xxx">[arxiv]</a> --> <!--no find on ArXiv-->
 <a href="https://www.authorea.com/doi/full/10.22541/au.173321942.24618438">[doi]</a>
-<a href="./papers/SimLiquid.pdf">[pdf]</a>
+<a href="./papers/SimLiquid.pdf">[pdf]</a><br />
+<br />
+<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Chemistry3D.jpg" alt="...">
 Chemistry3D: Robotic Interaction Toolkit for Chemistry Experiments<br />
@@ -80,7 +83,7 @@ Shoujie Li*, Yan Huang*, Changqing Guo*, Tong Wu, Jiawei Zhang, Linrui Zhang, <s
 <a href="https://sites.google.com/view/chemistry3d">[website]</a>
 <a href="https://arxiv.org/abs/2406.08160">[arxiv]</a>
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
-<a href="./papers/Chemistry3D.pdf">[pdf]</a> <!-- same as ArXiv ver.-->
+<a href="./papers/Chemistry3D.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/hand-held.png" alt="...">
 Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover<br />
@@ -88,7 +91,9 @@ Ran Yu*, Haixin Yu*, Shoujie Li*, Yan Huang, Ziwu Song, <strong>Wenbo Ding</stro
 <a href="https://marcyu0303.github.io/HADR.github.io/">[website]</a>
 <a href="https://arxiv.org/abs/2408.14997">[arxiv]</a>
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
-<a href="./papers/hand-held.pdf">[pdf]</a> <!-- same as ArXiv ver.-->
+<a href="./papers/hand-held.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br />
+<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/modex.gif" alt="...">
 MoDex: Planning High-Dimensional Dexterous Control via Learning Neural Internal Models<br />
@@ -96,7 +101,7 @@ Tong Wu*, Shoujie Li*, Chuqiao Lyu, Kit-Wa Sou, Wang-Sing Chan, <strong>Wenbo Di
 <a href="https://tongwu19.github.io/MoDex/">[website]</a>
 <a href="https://arxiv.org/abs/2409.10983">[arxiv]</a>
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
-<a href="./papers/modex.pdf">[pdf]</a> <!-- same as ArXiv ver.-->
+<a href="./papers/modex.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/HandySense.png" alt="...">
 HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation<br />
@@ -104,7 +109,7 @@ Shilong Mu*, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, <strong>Wenbo Di
 <!-- <a href="xxx">[website]</a> --> <!-- no website yet -->
 <!-- <a href="xxx">[arxiv]</a> --> <!--no find on ArXiv-->
 <a href="https://dl.acm.org/doi/abs/10.1145/3636534.3694728">[doi]</a>
-<a href="./papers/handysense.pdf">[pdf]</a> <!-- same as ArXiv ver.-->
+<a href="./papers/handysense.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/avr.png" alt="...">
 AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization<br />
@@ -112,7 +117,7 @@ Yushan Liu*, Shilong Mu*, Xintao Chao, Zizhen Li, Yao Mu, Tianxing Chen, Shoujie
 <a href="https://avr-robot.github.io/">[website]</a>
 <a href="https://arxiv.org/abs/2503.01439">[arxiv]</a>
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
-<a href="./papers/AVR_robot.pdf">[pdf]</a> 
+<a href="./papers/AVR_robot.pdf">[pdf]</a> <br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/exo-viha.jpg" alt="...">
 Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning<br />
@@ -120,7 +125,7 @@ Xintao Chao*, Shilong Mu*, Yushan Liu, Shoujie Li, Chuqiao Lyu, Xiao-Ping Zhang,
 <a href="https://exo-viha2025.github.io/">[website]</a>
 <a href="https://arxiv.org/abs/2503.01543">[arxiv]</a>
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
-<a href="./papers/Exo_ViHa.pdf">[pdf]</a> 
+<a href="./papers/Exo_ViHa.pdf">[pdf]</a> <br />
 
 ## Advanced Electronics
 
@@ -130,7 +135,7 @@ Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang, Shoujie Li, Dengfeng P
 <!-- <a href="">[website]</a> -->
 <!-- <a href="xxx">[arxiv]</a> -->
 <a href="https://doi.org/10.1002/adfm.202420872">[doi]</a>
-<a href="./papers/bio-inspired.pdf">[pdf]</a>
+<a href="./papers/bio-inspired.pdf">[pdf]</a><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/hybrid-wind.png" alt="...">
 A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions<br />
@@ -138,7 +143,7 @@ Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, <strong>Wenbo Ding</strong>*, J
 <!-- <a href="">[website]</a> -->
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="https://doi.org/10.1016/j.nanoen.2024.109746">[doi]</a>
-<a href="./papers/hybrid-wind.pdf">[pdf]</a>
+<a href="./papers/hybrid-wind.pdf">[pdf]</a><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/STEV.gif" alt="...">
 STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot<br />
@@ -146,7 +151,7 @@ Zihan Wang#, Kai-Chong Lei#, Huaze Tang, Shoujie Li, Yuan Dai, <strong>Wenbo Din
 <!-- <a href="">[website]</a> -->
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="http://dx.doi.org/10.1109/ICRA48891.2023.10160790">[doi]</a>
-<a href="./papers/STEV.pdf">[pdf]</a>
+<a href="./papers/STEV.pdf">[pdf]</a><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vs-teng.gif" alt="...">
 A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring<br />
@@ -154,7 +159,7 @@ Hongfa Zhao#, Mingrui Shu#, Zihao Ai#, Zirui Lou, Kit-Wa Sou, Chengyue Lu, Yucha
 <!-- <a href="">[website]</a> -->
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="https://doi.org/10.1002/aenm.202201132">[doi]</a>
-<a href="./papers/AEM.pdf">[pdf]</a>
+<a href="./papers/AEM.pdf">[pdf]</a><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/IR-TENG.png" alt="...">
 Triboelectric Nanogenerator enabled Mechanical Modulation for Infrared Wireless Communications<br />
@@ -162,7 +167,7 @@ Zihan Wang#, Yuchao Jin#, Chengyue Lu#, Jiyu Wang, Ziwu Song, Xu Yang, Yidan Cao
 <!-- <a href="">[website]</a> -->
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="https://doi.org/10.1039/D2EE00900E">[doi]</a>
-<a href="./papers/IR-TENG.pdf">[pdf]</a>
+<a href="./papers/IR-TENG.pdf">[pdf]</a><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/TactileSensing.png" alt="...">
 A flexible triboelectric tactile sensor for simultaneous material and texture recognition<br />
@@ -170,7 +175,7 @@ Ziwu Song#, Jihong Yin#, Zihan Wang#, Chengyue Lu, Ze Yang, Zihao Zhao, Zenan Li
 <!-- <a href="">[website]</a> -->
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="https://doi.org/10.1016/j.nanoen.2021.106798">[doi]</a>
-<a href="./papers/Tactile Sensing.pdf">[pdf]</a>
+<a href="./papers/Tactile Sensing.pdf">[pdf]</a><br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/BA-TENG.gif" alt="...">
 Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces<br />
@@ -178,7 +183,7 @@ Yang Luo#, Zihan Wang#, Jiyu Wang, Xiao Xiao, Qian Li, <strong>Wenbo Ding</stron
 <!-- <a href="">[website]</a> -->
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="https://doi.org/10.1016/j.nanoen.2021.106330">[doi]</a>
-<a href="./papers/BA-TENG.pdf">[pdf]</a>
+<a href="./papers/BA-TENG.pdf">[pdf]</a><br />
 
 ## Tactile Interaction
 
