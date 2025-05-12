@@ -34,6 +34,8 @@ Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized
 Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu, **Wenbo Ding**. Transactions on Machine Learning Research, pp. 2835-8856, 2025.<br />
 [[doi]](https://doi.org/10.48550/arXiv.2407.12074) [[arXiv]](https://arxiv.org/abs/2407.12074)<br />
 <br />
+<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/ResKPN.jpg" alt="Residual Kernel Policy Networks">
 Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning<br />
@@ -64,7 +66,7 @@ Zihao Zhao#, Yuzhu Mao#, Zhenpeng Shi, Yang Liu, Tian Lan, **Wenbo Ding**, Xiao-
 
 ## Embodied Intelligence
 
-<img align="left" width="200" style="margin-right: 10px" src="./images/research/SimLiquid.jpg" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/SimLiquid.jpg" alt="...">
 SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation<br />
 Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li, <strong>Wenbo Ding</strong>*. Journal of Field Robotics (JFR), accepted.<br />
 <a href="https://simliquid.github.io/">[website]</a>
