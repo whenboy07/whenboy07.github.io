@@ -140,7 +140,6 @@ Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang, Shoujie Li, Dengfeng P
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/hybrid-wind.png" alt="...">
 A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions<br />
@@ -149,6 +148,7 @@ Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, <strong>Wenbo Ding</strong>*, J
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="https://doi.org/10.1016/j.nanoen.2024.109746">[doi]</a>
 <a href="./papers/hybrid-wind.pdf">[pdf]</a><br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/STEV.gif" alt="...">
 STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot<br />
