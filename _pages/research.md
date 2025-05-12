@@ -63,7 +63,7 @@ Zhang Hengxi, Lu Chengyue, Tang Huaze, Wei Xiaoli, Liang Le, Cheng Ling, **Ding 
   <img src="{{ site.url }}/images/research/AQUILA.jpg" width="200" alt="AQUILA"><br />
   <strong>AQUILA: Communication Efficient Federated Learning With Adaptive Quantization in Device Selection Strategy</strong><br />
   Zihao Zhao#, Yuzhu Mao#, Zhenpeng Shi, Yang Liu, Tian Lan, <strong>Wenbo Ding</strong>, Xiao-Ping Zhang.  
-  <em>IEEE Transactions on Mobile Computing</em>, vol. 23, no. 6, pp. 7363–7376, 2024. 
+  <em>IEEE Transactions on Mobile Computing</em>, vol. 23, no. 6, pp. 7363–7376, 2024. <br />
   <a href="https://doi.org/your-doi-link">[doi]</a>
 </p>
 
