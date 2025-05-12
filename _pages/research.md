@@ -43,7 +43,7 @@ Yixian Zhang#, Huaze Tang#, Huijing Lin, **Wenbo Ding\***. The Thirteenth Intern
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/MF-QMIX.png" alt="MF-QMIX">
 Mean Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups<br />
-Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang, **Wenbo Ding\***. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5, 2025.<br />
+Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.<br />
 [[doi]](https://doi.org/10.1109/ICASSP49660.2025.10887881) <br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Scalable-V2X-MF-MARL.png" alt="Scalable-V2X-MF-MARL">
