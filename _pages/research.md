@@ -211,7 +211,7 @@ Shoujie Li#, Haixin Yu#, **Wenbo Ding**, Houde Liu, Linqi Ye, Chongkun Xia, Xueq
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/visuotactile_swab.gif" alt="Oropharyngeal Swab Sampling">
 Visuotactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling<br />
-Shoujie Li, Mingshan He, **Wenbo Ding**, Linqi Ye, Xueqian Wang, Junbo Tan, Jinqiu Yuan, Xiao-Ping Zhang. 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, USA, 2023, pp. 4504-4511.<br />
+Shoujie Li, Mingshan He, **Wenbo Ding**, Linqi Ye, Xueqian Wang, Junbo Tan, Jinqiu Yuan, Xiao-Ping Zhang. 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.<br />
 [[website]](https://sites.google.com/view/swab-sampling/) [[doi]](https://doi.org/10.1109/IROS55552.2023.10342266) [[pdf]](https://www.shoujie.top/media/paper/IROS2023/paper.pdf)<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/emfinger.gif" alt="EM-Finger">
@@ -221,7 +221,7 @@ Shilong Mu#, Shoujie Li#, Hongfa Zhao#, Zihan Wang, Xiao Xiao, Xiao Xiao, Zenan 
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/satac.gif" alt="SATac">
 SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear<br />
-Ziwu Song#, Ran Yu#, Xuan Zhang, Kit Wa Sou, Shilong Mu, Dengfeng Peng, Xiao-Ping Zhang, **Wenbo Ding\***. 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024, pp. 5680-5686.<br />
+Ziwu Song#, Ran Yu#, Xuan Zhang, Kit Wa Sou, Shilong Mu, Dengfeng Peng, Xiao-Ping Zhang, **Wenbo Ding\***. 2024 IEEE International Conference on Robotics and Automation (ICRA) 2024.<br />
 [[doi]](https://doi.org/10.1109/ICRA57147.10610373)<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/tactid.gif" alt="TacTID">
