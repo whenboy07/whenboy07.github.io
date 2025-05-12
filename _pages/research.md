@@ -201,7 +201,7 @@ Xiaosa Li, Runze Zhao, Xinyue Chai, Zimo Wang, Qianqian Tong, **Wenbo Ding\***. 
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/m3tac.gif" alt="M3Tac">
 M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory Capabilities<br />
-Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye, Xiao-Ping Zhang, **Wenbo Ding**. IEEE Transactions on Robotics, vol. 40, pp. 4506-4525, 2024.<br />
+Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE Transactions on Robotics, vol. 40, pp. 4506-4525, 2024.<br />
 [[website]](https://sites.google.com/view/MTac-sensor) [[doi]](https://doi.org/10.1109/TRO.2024.34629318) [[pdf]](https://www.shoujie.top/media/paper/TRO2024/paper.pdf)<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/visualtactilefusion.gif" alt="Visual-tactile Fusion">
