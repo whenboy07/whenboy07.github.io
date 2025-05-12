@@ -33,6 +33,7 @@ We conduct the interdisciplinary research in the emerging field of robotics, mac
 Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized and Masked Low-Rank Adaptation Approach<br />
 Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu, **Wenbo Ding**. Transactions on Machine Learning Research, pp. 2835-8856, 2025.<br />
 [[doi]](https://doi.org/10.48550/arXiv.2407.12074) [[arXiv]](https://arxiv.org/abs/2407.12074)<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/ResKPN.jpg" alt="Residual Kernel Policy Networks">
 Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning<br />
@@ -43,6 +44,8 @@ Yixian Zhang#, Huaze Tang#, Huijing Lin, **Wenbo Ding**. The Thirteenth Internat
 Mean Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups<br />
 Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang, **Wenbo Ding**. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5, 2025.<br />
 [[doi]](https://doi.org/10.1109/ICASSP49660.2025.10887881) <br />
+<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Scalable-V2X-MF-MARL.png" alt="Scalable-V2X-MF-MARL">
 A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation<br />
