@@ -102,6 +102,7 @@ Tong Wu*, Shoujie Li*, Chuqiao Lyu, Kit-Wa Sou, Wang-Sing Chan, <strong>Wenbo Di
 <a href="https://arxiv.org/abs/2409.10983">[arxiv]</a>
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
 <a href="./papers/modex.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/HandySense.png" alt="...">
 HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation<br />
@@ -136,6 +137,9 @@ Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang, Shoujie Li, Dengfeng P
 <!-- <a href="xxx">[arxiv]</a> -->
 <a href="https://doi.org/10.1002/adfm.202420872">[doi]</a>
 <a href="./papers/bio-inspired.pdf">[pdf]</a><br />
+<br />
+<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/hybrid-wind.png" alt="...">
 A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions<br />
@@ -168,6 +172,8 @@ Zihan Wang#, Yuchao Jin#, Chengyue Lu#, Jiyu Wang, Ziwu Song, Xu Yang, Yidan Cao
 <!-- <a href="xxx">[arxiv]</a> --> 
 <a href="https://doi.org/10.1039/D2EE00900E">[doi]</a>
 <a href="./papers/IR-TENG.pdf">[pdf]</a><br />
+<br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/TactileSensing.png" alt="...">
 A flexible triboelectric tactile sensor for simultaneous material and texture recognition<br />
