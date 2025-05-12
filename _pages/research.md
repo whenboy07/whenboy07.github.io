@@ -140,6 +140,7 @@ Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang, Shoujie Li, Dengfeng P
 <br />
 <br />
 <br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/hybrid-wind.png" alt="...">
 A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions<br />
