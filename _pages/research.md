@@ -46,7 +46,6 @@ Mean Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Sca
 Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.<br />
 [[doi]](https://doi.org/10.1109/ICASSP49660.2025.10887881) <br />
 <br />
-<br />
 
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Scalable-V2X-MF-MARL.png" alt="Scalable-V2X-MF-MARL">
