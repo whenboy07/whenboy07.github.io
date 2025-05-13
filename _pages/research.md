@@ -63,6 +63,8 @@ Hengxi Zhang, Chengyue Lu, Huaze Tang, Xiaoli Wei, Le Liang, Ling Cheng, **Wenbo
 AQUILA: Communication Efficient Federated Learning With Adaptive Quantization in Device Selection Strategy <br />
 Zihao Zhao#, Yuzhu Mao#, Zhenpeng Shi, Yang Liu, Tian Lan, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Mobile Computing, vol. 23, no. 6, pp. 7363-7376, 2024.<br />
 [[doi]](https://doi.org/10.1109/TMC.2023.3332901) <br />
+<br />
+<br />
 
 ## Embodied Intelligence
 
