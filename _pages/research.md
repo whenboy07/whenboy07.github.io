@@ -48,16 +48,17 @@ Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE International 
 <br />
 <br />
 
+
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Scalable-V2X-MF-MARL.png" alt="Scalable-V2X-MF-MARL">
 A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation<br />
 Xuan Zhang#, Hengxi Zhang#, Huaze Tang, Le Liang, Ling Cheng, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Intelligent Vehicles, pp. 1-16, 2024.<br />
 [[doi]](https://doi.org/10.1109/TIV.2024.3422506) <br />
+<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/CG-MARL.png" alt="CG-MARL">
 Mean-Field-Aided Multiagent Reinforcement Learning for Resource Allocation in Vehicular Networks <br />
 Hengxi Zhang, Chengyue Lu, Huaze Tang, Xiaoli Wei, Le Liang, Ling Cheng, **Wenbo Ding**, Zhu Han. IEEE Internet of Things Journal, vol. 10, no. 3, pp. 2667-2679, 2023.<br />
 [[doi]](https://doi.org/10.1109/JIOT.2022.3214525) <br />
-<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/AQUILA.jpg" alt="AQUILA">
 AQUILA: Communication Efficient Federated Learning With Adaptive Quantization in Device Selection Strategy <br />
