@@ -138,9 +138,6 @@ Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang, Shoujie Li, Dengfeng P
 <a href="https://doi.org/10.1002/adfm.202420872">[doi]</a>
 <a href="./papers/bio-inspired.pdf">[pdf]</a><br />
 <br />
-<br />
-<br />
-
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/hybrid-wind.png" alt="...">
 A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions<br />
 Kit-Wa Sou#, Zenan Lin#, Yuchao Jin#, Siqi Ping, **Wenbo Ding**, Jiyu Wang*. Nano Energy, vol. 127, 1 Aug. 2024, p. 109746, (Front Cover).<br />
