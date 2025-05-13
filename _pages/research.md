@@ -38,7 +38,7 @@ Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu, **Wenbo Ding\***. Transactions on Ma
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/ResKPN.jpg" alt="Residual Kernel Policy Networks">
 Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning<br />
-Yixian Zhang#, Huaze Tang#, Huijing Lin, **Wenbo Ding\***. The Thirteenth International Conference on Learning Representations, 2025.<br />
+Yixian Zhang#, Huaze Tang#, Huijing Lin, **Wenbo Ding\***. The Thirteenth International Conference on Learning Representations, 2025. 
 [[pdf]](https://iclr.cc/virtual/2025/poster/31103)<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/MF-QMIX.png" alt="MF-QMIX">
