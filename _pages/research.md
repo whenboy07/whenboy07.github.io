@@ -58,8 +58,6 @@ Mean-Field-Aided Multiagent Reinforcement Learning for Resource Allocation in Ve
 Hengxi Zhang, Chengyue Lu, Huaze Tang, Xiaoli Wei, Le Liang, Ling Cheng, **Wenbo Ding**, Zhu Han. IEEE Internet of Things Journal, vol. 10, no. 3, pp. 2667-2679, 2023.<br />
 [[doi]](https://doi.org/10.1109/JIOT.2022.3214525) <br />
 <br />
-<br />
-<br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/AQUILA.jpg" alt="AQUILA">
 AQUILA: Communication Efficient Federated Learning With Adaptive Quantization in Device Selection Strategy <br />
