@@ -113,11 +113,12 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 # Selected Publications at SIGS
 ## 2025
-1. [TMECH] Shoujie Li, Jianle Xu, Tong Wu, Yang Yang, Yanbo Chen, Xueqian Wang, **Wenbo Ding**, Xiao-Ping Zhang, "VTire: A Bimodal Visuotactile Tire with High-Resolution Sensing Capability," Transactions on Mechatronics (TMECH), accepted. 
-2. [JFR] Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li and **Wenbo Ding\***, “SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation,” Journal of Field Robotics (JFR), accepted.
-3. [TMLR] Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu and **Wenbo Ding\***, “Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized and Masked Low-Rank Adaptation Approach,” Transactions on Machine Learning Research (TMLR), accepted. 
-4. [ICLR] Yixian Zhang, Huaze Tang, Huijing Lin and **Wenbo Ding\***, "Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning," The Thirteenth International Conference on Learning Representations (ICLR 2025), accepted.
-5. [ICASSP] Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang and **Wenbo Ding\***, "Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), accepted.
+1. [AEM] Zihan Wang#, Jiarong Li#, Hongfa Zhao#, Jian Song, Zhong Lin Wang*, Wenbo Ding*. “Self-Powered Optical Communication: Opportunities, Challenges and Future Prospects,” Advanced Energy Materials, accepted.
+2. [TMECH] Shoujie Li, Jianle Xu, Tong Wu, Yang Yang, Yanbo Chen, Xueqian Wang, **Wenbo Ding**, Xiao-Ping Zhang, "VTire: A Bimodal Visuotactile Tire with High-Resolution Sensing Capability," Transactions on Mechatronics (TMECH), accepted. 
+3. [JFR] Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li and **Wenbo Ding\***, “SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation,” Journal of Field Robotics (JFR), accepted.
+4. [TMLR] Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu and **Wenbo Ding\***, “Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized and Masked Low-Rank Adaptation Approach,” Transactions on Machine Learning Research (TMLR), accepted. 
+5. [ICLR] Yixian Zhang, Huaze Tang, Huijing Lin and **Wenbo Ding\***, "Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning," The Thirteenth International Conference on Learning Representations (ICLR 2025), accepted.
+6. [ICASSP] Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang and **Wenbo Ding\***, "Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), accepted.
 
 ## 2024
 1. [AFM] Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang*, Shoujie Li, Dengfeng Peng*, and **Wenbo Ding\***, "A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions," Advanced Functional Materials, accepted.

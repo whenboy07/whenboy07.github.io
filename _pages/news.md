@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2025
+* [2025/07] Our work on Self-Powered Optical Communication: Opportunities, Challenges and Future Prospects has been accepted by Advanced Energy Materials (AEM). Congrats to Zihan, Jiarong and Hongfa!
 * [2025/04] Our work on bimodal visuotactile tire has been accepted by Transactions on Mechatronics (TMECH). Congrats to Shoujie!
 * [2025/03] Our work on robot liquid manipulation has been accepted by Journal of Field Robotics (JFR)! Congrats to Yan!
 * [2025/02] My course “Nanogenerators and Self-powered Systems” has ranked top 5% in the student evaluation (Fourth time). Thank you for your support.
