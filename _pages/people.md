@@ -370,7 +370,7 @@ toc: true
                 BEng(UW)<br>
             </div>
         </div> -->
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/jiaqi.jpg" hover="../images/Member/jiaqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Jiaqi Li<br>
@@ -381,7 +381,7 @@ toc: true
                 Federated Learning<br>
                 BS(USTC)<br>
             </div>
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/XinyueChai.jpg" hover="../images/Member/XinyueChai_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
