@@ -28,6 +28,18 @@ toc: true
                 BEng(YSU), PhD(USTC)<br>
             </div>
         </div> 
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HongfaZhao.jpg" hover="../images/Member/HongfaZhao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Hongfa Zhao<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Hongfa Zhao<br>
+                TENG<br>
+                BEng&MS(DMU), PhD(THU)<br>
+            </div>            
+        </div>
         <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" hover="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
@@ -63,7 +75,7 @@ toc: true
                 BEng(NJUST)<br>
             </div>
         </div>
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/lsj.png" hover="../images/Member/lsj.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Shoujie Li<br>
@@ -74,7 +86,7 @@ toc: true
                 Robotics<br>
                 BEng(UPC)<br>
             </div>
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/wangchao.jpg" hover="../images/Member/wangchao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -87,7 +99,7 @@ toc: true
                 BS(ZJU)<br>
             </div>
         </div>
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/XiaosaLi.jpg" hover="../images/Member/XiaosaLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Xiaosa Li<br>
@@ -98,8 +110,8 @@ toc: true
                 EM Haptic Display<br>
                 BEng&MS(WHU)<br>
             </div>            
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/HongfaZhao.jpg" hover="../images/Member/HongfaZhao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Hongfa Zhao<br>
@@ -110,7 +122,7 @@ toc: true
                 TENG<br>
                 BEng&MS(DMU)<br>
             </div>            
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/Kit-Wa.jpg" hover="../images/Member/Kit-Wa.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -250,7 +262,7 @@ toc: true
     <br>
     <h2>Master Students</h2>
     <div class="card" >
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZhancongXu.jpg" hover="../images/Member/ZhancongXu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Zhancong Xu<br>
@@ -261,8 +273,8 @@ toc: true
                 Visible Light Sensing<br>
                 BEng(THU)
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ShilongMu.jpg" hover="../images/Member/ShilongMu.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 <a href="https://charon-bo.github.io/">Shilong Mu</a><br>
@@ -273,8 +285,8 @@ toc: true
                 Embodied AI<br>
                 BEng(CUMT)<br>
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZehaoLi.jpg" hover="../images/Member/ZehaoLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Zehao Li<br>
@@ -285,8 +297,8 @@ toc: true
                 Embodied AI<br>
                 BS(NKU)<br>
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChangshuoGe.jpg" hover="../images/Member/ChangshuoGe.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Changshuo Ge<br>
@@ -297,8 +309,8 @@ toc: true
                 HCI<br>
                 BEng(THU)<br>
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/siqi.jpg" hover="../images/Member/siqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Siqi Ping<br>
@@ -309,8 +321,8 @@ toc: true
                 Federated Learning<br>
                 BS(JLU)<br>
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/runze.jpg" hover="../images/Member/runze.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Runze Zhao<br>
@@ -321,8 +333,8 @@ toc: true
                 Magnetic Actuation<br>
                 BS(XMU)<br>
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/Shuting.jpg" hover="../images/Member/Shuting.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Shuting Zhang<br>
@@ -333,8 +345,8 @@ toc: true
                 Machine learning<br>
                 BEng(XDU)<br>
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/zhenpeng.jpg" hover="../images/Member/zhenpeng.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Zhenpeng Shi<br>
@@ -345,8 +357,8 @@ toc: true
                 MARL<br>
                 BS(WHU)<br>
             </div>
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/Henry.jpg" hover="../images/Member/Henry.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Wang Sing Chan<br>
@@ -357,7 +369,7 @@ toc: true
                 Soft Robotics<br>
                 BEng(UW)<br>
             </div>
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/jiaqi.jpg" hover="../images/Member/jiaqi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -697,23 +709,7 @@ toc: true
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <h2>Visiting Students</h2>
+    <!-- <h2>Visiting Students</h2>
     <div class="card" >
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZimoWang.jpg" hover="../images/Member/ZimoWang_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
@@ -725,7 +721,7 @@ toc: true
                 Fiber Electronics<br>
                 BEng(JNU), MS(NUS)<br>
             </div>
-        </div>
+        </div> -->
         <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/YangtaoChen.jpg" hover="../images/Member/YangtaoChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Yangtao Chen<br>
@@ -734,7 +730,7 @@ toc: true
             <img class="img-circle" src="../images/Member/PavelKharitenko.jpg" hover="../images/Member/PavelKharitenko.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             Pavel Kharitenko<br>
         </div> -->
-    </div>
+    <!-- </div>
     <br>
     <br>
     <br>
@@ -742,8 +738,22 @@ toc: true
     <br>
     <br>
     <br>
-    <br>
+    <br> -->
     <h2>Alumni</h2>
+    - Shoujie Li, Ph.D. Student (2025), now Post-Doctoral Fellow at Nanyang Technological University.<br>
+    - Hongfa Zhao, Ph.D. Student (2025), now Post-Doctoral Fellow at Tsinghua SIGS.<br>
+    - Xiaosa Li, Ph.D. Student (2025), now Post-Doctoral Fellow at Pengcheng Lab.<br>
+    - Zhancong Xu, MS Student (2025), now Ph.D. Student at Tsinghua SIGS.<br>
+    - Shilong Mu, MS Student (2025), now running a startup company.<br>
+    - Zehao Li, MS Student (2025), now at ChinaMobileInternet (Guangzhou).<br>
+    - Changshuo Ge, MS Student (2025), now at Bytedance (Shanghai).<br>
+    - Siqi Ping, MS Student (2025).<br>
+    - Runze Zhao, MS Student (2025), now at China Life (Beijing).<br>
+    - Shuting Zhang, MS Student (2025), now at Shopee (Shanghai).<br>
+    - Zhenpeng Shi, MS Student (2025), now RL engineer at Xiaomi (Beijing).<br>
+    - Wang Sing Chen (Henry), MS Student (2025), now Ph.D. Student at CMU.<br>
+    - Jiaqi Li, MS Student (2025), now at Nansha Smart City Big Data.<br>
+    - Zimo Wang, Visiting Student (2024-2025), now Ph.D. Student at Nanyang Technological University.<br>
     - Dr. Jiyu Wang, Post-Doctoral Fellow (2020-2023), now Associate Professor at HUST.<br>
     - <a href='http://zh-wang.top'>Zihan Wang</a>, Ph.D. Student (2024), now Post-Doctoral Fellow at UCB.<br>
     - Zenan Lin, MS Student (2024), now working on hardware product development at Huawei.<br>
