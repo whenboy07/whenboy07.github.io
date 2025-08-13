@@ -40,6 +40,18 @@ toc: true
                 BEng&MS(DMU), PhD(THU)<br>
             </div>            
         </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/ChunJin.jpg" hover="../images/Member/ChunJin.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Chun Jin<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Chun Jin<br>
+                Tactile Sensing<br>
+                PhD(HIT)<br>
+            </div>            
+        </div>
         <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/YuzhuMao.jpg" hover="../images/Member/YuzhuMao.jpg" style="height: 100%; width: 100%; object-fit: contain">
             <br>
