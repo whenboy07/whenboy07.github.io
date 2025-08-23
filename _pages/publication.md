@@ -58,7 +58,10 @@ Posts & Telecom Press, 2020.
             A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
         </p>
     </div>
-        <div style="flex: 1; text-align: center;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/2025-JFR-FrontCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
         <p>Journal of Field Robots, Volume 42, Mar. 2025, p. 2908-2919, Front Cover. <br /> 
             SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation.
