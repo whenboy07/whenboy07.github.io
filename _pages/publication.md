@@ -51,6 +51,9 @@ Posts & Telecom Press, 2020.
         <p>Advanced Energy Materials, Volume 12, Number 37, Front Cover. <br /> 
             A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
         </p>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
     </div>
         <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/NanoEnergyCover2.png" alt="Image 1" style="width: 200px; height: auto;">
@@ -58,9 +61,6 @@ Posts & Telecom Press, 2020.
             A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
         </p>
     </div>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/2025-JFR-FrontCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
         <p>Journal of Field Robots, Volume 42, Mar. 2025, p. 2908-2919, Front Cover. <br /> 
