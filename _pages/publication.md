@@ -55,7 +55,7 @@ Posts & Telecom Press, 2020.
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-        <div style="flex: 1; text-align: center;">
+    <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/NanoEnergyCover2.png" alt="Image 1" style="width: 200px; height: auto;">
         <p>Nano Energy, Volume 127, Aug. 2024, p. 109746, Front Cover. <br /> 
             A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
