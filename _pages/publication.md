@@ -51,6 +51,7 @@ Posts & Telecom Press, 2020.
         <p>Advanced Energy Materials, Volume 12, Number 37, Front Cover. <br /> 
             A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
         </p>
+    </div>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
