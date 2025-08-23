@@ -58,7 +58,6 @@ Posts & Telecom Press, 2020.
             A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
         </p>
     </div>
-    </div>
         <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/2025-JFR-FrontCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
         <p>Journal of Field Robots, Volume 42, Mar. 2025, p. 2908-2919, Front Cover. <br /> 
