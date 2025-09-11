@@ -56,10 +56,11 @@ Posts & Telecom Press, 2020.
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
-        <p>Nano Energy, Volume 89, 2021, p. 106330 Front Cover. <br /> 
-            Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
+        <img src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Advanced Energy Materials, Volume 12, Number 37, 2022, p. 2201132, Front Cover. <br /> 
+            A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
         </p>
+    </div>
     </div>
         <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/ScienceAdvancesCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
@@ -67,12 +68,11 @@ Posts & Telecom Press, 2020.
             An Ultrathin Rechargeable Solid-state Zinc Ion Fiber Battery for Electronic Textiles.
         </p>
     </div>
-        <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
-        <p>Advanced Energy Materials, Volume 12, Number 37, 2022, p. 2201132, Front Cover. <br /> 
-            A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Nano Energy, Volume 89, 2021, p. 106330 Front Cover. <br /> 
+            Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
         </p>
-    </div>
 </div>
 <!-- <br />
 <br />
