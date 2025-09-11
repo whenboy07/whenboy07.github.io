@@ -61,8 +61,7 @@ Posts & Telecom Press, 2020.
             A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
         </p>
     </div>
-    </div>
-        <div style="flex: 1; text-align: center;">
+    <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/ScienceAdvancesCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
         <p>Science Advances, Volume 7, Number 49, Dec. 2021, p. eabl3742, Front Cover. <br /> 
             An Ultrathin Rechargeable Solid-state Zinc Ion Fiber Battery for Electronic Textiles.
@@ -73,6 +72,7 @@ Posts & Telecom Press, 2020.
         <p>Nano Energy, Volume 89, 2021, p. 106330 Front Cover. <br /> 
             Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
         </p>
+    </div>
 </div>
 <!-- <br />
 <br />
