@@ -35,36 +35,42 @@ Posts & Telecom Press, 2020.
 # Journal Covers
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
-        <p>Nano Energy, Volume 89, Front Cover. <br /> 
-            Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
+        <img src="{{ site.url }}/images/covers&books/2025sa.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Science Advances, Volume 11, Number 37, Sept 2025, p. eadv9572, Front Cover. <br /> 
+            Magnetic Field–Enhanced Vertical Integration Enables Embodied Intelligence in Untethered Soft Robots.
+        </p>
+    </div>  
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/2025-JFR-FrontCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Journal of Field Robots, Volume 42, Mar. 2025, p. 2908-2919, Front Cover. <br /> 
+            SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation.
         </p>
     </div>
-        <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/ScienceAdvancesCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
-        <p>Science Advances, Volume 7, Number 49, Front Cover. <br /> 
-            An Ultrathin Rechargeable Solid-state Zinc Ion Fiber Battery for Electronic Textiles.
-        </p>
-    </div>
-        <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
-        <p>Advanced Energy Materials, Volume 12, Number 37, Front Cover. <br /> 
-            A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
-        </p>
-    </div>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
         <img src="{{ site.url }}/images/covers&books/NanoEnergyCover2.png" alt="Image 1" style="width: 200px; height: auto;">
         <p>Nano Energy, Volume 127, Aug. 2024, p. 109746, Front Cover. <br /> 
             A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
         </p>
     </div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/2025-JFR-FrontCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
-        <p>Journal of Field Robots, Volume 42, Mar. 2025, p. 2908-2919, Front Cover. <br /> 
-            SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation.
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Nano Energy, Volume 89, 2021, p. 106330 Front Cover. <br /> 
+            Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
+        </p>
+    </div>
+        <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/ScienceAdvancesCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Science Advances, Volume 7, Number 49, Dec. 2021, p. eabl3742, Front Cover. <br /> 
+            An Ultrathin Rechargeable Solid-state Zinc Ion Fiber Battery for Electronic Textiles.
+        </p>
+    </div>
+        <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Advanced Energy Materials, Volume 12, Number 37, 2022, p. 2201132, Front Cover. <br /> 
+            A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
         </p>
     </div>
 </div>
@@ -122,12 +128,13 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 # Selected Publications at SIGS
 ## 2025
-1. [AEM] Zihan Wang#, Jiarong Li#, Hongfa Zhao#, Jian Song, Zhong Lin Wang*, **Wenbo Ding\***. “Self-Powered Optical Communication: Opportunities, Challenges and Future Prospects,” Advanced Energy Materials (AEM), accepted.
-2. [TMECH] Shoujie Li, Jianle Xu, Tong Wu, Yang Yang, Yanbo Chen, Xueqian Wang, **Wenbo Ding**, Xiao-Ping Zhang, "VTire: A Bimodal Visuotactile Tire with High-Resolution Sensing Capability," Transactions on Mechatronics (TMECH), accepted. 
-3. [JFR] Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li and **Wenbo Ding\***, “SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation,” Journal of Field Robotics (JFR), accepted.
-4. [TMLR] Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu and **Wenbo Ding\***, “Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized and Masked Low-Rank Adaptation Approach,” Transactions on Machine Learning Research (TMLR), accepted. 
-5. [ICLR] Yixian Zhang, Huaze Tang, Huijing Lin and **Wenbo Ding\***, "Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning," The Thirteenth International Conference on Learning Representations (ICLR 2025), accepted.
-6. [ICASSP] Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang and **Wenbo Ding\***, "Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), accepted.
+1. [SA] Xiaosa Li#, Xiao Xiao#, Xiao Xiao#, Zixiao Liu, Junhao Gong, Zenan Lin, Bing Xue, Shibo Liu, Xinru Wu, Wei Zhang, Dongkai Wang, Runze Zhao, Zihan Wang, Xiongwei Zhong, Yiliang Lin, Patrick Chia, Ximin He, John S. Ho, Ghim Wei Ho, Wei Ouyang, **Wenbo Ding\***, Guangmin Zhou\*, Cecilia Laschi, Changsheng Wu\*. “Magnetic field–enhanced vertical integration enables embodied intelligence in untethered soft robots,” Science Advances (SA), accepted.
+2. [AEM] Zihan Wang#, Jiarong Li#, Hongfa Zhao#, Jian Song, Zhong Lin Wang*, **Wenbo Ding\***. “Self-Powered Optical Communication: Opportunities, Challenges and Future Prospects,” Advanced Energy Materials (AEM), accepted.
+3. [TMECH] Shoujie Li, Jianle Xu, Tong Wu, Yang Yang, Yanbo Chen, Xueqian Wang, **Wenbo Ding**, Xiao-Ping Zhang, "VTire: A Bimodal Visuotactile Tire with High-Resolution Sensing Capability," Transactions on Mechatronics (TMECH), accepted. 
+4. [JFR] Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li and **Wenbo Ding\***, “SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation,” Journal of Field Robotics (JFR), accepted.
+5. [TMLR] Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu and **Wenbo Ding\***, “Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized and Masked Low-Rank Adaptation Approach,” Transactions on Machine Learning Research (TMLR), accepted. 
+6. [ICLR] Yixian Zhang, Huaze Tang, Huijing Lin and **Wenbo Ding\***, "Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning," The Thirteenth International Conference on Learning Representations (ICLR 2025), accepted.
+7. [ICASSP] Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang and **Wenbo Ding\***, "Mean-Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), accepted.
 
 ## 2024
 1. [AFM] Kit-Wa Sou#, Wang-Sing Chan#, Kai-Chong Lei#, Zihan Wang*, Shoujie Li, Dengfeng Peng*, and **Wenbo Ding\***, "A Bio-inspired Event-driven Mechanoluminescent Visuotactile Sensor for Intelligent Interactions," Advanced Functional Materials, accepted.
