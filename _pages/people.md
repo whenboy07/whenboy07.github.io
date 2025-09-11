@@ -184,7 +184,7 @@ toc: true
             </div>
         </div>
         <div class="memberimg">
-            <img class="img-circle" src="../images/Member/ChenxinLiang.jpg" hover="../images/Member/ChenxinLiang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <img class="img-circle" src="../images/Member/ChenxinLiang.jpg" hover="../images/Member/ChenxinLiang.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Chenxin Liang<br>
                 2023 -<br>
