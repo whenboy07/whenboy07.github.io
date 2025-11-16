@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2025
+* [2025/11] I am invited to join the Nano Energy’s Early Career Researcher Board. Thank you for the nomination and recognition.
 * [2025/10] I am humbled to be selected as the New Generation Star at IROS 2025. Thank the committee for this recognition and this honor could not be possible without the efforts of all group members.
 * [2025/09] Our work on flexible integrated robot has been accepted by Science Advances (SA) as front cover. Congrats to Xiaosa!
 * [2025/08] Our work on robot liquid manipulation has been accepted by Journal of Field Robotics (JFR) as front cover. Congrats to Yan!
