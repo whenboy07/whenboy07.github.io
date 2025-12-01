@@ -36,6 +36,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2025/11] Hongfa and Chun received the China Postdoc General Projects, congrats!
 * [2025/11] One paper got accepted in AAAI 2026, congrats to Lingfeng!
 * [2025/11] I am invited to join the Nano Energy’s Early Career Researcher Board. Thank you for the nomination and recognition.
 * [2025/10] I am humbled to be selected as the New Generation Star at IROS 2025. Thank the committee for this recognition and this honor could not be possible without the efforts of all group members.
