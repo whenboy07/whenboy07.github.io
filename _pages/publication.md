@@ -74,6 +74,15 @@ Posts & Telecom Press, 2020.
         </p>
     </div>
 </div>
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/2025-Device" alt="Image 1" style="width: 200px; height: auto;">
+        <p>Device, Volume 3, Issue 12, 2025, p. 100933, Front Cover. <br /> 
+            Origami self-powered near-sensor computing system using 2D materials for deformation monitoring.
+        </p>
+    </div>
+</div>
 <!-- <br />
 <br />
 <br />
