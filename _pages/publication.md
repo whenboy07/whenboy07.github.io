@@ -33,21 +33,31 @@ Posts & Telecom Press, 2020.
 <br />
 
 # Journal Covers
+
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/2025sa.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <img src="{{ site.url }}/images/covers&books/2025-Device.jpg" alt="Device" style="width: 200px; height: auto;">
+        <p>Device, Volume 3, Issue 12, 2025, p. 100933, Front Cover. <br /> 
+            Origami self-powered near-sensor computing system using 2D materials for deformation monitoring.
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+        <img src="{{ site.url }}/images/covers&books/2025sa.jpg" alt="Science Advances" style="width: 200px; height: auto;">
         <p>Science Advances, Volume 11, Number 37, Sept 2025, p. eadv9572, Front Cover. <br /> 
             Magnetic Field–Enhanced Vertical Integration Enables Embodied Intelligence in Untethered Soft Robots.
         </p>
     </div>  
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/2025-JFR-FrontCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <img src="{{ site.url }}/images/covers&books/2025-JFR-FrontCover.jpg" alt="Journal of Field Robots" style="width: 200px; height: auto;">
         <p>Journal of Field Robots, Volume 42, Mar. 2025, p. 2908-2919, Front Cover. <br /> 
             SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation.
         </p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover2.png" alt="Image 1" style="width: 200px; height: auto;">
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover2.png" alt=">Nano Energy" style="width: 200px; height: auto;">
         <p>Nano Energy, Volume 127, Aug. 2024, p. 109746, Front Cover. <br /> 
             A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
         </p>
@@ -56,33 +66,25 @@ Posts & Telecom Press, 2020.
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <img src="{{ site.url }}/images/covers&books/AdvancedEnergyMaterialsCover.jpg" alt="Advanced Energy Materials" style="width: 200px; height: auto;">
         <p>Advanced Energy Materials, Volume 12, Number 37, 2022, p. 2201132, Front Cover. <br /> 
             A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring.
         </p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/ScienceAdvancesCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <img src="{{ site.url }}/images/covers&books/ScienceAdvancesCover.jpg" alt="Science Advances" style="width: 200px; height: auto;">
         <p>Science Advances, Volume 7, Number 49, Dec. 2021, p. eabl3742, Front Cover. <br /> 
             An Ultrathin Rechargeable Solid-state Zinc Ion Fiber Battery for Electronic Textiles.
         </p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Image 1" style="width: 200px; height: auto;">
+        <img src="{{ site.url }}/images/covers&books/NanoEnergyCover.jpg" alt="Nano Energy" style="width: 200px; height: auto;">
         <p>Nano Energy, Volume 89, 2021, p. 106330 Front Cover. <br /> 
             Triboelectric Bending Sensor based Smart Glove towards Intuitive Multi-Dimensional Human-Machine Interfaces.
         </p>
     </div>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; text-align: center;">
-        <img src="{{ site.url }}/images/covers&books/2025-Device" alt="Image 1" style="width: 200px; height: auto;">
-        <p>Device, Volume 3, Issue 12, 2025, p. 100933, Front Cover. <br /> 
-            Origami self-powered near-sensor computing system using 2D materials for deformation monitoring.
-        </p>
-    </div>
-</div>
 <!-- <br />
 <br />
 <br />
