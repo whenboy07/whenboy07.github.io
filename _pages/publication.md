@@ -139,7 +139,7 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 # Selected Publications at SIGS
 ## 2026
-1. [RA-L] Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***, “CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space”, IEEE Robotics and Automation Letters (RAL), accepted.
+1. [RA-L] Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***, “CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space”, IEEE Robotics and Automation Letters (RA-L), accepted.
 
 ## 2025
 1. [Device] Rongjie Zhang#, Qinghao Xu#, Yujie Sun, Zenan Lin, Keyou Wu, Ziwu Song, Zhentan Quan, Huaze Tang, Zihan Wang, Hongfa Zhao, Shoujie Li, **Wenbo Ding\***, Hui-Ming Cheng\*, Bilu Liu\*. “Origami self-powered near-sensor computing system using 2D materials for deformation monitoring，” Device, accepted.

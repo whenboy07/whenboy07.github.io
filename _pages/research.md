@@ -99,7 +99,7 @@ Ran Yu#, Haixin Yu#, Shoujie Li#, Yan Huang, Ziwu Song, **Wenbo Ding\***, IEEE I
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/CEI.gif" alt="...">
 CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space<br />
-Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***.<br />
+Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***. IEEE Robotics and Automation Letters (RA-L)<br />
 <a href="https://cross-embodiment-interface.github.io/">[website]</a>
 <!-- <a href="https://arxiv.org/abs/2409.10983">[arxiv]</a> -->
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
