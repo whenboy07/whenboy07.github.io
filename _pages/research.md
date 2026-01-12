@@ -103,7 +103,7 @@ Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **We
 <a href="https://cross-embodiment-interface.github.io/">[website]</a>
 <!-- <a href="https://arxiv.org/abs/2409.10983">[arxiv]</a> -->
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
-<!-- <a href="./papers/modex.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br /> -->
+<!-- <a href="./papers/modex.pdf">[pdf]</a>  <br /> -->
 <br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/HandySense.png" alt="...">
