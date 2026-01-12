@@ -36,6 +36,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2026/01] Our work on cross-embodiment learning for 3D visuomotor policy has been accepted by IEEE Robotics and Automation Letters (RAL). Congrats to Tong and Shoujie!
 * [2025/12] Our work on near-sensor computing and memory system has been accepted by Device as the front cover. Congrats to Qinghao!
 * [2025/11] Hongfa and Chun received the China Postdoc General Projects, congrats!
 * [2025/11] One paper got accepted in AAAI 2026, congrats to Lingfeng!

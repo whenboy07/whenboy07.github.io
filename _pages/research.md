@@ -97,13 +97,13 @@ Ran Yu#, Haixin Yu#, Shoujie Li#, Yan Huang, Ziwu Song, **Wenbo Ding\***, IEEE I
 <br />
 <br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/modex.gif" alt="...">
-MoDex: Planning High-Dimensional Dexterous Control via Learning Neural Internal Models<br />
-Tong Wu#, Shoujie Li#, Chuqiao Lyu, Kit-Wa Sou, Wang-Sing Chan, **Wenbo Ding\***.<br />
-<a href="https://tongwu19.github.io/MoDex/">[website]</a>
-<a href="https://arxiv.org/abs/2409.10983">[arxiv]</a>
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/CEI.gif" alt="...">
+CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space<br />
+Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***.<br />
+<a href="https://cross-embodiment-interface.github.io/">[website]</a>
+<!-- <a href="https://arxiv.org/abs/2409.10983">[arxiv]</a> -->
 <!-- <a href="xxx">[doi]</a> --> <!--under review-->
-<a href="./papers/modex.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br />
+<!-- <a href="./papers/modex.pdf">[pdf]</a> <!-- same as ArXiv ver.--><br /> -->
 <br />
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/HandySense.png" alt="...">
