@@ -4,9 +4,11 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-# 2025
-* [2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been accepted by Nature Sensors. Congrates to Shoujie and Tong!
+# 2026
+* [2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!
 * [2026/01] Our work on cross-embodiment learning for 3D visuomotor policy has been accepted by IEEE Robotics and Automation Letters (RA-L). Congrats to Tong and Shoujie!
+
+# 2025
 * [2025/12] Our work on near-sensor computing and memory system has been accepted by Device as the front cover. Congrats to Qinghao!
 * [2025/11] Hongfa and Chun received the China Postdoc General Projects, congrats!
 * [2025/11] One paper got accepted in AAAI 2026, congrats to Lingfeng!
