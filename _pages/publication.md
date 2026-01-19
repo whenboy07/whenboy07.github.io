@@ -139,7 +139,7 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 # Selected Publications at SIGS
 ## 2026
-1. [NS] Shoujie Li#, Tong Wu#, Jianle Xu#, Yan Huang, Zongwen Zhang, Hongfa Zhao, Qinghao Xu, Zihan Wang, Linqi Ye, Yang Yang, Chuqiao Lyu, Shilong Mu, Xueqian Wang, Zhaoqian Xie*, Changsheng Wu*, Xinge Yu*, **Wenbo Ding\***, “Biomimetic Multimodal Tactile Sensing Enables Human-like Robotic Perception”, Nature Sensors (NS), 1, 52–62 (2026).
+1. [NS] Shoujie Li#, Tong Wu#, Jianle Xu#, Yan Huang, Zongwen Zhang, Hongfa Zhao, Qinghao Xu, Zihan Wang, Linqi Ye, Yang Yang, Chuqiao Lyu, Shilong Mu, Xueqian Wang, Zhaoqian Xie\*, Changsheng Wu\*, Xinge Yu\*, **Wenbo Ding\***, “Biomimetic Multimodal Tactile Sensing Enables Human-like Robotic Perception”, Nature Sensors (NS), 1, 52–62 (2026).
 2. [RA-L] Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***, “CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space”, IEEE Robotics and Automation Letters (RA-L), accepted.
 
 ## 2025
