@@ -36,6 +36,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2026/01] Two papers got accepted in ICASSP 2026. Congrats to Baiqiao and Hao.
 * [2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!
 * [2026/01] Our work on cross-embodiment learning for 3D visuomotor policy has been accepted by IEEE Robotics and Automation Letters (RA-L). Congrats to Tong and Shoujie!
 * [2025/12] Our work on near-sensor computing and memory system has been accepted by Device as the front cover. Congrats to Qinghao!
