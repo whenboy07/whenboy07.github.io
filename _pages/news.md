@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2026
+* [2026/01] Our work on Event-based Visuotactile Perception with Active Vibration has been accepted by IEEE Transaction on Robotics (T-RO)! Congrats to Shoujie and Changqing!
 * [2026/01] Two papers got accepted in ICASSP 2026. Congrats to Baiqiao and Hao.
 * [2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!
 * [2026/01] Our work on cross-embodiment learning for 3D visuomotor policy has been accepted by IEEE Robotics and Automation Letters (RA-L). Congrats to Tong and Shoujie!
