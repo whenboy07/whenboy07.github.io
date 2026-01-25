@@ -268,7 +268,9 @@ toc: true
             </div>
             <div class="info2">
                 <a href="https://zhang-lingfeng.github.io">Lingfeng Zhang</a><br>
-                2025 -<br>
+                Embodied AI<br>
+                BEng(BIT)<br>
+                Mphil(HKUSTGZ)<br>
             </div>
         </div>
     </div>
