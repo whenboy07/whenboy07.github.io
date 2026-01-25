@@ -248,6 +248,29 @@ toc: true
                 BEng(THU)<br>
             </div>
         </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/YifanXie.jpeg" hover="../images/Member/YifanXie.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                <a href="https://ivanxie416.github.io/">Yifan Xie</a><br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                <a href="https://ivanxie416.github.io/">Yifan Xie</a><br>
+                MLLM<br>
+                BEng(CHD), MS(XJTU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/LingfengZhang.jpeg" hover="../images/Member/LingfengZhang.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                <a href="https://zhang-lingfeng.github.io">Lingfeng Zhang</a><br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                <a href="https://zhang-lingfeng.github.io">Lingfeng Zhang</a><br>
+                2025 -<br>
+            </div>
+        </div>
     </div>
     <br>
     <br>
@@ -680,7 +703,131 @@ toc: true
                 BEng(NEU)<br>
             </div>
         </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HengfeiZhao.jpeg" hover="../images/Member/HengfeiZhao.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Hengfei Zhao<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Hengfei Zhao<br>
+                Robotics<br>
+                BS(THU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HourongHuang.jpeg" hover="../images/Member/HourongHuang_moment.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Hourong Huang<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Hourong Huang<br>
+                Robotics<br>
+                BEng(THU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/YangXu.jpeg" hover="../images/Member/YangXu.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Yang Xu<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Yang Xu<br>
+                wearable device<br>
+                BEng(THU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/HekunTian.jpg" hover="../images/Member/HekunTian_moment.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Hekun Tian<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Yang Xu<br>
+                Embodied AI<br>
+                BEng(XJTU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/YiweiLiu.jpeg" hover="../images/Member/YiweiLiu.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Yiwei Liu<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Yiwei Liu<br>
+                Embodied AI<br>
+                BEng(UESTC)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/ChunkangLiu.jpeg" hover="../images/Member/ChunkangLiu.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Chunkang Liu<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Chunkang Liu<br>
+                MARL<br>
+                BMgt(NEU)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/WeiHou.jpeg" hover="../images/Member/WeiHou.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Wei Hou<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Wei Hou<br>
+                Embodied AI<br>
+                <br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/LamNguyen.jpeg" hover="../images/Member/LamNguyen_moment.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Lam Nguyen<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Lam Nguyen<br>
+                MARL, LLMs<br>
+                BEng(SUSTech)<br>
+            </div>
+        </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/JiayangChen.jpg" hover="../images/Member/JiayangChen.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Redmund Chen<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Redmund Chen<br>
+                LLMs<br>
+                <br>
+            </div>
+        </div>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <br>
     <br>
     <br>
