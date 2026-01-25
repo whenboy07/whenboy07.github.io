@@ -808,7 +808,7 @@ toc: true
             <div class="info2">
                 Redmund Chen<br>
                 LLMs<br>
-                <br>
+                BS(UNC Chapel Hill)<br>
             </div>
         </div>
     </div>
