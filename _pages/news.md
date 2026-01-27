@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 # 2026
+* [2026/01] Three of our papers have been accepted to ICLR 2026! These works cover stable off-policy RL for flow policies, second-order non-parametric policy gradient algorithms, and improvements in sample-efficient reinforcement learning. Congrats to Yixian and Chao!
+* [2026/01] Our work on Ensemble MARL for heterogeneous UAV swarm target search has been accepted by IEEE TMC. Congrats to Xuan, Changxu and Yixian!
 * [2026/01] Our work on Event-based Visuotactile Perception with Active Vibration has been accepted by IEEE Transaction on Robotics (T-RO)! Congrats to Shoujie and Changqing!
 * [2026/01] Two papers got accepted in ICASSP 2026. Congrats to Baiqiao and Hao.
 * [2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!

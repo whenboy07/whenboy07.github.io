@@ -139,9 +139,13 @@ A hybrid Wind and Raindrop Energy Harvesting Operating on Savonius Turbine.
 
 # Selected Publications at SIGS
 ## 2026
-1. [T-RO] Shoujie Li#, Changqing Guo#, Junhao Gong, Chenxin Liang, Wenhua Ding, **Wenbo Ding\***, “SandWorm: Event-based Visuotactile Perception with Active Vibration for Screw-Actuated Robot in Granular Media”, IEEE Transaction on Robotics (T-RO), accepted.
-2. [NS] Shoujie Li#, Tong Wu#, Jianle Xu#, Yan Huang, Zongwen Zhang, Hongfa Zhao, Qinghao Xu, Zihan Wang, Linqi Ye, Yang Yang, Chuqiao Lyu, Shilong Mu, Xueqian Wang, Zhaoqian Xie\*, Changsheng Wu\*, Xinge Yu\*, **Wenbo Ding\***, “Biomimetic Multimodal Tactile Sensing Enables Human-like Robotic Perception”, Nature Sensors (NS), 1, 52–62 (2026).
-3. [RA-L] Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***, “CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space”, IEEE Robotics and Automation Letters (RA-L), accepted.
+1. [ICLR] Yixian Zhang, Shu'ang Yu, Tonghe Zhang, Mo Guang, Haojia Hui, Kaiwen Long, Yu Wang, Chao Yu, **Wenbo Ding\***. “SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling," The Fourteenth International Conference on Learning Representations (ICLR 2026), accepted.
+2. [ICLR] Yixian Zhang, Huaze Tang, Changxu Wei, Chao Wang, **Wenbo Ding\***. “Policy Newton Algorithm in Reproducing Kernel Hilbert Space," The Fourteenth International Conference on Learning Representations (ICLR 2026), accepted.
+3. [ICLR] Chao Wang, Tao Yang, Hongtao Tian, Yunsheng Shi, Qiyao Ma, XiaotaoLiu, Ting Yao, **Wenbo Ding\***. “Learning More with Less: A Dynamic Dual-Level Down-Sampling Framework for Efficient Policy Optimization", The Fourteenth International Conference on Learning Representations (ICLR 2026), accepted.
+4. [IEEE TMC] Xuan Zhang#, Changxu Wei#, Ziyuan Wang#, Yixian Zhang, **Wenbo Ding\*** and Xiao-Ping Zhang. "An ensemble MARL approach for heterogeneous UAV swarm target search in 3D space," IEEE Transactions on Mobile Computing (TMC 2026), accepted.
+5. [T-RO] Shoujie Li#, Changqing Guo#, Junhao Gong, Chenxin Liang, Wenhua Ding, **Wenbo Ding\***, “SandWorm: Event-based Visuotactile Perception with Active Vibration for Screw-Actuated Robot in Granular Media”, IEEE Transaction on Robotics (T-RO), accepted.
+6. [NS] Shoujie Li#, Tong Wu#, Jianle Xu#, Yan Huang, Zongwen Zhang, Hongfa Zhao, Qinghao Xu, Zihan Wang, Linqi Ye, Yang Yang, Chuqiao Lyu, Shilong Mu, Xueqian Wang, Zhaoqian Xie\*, Changsheng Wu\*, Xinge Yu\*, **Wenbo Ding\***, “Biomimetic Multimodal Tactile Sensing Enables Human-like Robotic Perception”, Nature Sensors (NS), 1, 52–62 (2026).
+7. [RA-L] Tong Wu#, Shoujie Li#, Junhao Gong, Changqing Guo, Xingting Li, Shilong Mu, **Wenbo Ding\***, “CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space”, IEEE Robotics and Automation Letters (RA-L), accepted.
 
 ## 2025
 1. [Device] Rongjie Zhang#, Qinghao Xu#, Yujie Sun, Zenan Lin, Keyou Wu, Ziwu Song, Zhentan Quan, Huaze Tang, Zihan Wang, Hongfa Zhao, Shoujie Li, **Wenbo Ding\***, Hui-Ming Cheng\*, Bilu Liu\*. “Origami self-powered near-sensor computing system using 2D materials for deformation monitoring，” Device, accepted.
