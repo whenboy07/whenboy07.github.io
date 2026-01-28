@@ -785,8 +785,8 @@ toc: true
             </div>
             <div class="info2">
                 Wei Hou<br>
-                Embodied AI<br>
-                <br>
+                Robotics<br>
+                BEng(SJTU)<br>
             </div>
         </div>
         <div class="memberimg">
