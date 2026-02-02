@@ -36,19 +36,19 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* **[2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!**
+* **[2025/09] Our work on flexible integrated robot has been accepted by Science Advances (SA) as front cover. Congrats to Xiaosa!**
 * [2026/02] Two papers got accepted in ICRA 2026, congrats to Kit-Wa, Junhao, Yushan and Shilong. See you in Vienna!
 * [2026/01] Three of our papers have been accepted to ICLR 2026! These works cover stable off-policy RL for flow policies, second-order non-parametric policy gradient algorithms, and improvements in sample-efficient reinforcement learning. Congrats to Yixian and Chao!
 * [2026/01] Our work on Ensemble MARL for heterogeneous UAV swarm target search has been accepted by IEEE TMC. Congrats to Xuan, Changxu, Ziyuan and Yixian!
 * [2026/01] Our work on Event-based Visuotactile Perception with Active Vibration has been accepted by IEEE Transaction on Robotics (T-RO)! Congrats to Shoujie and Changqing!
 * [2026/01] Two papers got accepted in ICASSP 2026. Congrats to Baiqiao and Hao.
-* [2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!
 * [2026/01] Our work on cross-embodiment learning for 3D visuomotor policy has been accepted by IEEE Robotics and Automation Letters (RA-L). Congrats to Tong and Shoujie!
 * [2025/12] Our work on near-sensor computing and memory system has been accepted by Device as the front cover. Congrats to Qinghao!
 * [2025/11] Hongfa and Chun received the China Postdoc General Projects, congrats!
 * [2025/11] One paper got accepted in AAAI 2026, congrats to Lingfeng!
 * [2025/11] I am invited to join the Nano Energy’s Early Career Researcher Board. Thank you for the nomination and recognition.
 * [2025/10] I am humbled to be selected as the New Generation Star at IROS 2025. Thank the committee for this recognition and this honor could not be possible without the efforts of all group members.
-* [2025/09] Our work on flexible integrated robot has been accepted by Science Advances (SA) as front cover. Congrats to Xiaosa!
 * [2025/08] Our work on robot liquid manipulation has been accepted by Journal of Field Robotics (JFR) as front cover. Congrats to Yan!
 * [2025/07] Our work on Self-Powered Optical Communication: Opportunities, Challenges and Future Prospects has been accepted by Advanced Energy Materials (AEM). Congrats to Zihan, Jiarong and Hongfa!
 * [2025/04] Our work on bimodal visuotactile tire has been accepted by Transactions on Mechatronics (TMECH). Congrats to Shoujie!
