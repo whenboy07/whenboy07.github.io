@@ -36,6 +36,7 @@ Please email me with a copy of your CV if you are interested.
 <!-- Visit [Opportunities](/opportunities/) for all the opportunities. -->
 
 ## [News](/news/)
+* [2026/02] Two papers got accepted in ICRA 2026, congrats to Kit-Wa, Junhao, Yushan and Shilong. See you in Vienna!
 * [2026/01] Three of our papers have been accepted to ICLR 2026! These works cover stable off-policy RL for flow policies, second-order non-parametric policy gradient algorithms, and improvements in sample-efficient reinforcement learning. Congrats to Yixian and Chao!
 * [2026/01] Our work on Ensemble MARL for heterogeneous UAV swarm target search has been accepted by IEEE TMC. Congrats to Xuan, Changxu, Ziyuan and Yixian!
 * [2026/01] Our work on Event-based Visuotactile Perception with Active Vibration has been accepted by IEEE Transaction on Robotics (T-RO)! Congrats to Shoujie and Changqing!
