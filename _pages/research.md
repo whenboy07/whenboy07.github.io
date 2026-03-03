@@ -27,44 +27,47 @@ We conduct the interdisciplinary research in the emerging field of robotics, mac
 
 <!-- # Research Keywords -->
 
-## Multi-Agent Systems
+## Tactile Interaction
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/generalization_large_models.png" alt="Regularized and Masked LoRA">
-Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized and Masked Low-Rank Adaptation Approach<br />
-Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu, **Wenbo Ding\***. Transactions on Machine Learning Research, pp. 2835-8856, 2025.<br />
-[[doi]](https://doi.org/10.48550/arXiv.2407.12074) [[arXiv]](https://arxiv.org/abs/2407.12074)<br />
-<br />
-<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vibrobot.gif" alt="VibroBot">
+VibroBot: A Lightweight and Wirelessly Programmable Vibration Bot for Haptic Guidance<br />
+Xiaosa Li, Runze Zhao, Xinyue Chai, Zimo Wang, Qianqian Tong, **Wenbo Ding\***. IEEE Robotics and Automation Letters, vol. 9, no. 12, pp. 10882-10889, Dec 2024.<br />
+[[doi]](https://doi.org/10.1109/LRA.2024.3481828)<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/ResKPN.jpg" alt="Residual Kernel Policy Networks">
-Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning<br />
-Yixian Zhang#, Huaze Tang#, Huijing Lin, **Wenbo Ding\***. The Thirteenth International Conference on Learning Representations, 2025. 
-[[pdf]](https://iclr.cc/virtual/2025/poster/31103)<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/m3tac.gif" alt="M3Tac">
+M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory Capabilities<br />
+Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE Transactions on Robotics, vol. 40, pp. 4506-4525, 2024.<br />
+[[website]](https://sites.google.com/view/MTac-sensor) [[doi]](https://doi.org/10.1109/TRO.2024.34629318) [[pdf]](https://www.shoujie.top/media/paper/TRO2024/paper.pdf)<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/MF-QMIX.png" alt="MF-QMIX">
-Mean Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups<br />
-Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.<br />
-[[doi]](https://doi.org/10.1109/ICASSP49660.2025.10887881) <br />
-<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/visualtactilefusion.gif" alt="Visual-tactile Fusion">
+Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds<br />
+Shoujie Li#, Haixin Yu#, **Wenbo Ding**, Houde Liu, Linqi Ye, Chongkun Xia, Xueqian Wang, Xiao-Ping Zhang. IEEE Transactions on Robotics, vol. 39, no. 5, pp. 3838-3856, Oct. 2024.<br />
+[[website]](https://sites.google.com/view/visual-tactilefusion) [[doi]](https://doi.org/10.1109/TRO.2023.3286071) [[pdf]](https://www.shoujie.top/media/paper/TRO2022/paper.pdf)<br />
 
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/visuotactile_swab.gif" alt="Oropharyngeal Swab Sampling">
+Visuotactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling<br />
+Shoujie Li, Mingshan He, **Wenbo Ding**, Linqi Ye, Xueqian Wang, Junbo Tan, Jinqiu Yuan, Xiao-Ping Zhang. 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.<br />
+[[website]](https://sites.google.com/view/swab-sampling/) [[doi]](https://doi.org/10.1109/IROS55552.2023.10342266) [[pdf]](https://www.shoujie.top/media/paper/IROS2023/paper.pdf)<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Scalable-V2X-MF-MARL.png" alt="Scalable-V2X-MF-MARL">
-A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation<br />
-Xuan Zhang#, Hengxi Zhang#, Huaze Tang, Le Liang, Ling Cheng, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Intelligent Vehicles, pp. 1-16, 2024.<br />
-[[doi]](https://doi.org/10.1109/TIV.2024.3422506) <br />
-<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/emfinger.gif" alt="EM-Finger">
+A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing<br />
+Shilong Mu#, Shoujie Li#, Hongfa Zhao#, Zihan Wang, Xiao Xiao, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee, Changsheng Wu, **Wenbo Ding\***. Nano Energy, vol. 116, 108790, 2023.<br />
+[[doi]](https://doi.org/10.1016/j.nanoen.2023.108790) [[pdf]](https://charon-bo.github.io/assets/PDF/NanoEnergy-EM-Finger.pdf)<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/CG-MARL.png" alt="CG-MARL">
-Mean-Field-Aided Multiagent Reinforcement Learning for Resource Allocation in Vehicular Networks <br />
-Hengxi Zhang, Chengyue Lu, Huaze Tang, Xiaoli Wei, Le Liang, Ling Cheng, **Wenbo Ding**, Zhu Han. IEEE Internet of Things Journal, vol. 10, no. 3, pp. 2667-2679, 2023.<br />
-[[doi]](https://doi.org/10.1109/JIOT.2022.3214525) <br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/satac.gif" alt="SATac">
+SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear<br />
+Ziwu Song#, Ran Yu#, Xuan Zhang, Kit Wa Sou, Shilong Mu, Dengfeng Peng, Xiao-Ping Zhang, **Wenbo Ding\***. 2024 IEEE International Conference on Robotics and Automation (ICRA) 2024.<br />
+[[doi]](https://doi.org/10.1109/ICRA57147.10610373)<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/AQUILA.jpg" alt="AQUILA">
-AQUILA: Communication Efficient Federated Learning With Adaptive Quantization in Device Selection Strategy <br />
-Zihao Zhao#, Yuzhu Mao#, Zhenpeng Shi, Yang Liu, Tian Lan, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Mobile Computing, vol. 23, no. 6, pp. 7363-7376, 2024.<br />
-[[doi]](https://doi.org/10.1109/TMC.2023.3332901) <br />
-<br />
-<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/tactid.gif" alt="TacTID">
+TacTID: High-Performance Visuo-Tactile Sensor-Based Terrain Identification for Legged Robots<br />
+Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding\***, and Xiao-Ping Zhang. IEEE Sensors Journal, Vol. 24, No. 16, pp. 26487-26495, 2024.<br />
+[[doi]](https://doi.org/10.1109/JSEN.2024.3417514)<br />
+
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vet.gif" alt="VET">
+VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction<br />
+Cong Zhang#, Yisheng Yang#, Shilong Mu#, Chuqiao Lyu, Shoujie Li, Xinyue Chai, **Wenbo Ding\***. <br />
+[arXiv](https://arxiv.org/abs/2503.23440)<br />
 
 ## Embodied Intelligence
 
@@ -191,47 +194,44 @@ Yang Luo#, Zihan Wang#, Jiyu Wang, Xiao Xiao, Qian Li, **Wenbo Ding**, Hongyan F
 <a href="https://doi.org/10.1016/j.nanoen.2021.106330">[doi]</a>
 <a href="./papers/BA-TENG.pdf">[pdf]</a><br />
 
-## Tactile Interaction
+## Multi-Agent Systems
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vibrobot.gif" alt="VibroBot">
-VibroBot: A Lightweight and Wirelessly Programmable Vibration Bot for Haptic Guidance<br />
-Xiaosa Li, Runze Zhao, Xinyue Chai, Zimo Wang, Qianqian Tong, **Wenbo Ding\***. IEEE Robotics and Automation Letters, vol. 9, no. 12, pp. 10882-10889, Dec 2024.<br />
-[[doi]](https://doi.org/10.1109/LRA.2024.3481828)<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/generalization_large_models.png" alt="Regularized and Masked LoRA">
+Enhancing Parameter Efficiency and Generalization in Large Models: A Regularized and Masked Low-Rank Adaptation Approach<br />
+Yuzhu Mao, Zihao Zhao, Siqi Ping, Yang Liu, **Wenbo Ding\***. Transactions on Machine Learning Research, pp. 2835-8856, 2025.<br />
+[[doi]](https://doi.org/10.48550/arXiv.2407.12074) [[arXiv]](https://arxiv.org/abs/2407.12074)<br />
+<br />
+<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/m3tac.gif" alt="M3Tac">
-M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory Capabilities<br />
-Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE Transactions on Robotics, vol. 40, pp. 4506-4525, 2024.<br />
-[[website]](https://sites.google.com/view/MTac-sensor) [[doi]](https://doi.org/10.1109/TRO.2024.34629318) [[pdf]](https://www.shoujie.top/media/paper/TRO2024/paper.pdf)<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/ResKPN.jpg" alt="Residual Kernel Policy Networks">
+Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning<br />
+Yixian Zhang#, Huaze Tang#, Huijing Lin, **Wenbo Ding\***. The Thirteenth International Conference on Learning Representations, 2025. 
+[[pdf]](https://iclr.cc/virtual/2025/poster/31103)<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/visualtactilefusion.gif" alt="Visual-tactile Fusion">
-Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds<br />
-Shoujie Li#, Haixin Yu#, **Wenbo Ding**, Houde Liu, Linqi Ye, Chongkun Xia, Xueqian Wang, Xiao-Ping Zhang. IEEE Transactions on Robotics, vol. 39, no. 5, pp. 3838-3856, Oct. 2024.<br />
-[[website]](https://sites.google.com/view/visual-tactilefusion) [[doi]](https://doi.org/10.1109/TRO.2023.3286071) [[pdf]](https://www.shoujie.top/media/paper/TRO2022/paper.pdf)<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/MF-QMIX.png" alt="MF-QMIX">
+Mean Field Aided QMIX: A Scalable and Flexible Q-Learning Approach for Large-Scale Agent Groups<br />
+Enze Zhang#, Huaze Tang#, Xiao-Ping Zhang, **Wenbo Ding\***. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.<br />
+[[doi]](https://doi.org/10.1109/ICASSP49660.2025.10887881) <br />
+<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/visuotactile_swab.gif" alt="Oropharyngeal Swab Sampling">
-Visuotactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling<br />
-Shoujie Li, Mingshan He, **Wenbo Ding**, Linqi Ye, Xueqian Wang, Junbo Tan, Jinqiu Yuan, Xiao-Ping Zhang. 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.<br />
-[[website]](https://sites.google.com/view/swab-sampling/) [[doi]](https://doi.org/10.1109/IROS55552.2023.10342266) [[pdf]](https://www.shoujie.top/media/paper/IROS2023/paper.pdf)<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/emfinger.gif" alt="EM-Finger">
-A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing<br />
-Shilong Mu#, Shoujie Li#, Hongfa Zhao#, Zihan Wang, Xiao Xiao, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee, Changsheng Wu, **Wenbo Ding\***. Nano Energy, vol. 116, 108790, 2023.<br />
-[[doi]](https://doi.org/10.1016/j.nanoen.2023.108790) [[pdf]](https://charon-bo.github.io/assets/PDF/NanoEnergy-EM-Finger.pdf)<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Scalable-V2X-MF-MARL.png" alt="Scalable-V2X-MF-MARL">
+A Scalable Mean-Field MARL Framework for Multi-Objective V2X Resource Allocation<br />
+Xuan Zhang#, Hengxi Zhang#, Huaze Tang, Le Liang, Ling Cheng, Xinlei Chen, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Intelligent Vehicles, pp. 1-16, 2024.<br />
+[[doi]](https://doi.org/10.1109/TIV.2024.3422506) <br />
+<br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/satac.gif" alt="SATac">
-SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear<br />
-Ziwu Song#, Ran Yu#, Xuan Zhang, Kit Wa Sou, Shilong Mu, Dengfeng Peng, Xiao-Ping Zhang, **Wenbo Ding\***. 2024 IEEE International Conference on Robotics and Automation (ICRA) 2024.<br />
-[[doi]](https://doi.org/10.1109/ICRA57147.10610373)<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/CG-MARL.png" alt="CG-MARL">
+Mean-Field-Aided Multiagent Reinforcement Learning for Resource Allocation in Vehicular Networks <br />
+Hengxi Zhang, Chengyue Lu, Huaze Tang, Xiaoli Wei, Le Liang, Ling Cheng, **Wenbo Ding**, Zhu Han. IEEE Internet of Things Journal, vol. 10, no. 3, pp. 2667-2679, 2023.<br />
+[[doi]](https://doi.org/10.1109/JIOT.2022.3214525) <br />
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/tactid.gif" alt="TacTID">
-TacTID: High-Performance Visuo-Tactile Sensor-Based Terrain Identification for Legged Robots<br />
-Ziwu Song#, Chenchang Li#, Zhentan Quan, Shilong Mu, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, **Wenbo Ding\***, and Xiao-Ping Zhang. IEEE Sensors Journal, Vol. 24, No. 16, pp. 26487-26495, 2024.<br />
-[[doi]](https://doi.org/10.1109/JSEN.2024.3417514)<br />
-
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/vet.gif" alt="VET">
-VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction<br />
-Cong Zhang#, Yisheng Yang#, Shilong Mu#, Chuqiao Lyu, Shoujie Li, Xinyue Chai, **Wenbo Ding\***. <br />
-[arXiv](https://arxiv.org/abs/2503.23440)<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/AQUILA.jpg" alt="AQUILA">
+AQUILA: Communication Efficient Federated Learning With Adaptive Quantization in Device Selection Strategy <br />
+Zihao Zhao#, Yuzhu Mao#, Zhenpeng Shi, Yang Liu, Tian Lan, **Wenbo Ding**, Xiao-Ping Zhang. IEEE Transactions on Mobile Computing, vol. 23, no. 6, pp. 7363-7376, 2024.<br />
+[[doi]](https://doi.org/10.1109/TMC.2023.3332901) <br />
+<br />
+<br />
 
 ## Surveys
 
