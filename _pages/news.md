@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 # 2026
+* [2026/03] I am very honored to be invited to serve as the associate editor for IEEE Robotics and Autumation Letters (RA-L)!
+* [2026/03] I am very honored to be selected for EAI Pioneer 20 by ModelScope and also congrats to Shoujie being selected for EAI Next 20. (https://modelscope.cn/brand/view/EAI-100)
 * [2026/02] One paper got accepted by CVPR 2026. Congrats to Lingfeng!
 * [2026/02] Two papers got accepted in ICRA 2026, congrats to Kit-Wa, Junhao, Yushan and Shilong. See you in Vienna!
 * [2026/01] Three of our papers have been accepted to ICLR 2026! These works cover stable off-policy RL for flow policies, second-order non-parametric policy gradient algorithms, and improvements in sample-efficient reinforcement learning. Congrats to Yixian and Chao!
