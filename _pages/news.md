@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2026
+* [2026/06] I am honored to receive the Sensors Young Investigator Award. Thank you for the recognition from the award committee and all the efforts from my group members.
 * [2026/03] I am very honored to be invited to serve as the associate editor for IEEE Robotics and Autumation Letters (RA-L)!
 * [2026/03] I am very honored to be selected for EAI Pioneer 20 by ModelScope and also congrats to Shoujie being selected for [EAI Next 20](https://modelscope.cn/brand/view/EAI-100). 
 * [2026/02] One paper got accepted by CVPR 2026. Congrats to Lingfeng!
