@@ -38,7 +38,7 @@ Please email me with a copy of your CV if you are interested.
 ## [News](/news/)
 * **[2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!**
 * **[2025/09] Our work on flexible integrated robot has been accepted by Science Advances (SA) as front cover. Congrats to Xiaosa!**
-* [2026/06] I am honored to receive the Sensors Young Investigator Award. Thank you for the recognition from the award committee and all the efforts from my group members.
+* [2026/06] I am honored to receive the Sensors Young Investigator Award. Thank you for the recognition from the award committee and all the efforts from my group members. The interview could be found at: [https://www.mdpi.com/journal/sensors/announcements/17253](https://www.mdpi.com/journal/sensors/announcements/17253)
 * [2026/03] I am very honored to be invited to serve as the associate editor for IEEE Robotics and Autumation Letters (RA-L)!
 * [2026/03] I am very honored to be selected for EAI Pioneer 20 by ModelScope and also congrats to Shoujie being selected for [EAI Next 20](https://modelscope.cn/brand/view/EAI-100). 
 * [2026/02] One paper got accepted by CVPR 2026. Congrats to Lingfeng!
