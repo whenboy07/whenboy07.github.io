@@ -75,7 +75,7 @@ toc: true
             <a href='http://zh-wang.top'>Zihan Wang</a><br>
             2019 -<br> -->
         <!-- </div>  -->
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/ZiwuSong.jpg" hover="../images/Member/ZiwuSong.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Ziwu Song<br>
@@ -86,7 +86,7 @@ toc: true
                 Tactile Sensing<br>
                 BEng(NJUST)<br>
             </div>
-        </div>
+        </div> -->
         <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/lsj.png" hover="../images/Member/lsj.png" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -99,7 +99,7 @@ toc: true
                 BEng(UPC)<br>
             </div>
         </div> -->
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/wangchao.jpg" hover="../images/Member/wangchao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Chao Wang<br>
@@ -110,7 +110,7 @@ toc: true
                 MARL<br>
                 BS(ZJU)<br>
             </div>
-        </div>
+        </div> -->
         <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/XiaosaLi.jpg" hover="../images/Member/XiaosaLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -135,7 +135,7 @@ toc: true
                 BEng&MS(DMU)<br>
             </div>            
         </div> -->
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/Kit-Wa.jpg" hover="../images/Member/Kit-Wa.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Kit-Wa Sou<br>
@@ -146,7 +146,7 @@ toc: true
                 Tactile Sensor<br>
                 BEng(NCTU), MS(THU)<br>
             </div>
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/HuazeTang.jpg" hover="../images/Member/HuazeTang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -159,7 +159,7 @@ toc: true
                 BEng(SEU)<br>
             </div>
         </div>
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/qinghao.jpg" hover="../images/Member/qinghao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Qinghao Xu<br>
@@ -170,8 +170,8 @@ toc: true
                 Wireless Bioelectronics<br>
                 BEng&MS(NJUPT)<br>
             </div>            
-        </div>
-        <div class="memberimg">
+        </div> -->
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/JiarongLi.jpg" hover="../images/Member/JiarongLi.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 <a href="http://www.jiarongli.work">Jiarong Li</a><br>
@@ -182,7 +182,7 @@ toc: true
                 Ubiquitous Sensing<br>
                 BEng(UESTC), MS(THU)
             </div>
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/ChenxinLiang.jpg" hover="../images/Member/ChenxinLiang.jpeg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -203,7 +203,7 @@ toc: true
             </div>
             <div class="info2">
                 <a href="https://tongwu19.github.io/">Tong Wu</a><br>
-                Dexterous Manipulation<br>
+                Cross-Embodiment Learning<br>
                 BEng(THU)<br>
             </div>
         </div>
@@ -901,6 +901,11 @@ toc: true
     <br>
     <br> -->
     <h2>Alumni</h2>
+    - Ziwu Song, Ph.D. Student (2026), now at Xsquare Robot.<br>
+    - Chao Wang, Ph.D. Student (2026), now at Tencent Wechat.<br>
+    - Kit-Wa Sou, Ph.D. Student (2026), now at Avant Robotics.<br>
+    - Qinghao Xu, Ph.D. Student (2026).<br>
+    - Jiarong Li, Ph.D. Student (2026).<br>
     - Shoujie Li, Ph.D. Student (2025), now Post-Doctoral Fellow at Nanyang Technological University.<br>
     - Hongfa Zhao, Ph.D. Student (2025), now Post-Doctoral Fellow at Tsinghua SIGS.<br>
     - Xiaosa Li, Ph.D. Student (2025), now Post-Doctoral Fellow at Pengcheng Lab.<br>
