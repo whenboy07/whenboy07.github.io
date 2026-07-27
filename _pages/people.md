@@ -412,7 +412,7 @@ toc: true
                 BS(USTC)<br>
             </div>
         </div> -->
-        <div class="memberimg">
+        <!-- <div class="memberimg">
             <img class="img-circle" src="../images/Member/XinyueChai.jpg" hover="../images/Member/XinyueChai_moment.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
                 Xinyue Chai<br>
@@ -519,7 +519,7 @@ toc: true
                 Smart Sensing<br>
                 BEng(WHUT)<br>
             </div>
-        </div>
+        </div> -->
         <div class="memberimg">
             <img class="img-circle" src="../images/Member/YixianZhang.jpg" hover="../images/Member/YixianZhang.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
             <div class="info1">
@@ -847,22 +847,6 @@ toc: true
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <!-- <h2>Visiting Students</h2>
     <div class="card" >
         <div class="memberimg">
@@ -899,6 +883,15 @@ toc: true
     - Kit-Wa Sou, Ph.D. Student (2026), now at Avant Robotics.<br>
     - Qinghao Xu, Ph.D. Student (2026).<br>
     - Jiarong Li, Ph.D. Student (2026).<br>
+    - Xinyue Chai, MS Student (2026).<br>
+    - Ruize Zhang, MS Student (2026), now at MiniMax.<br>
+    - Changxu Wei, MS Student (2026), now Ph.D. Student at PolyU of HK.<br>
+    - Xuan Zhang, MS Student (2026).<br>
+    - Ran Yu, MS Student (2026), now at Xsquare Robot.<br>
+    - Xingting Yang, MS Student (2026).<br>
+    - Liguang Ruan, MS Student (2026), now at ByteDance.<br>
+    - Enze Zhang, MS Student (2026), now Ph.D. Student at CityU of HK.<br>
+    - Jingyang Wang, MS Student (2026), now at Shokz.<br>
     - Shoujie Li, Ph.D. Student (2025), now Post-Doctoral Fellow at Nanyang Technological University.<br>
     - Hongfa Zhao, Ph.D. Student (2025), now Post-Doctoral Fellow at Tsinghua SIGS.<br>
     - Xiaosa Li, Ph.D. Student (2025), now Post-Doctoral Fellow at Pengcheng Lab.<br>
