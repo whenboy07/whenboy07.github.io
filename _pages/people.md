@@ -883,7 +883,7 @@ toc: true
     - Kit-Wa Sou, Ph.D. Student (2026), now at Avant Robotics.<br>
     - Qinghao Xu, Ph.D. Student (2026).<br>
     - Jiarong Li, Ph.D. Student (2026).<br>
-    - Xinyue Chai, MS Student (2026).<br>
+    - Xinyue Chai, MS Student (2026), now at ByteDance.<br>
     - Ruize Zhang, MS Student (2026), now at MiniMax.<br>
     - Changxu Wei, MS Student (2026), now Ph.D. Student at PolyU of HK.<br>
     - Xuan Zhang, MS Student (2026).<br>
