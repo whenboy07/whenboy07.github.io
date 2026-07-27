@@ -888,7 +888,7 @@ toc: true
     - Changxu Wei, MS Student (2026), now Ph.D. Student at PolyU of HK.<br>
     - Xuan Zhang, MS Student (2026).<br>
     - Ran Yu, MS Student (2026), now at Xsquare Robot.<br>
-    - Xingting Yang, MS Student (2026).<br>
+    - Xingting Yang, MS Student (2026), now at NetEase Games.<br>
     - Liguang Ruan, MS Student (2026), now at ByteDance.<br>
     - Enze Zhang, MS Student (2026), now Ph.D. Student at CityU of HK.<br>
     - Jingyang Wang, MS Student (2026), now at Shokz.<br>
