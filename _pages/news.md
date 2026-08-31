@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2026
+* [2026/08] Yan won first place in the library scenario event at the 2nd World Humanoid Robot Games. Congrats to Yan!
 * [2026/07] Our paper on wearable electronics got accepted by Nature Communications! Congrats to Yimeng and all the collaborators.
 * [2026/06] I am honored to receive the Sensors Young Investigator Award. Thank you for the recognition from the award committee and all the efforts from my group members. The interview could be found at: [https://www.mdpi.com/journal/sensors/announcements/17253](https://www.mdpi.com/journal/sensors/announcements/17253)
 * [2026/03] I am very honored to be invited to serve as the associate editor for IEEE Robotics and Autumation Letters (RA-L)!
