@@ -39,6 +39,7 @@ Please email me with a copy of your CV if you are interested.
 * **[2026/08] Yan won first place in the library scenario event at the 2nd World Humanoid Robot Games. Congrats to Yan!**
 * **[2026/01] Our work on biomimetic multimodal tactile sensor inspired by multispectral vision of pigeons (SuperTac) has been published on [Nature Sensors Volume 1](https://www.nature.com/articles/s44460-025-00006-y). Congrates to Shoujie and Tong!**
 * **[2025/09] Our work on flexible integrated robot has been accepted by Science Advances (SA) as front cover. Congrats to Xiaosa!**
+* [2026/09] Junhao won the first place in ECCV 2026 DexGraspMotion Challenge. Congrats to Junhao!
 * [2026/07] Our paper on wearable electronics got accepted by Nature Communications! Congrats to Yimeng and all the collaborators.
 * [2026/06] I am honored to receive the Sensors Young Investigator Award. Thank you for the recognition from the award committee and all the efforts from my group members. The interview could be found at: [https://www.mdpi.com/journal/sensors/announcements/17253](https://www.mdpi.com/journal/sensors/announcements/17253)
 * [2026/03] I am very honored to be invited to serve as the associate editor for IEEE Robotics and Autumation Letters (RA-L)!
