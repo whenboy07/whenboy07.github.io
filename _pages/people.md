@@ -806,6 +806,18 @@ toc: true
                 BS(UNC Chapel Hill)<br>
             </div>
         </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/ruslan.jpg" hover="../images/Member/ruslan.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Ruslan Ageev<br>
+                2025 -<br>
+            </div>
+            <div class="info2">
+                Ruslan Ageev<br>
+                RL<br>
+                <br>
+            </div>
+        </div>
     </div>
     <br>
     <br>
