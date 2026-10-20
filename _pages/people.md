@@ -815,7 +815,7 @@ toc: true
             <div class="info2">
                 Ruslan Ageev<br>
                 RL<br>
-                <br>
+                BS(HSE)<br>
             </div>
         </div>
     </div>
