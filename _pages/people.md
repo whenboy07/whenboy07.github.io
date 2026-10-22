@@ -203,7 +203,7 @@ toc: true
             </div>
             <div class="info2">
                 <a href="https://tongwu19.github.io/">Tong Wu</a><br>
-                Cross-Embodiment Learning<br>
+                Cross Embodiment<br>
                 BEng(THU)<br>
             </div>
         </div>
