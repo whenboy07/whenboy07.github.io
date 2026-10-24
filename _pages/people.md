@@ -285,7 +285,27 @@ toc: true
                 BEng(THU)<br>
             </div>
         </div>
+        <div class="memberimg">
+            <img class="img-circle" src="../images/Member/RunqingMiao.jpg" hover="../images/Member/RunqingMiao.jpg" style="height: 100%; width: 100%; object-fit: contain"> <br>
+            <div class="info1">
+                Runqing Miao<br>
+                2026 -<br>
+            </div>
+            <div class="info2">
+                Runqing Miao<br>
+                RL&ICL<br>
+                BS(BNU), M.E.(THU)<br>
+            </div>
+        </div>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <br>
     <br>
     <br>
