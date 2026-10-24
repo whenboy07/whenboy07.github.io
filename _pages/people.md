@@ -294,7 +294,8 @@ toc: true
             <div class="info2">
                 Runqing Miao<br>
                 RL&ICL<br>
-                BS(BNU), M.E.(THU)<br>
+                BS(BNU)<br>
+                M.E.(THU)<br>
             </div>
         </div>
     </div>
