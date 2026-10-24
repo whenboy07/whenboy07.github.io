@@ -295,7 +295,7 @@ toc: true
                 Runqing Miao<br>
                 RL&ICL<br>
                 BS(BNU)<br>
-                M.E.(THU)<br>
+                ME(THU)<br>
             </div>
         </div>
     </div>
